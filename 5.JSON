@@ -1,0 +1,332 @@
+[
+  {
+    "kanji": "食品衛生",
+    "hiragana": "しょくひんえいせい",
+    "arti": "kebersihan makanan / sanitasi makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "arti": "makan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "arti": "sakit / penyakit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "なる",
+    "arti": "menjadi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ケガ",
+    "arti": "luka / cedera",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "する",
+    "arti": "melakukan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "基本",
+    "hiragana": "きほん",
+    "arti": "dasar / asas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "次",
+    "hiragana": "つぎ",
+    "arti": "selanjutnya / berikut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "行動",
+    "hiragana": "こうどう",
+    "arti": "tindakan / perilaku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "arti": "mencuci tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業服",
+    "hiragana": "さぎょうふく",
+    "arti": "pakaian kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "arti": "sarung tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "arti": "benar / tepat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "着用",
+    "hiragana": "ちゃくよう",
+    "arti": "mengenakan / memakai (pakaian/alat)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "清潔",
+    "hiragana": "せいけつ",
+    "arti": "bersih",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "arti": "fasilitas / perlengkapan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "器具",
+    "hiragana": "きぐ",
+    "arti": "peralatan / instrumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "など",
+    "arti": "dan lain-lain",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "arti": "diputuskan / ditetapkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "arti": "suhu / temperatur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保管",
+    "hiragana": "ほかん",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "どんな",
+    "arti": "yang mana / seperti apa (diikuti kata benda)",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "とき",
+    "arti": "saat / waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "どこ",
+    "arti": "di mana",
+    "tipe": "Kata Ganti / Kata Keterangan"
+  },
+  {
+    "kanji": "作業場",
+    "hiragana": "さぎょうば",
+    "arti": "tempat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "共通",
+    "hiragana": "きょうつう",
+    "arti": "umum / bersama",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "行う",
+    "hiragana": "おこなう",
+    "arti": "melakukan / melaksanakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "基本的",
+    "hiragana": "きほんてき",
+    "arti": "mendasar / fundamental",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "衛生管理",
+    "hiragana": "えいせいかんり",
+    "arti": "manajemen kebersihan / sanitasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "一般衛生管理",
+    "hiragana": "いっぱんえいせいかんり",
+    "arti": "manajemen kebersihan umum (General Hygiene Management)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "arti": "mengatakan / disebut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "重要",
+    "hiragana": "じゅうよう",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "5S",
+    "hiragana": "エス",
+    "arti": "5S (konsep penataan lingkungan kerja)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "施設",
+    "hiragana": "しせつ",
+    "arti": "fasilitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業者",
+    "hiragana": "さぎょうしゃ",
+    "arti": "pekerja / operator",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "上",
+    "hiragana": "うえ",
+    "arti": "atas / setelah (melakukan sesuatu)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "種類",
+    "hiragana": "しゅるい",
+    "arti": "jenis / macam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "特徴",
+    "hiragana": "とくちょう",
+    "arti": "ciri khas / karakteristik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "応じる",
+    "hiragana": "おうじる",
+    "arti": "menyesuaikan / merespons (ni oujite)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "arti": "terutama / khususnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "工程",
+    "hiragana": "こうてい",
+    "arti": "proses / tahapan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "重要管理点",
+    "hiragana": "じゅうようかんりてん",
+    "arti": "Titik Kendali Kritis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "CCP",
+    "hiragana": "シーシーピー",
+    "arti": "Critical Control Point",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "arti": "memutuskan / menetapkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "管理",
+    "hiragana": "かんり",
+    "arti": "manajemen / pengelolaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "HACCP",
+    "hiragana": "ハサップ",
+    "arti": "HACCP (Sistem Manajemen Keamanan Pangan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "プラン",
+    "arti": "rencana / plan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "組み合わせる",
+    "hiragana": "くみあわせる",
+    "arti": "menggabungkan / mengkombinasikan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よる",
+    "arti": "berdasarkan / oleh (ni yoru)",
+    "tipe": "Kata Kerja"
+  }
+]
