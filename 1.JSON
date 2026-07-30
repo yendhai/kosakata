@@ -1,152 +1,38 @@
 [
   {
-    "kanji": "食品衛生",
-    "hiragana": "しょくひんえいせい",
-    "arti": "higiene makanan",
+    "kanji": "第",
+    "hiragana": "だい",
+    "arti": "ke- (awalan untuk nomor urut)[span_0](start_span)[span_0](end_span)",
+    "tipe": "Awalan"
+  },
+  {
+    "kanji": "章",
+    "hiragana": "しょう",
+    "arti": "bab[span_1](start_span)[span_1](end_span)",
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "食品",
-    "hiragana": "しょくひん",
-    "arti": "makanan / produk makanan",
+    "kanji": "飲食料品",
+    "hiragana": "いんしょくりょうひん",
+    "arti": "produk makanan dan minuman[span_2](start_span)[span_2](end_span)",
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "食べる",
-    "hiragana": "たべる",
-    "arti": "makan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "病気",
-    "hiragana": "びょうき",
-    "arti": "penyakit",
+    "kanji": "製造業",
+    "hiragana": "せいぞうぎょう",
+    "arti": "industri manufaktur / pabrikasi[span_3](start_span)[span_3](end_span)",
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "基本",
-    "hiragana": "きほん",
-    "arti": "dasar",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "行動",
-    "hiragana": "こうどう",
-    "arti": "tindakan / perilaku",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "手洗い",
-    "hiragana": "てあらい",
-    "arti": "cuci tangan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "作業服",
-    "hiragana": "さぎょうふく",
-    "arti": "pakaian kerja",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "手袋",
-    "hiragana": "てぶくろ",
-    "arti": "sarung tangan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "着用する",
-    "hiragana": "ちゃくようする",
-    "arti": "memakai / mengenakan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "清潔",
-    "hiragana": "せいけつ",
-    "arti": "bersih / higienis",
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "arti": "perlu / penting[span_4](start_span)[span_4](end_span)",
     "tipe": "Kata Sifat (na)"
   },
   {
-    "kanji": "設備",
-    "hiragana": "せつび",
-    "arti": "fasilitas / perlengkapan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "機械",
-    "hiragana": "きかい",
-    "arti": "mesin",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "器具",
-    "hiragana": "きぐ",
-    "arti": "peralatan / perkakas",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "使う",
-    "hiragana": "つかう",
-    "arti": "menggunakan / memakai",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "原材料",
-    "hiragana": "げんざいりょう",
-    "arti": "bahan baku",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "温度",
-    "hiragana": "おんど",
-    "arti": "suhu",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "保管する",
-    "hiragana": "ほかんする",
-    "arti": "menyimpan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "作業場",
-    "hiragana": "さぎょうじょう",
-    "arti": "tempat kerja / area kerja",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "一般衛生管理",
-    "hiragana": "いっぱんえいせいかんり",
-    "arti": "manajemen higiene umum",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "重要",
-    "hiragana": "じゅうよう",
-    "arti": "penting",
-    "tipe": "Kata Sifat (na)"
-  },
-  {
-    "kanji": "施設",
-    "hiragana": "しせつ",
-    "arti": "fasilitas / sarana",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "作業者",
-    "hiragana": "さぎょうしゃ",
-    "arti": "pekerja / operator",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "工程",
-    "hiragana": "こうてい",
-    "arti": "proses / tahapan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "重要管理点",
-    "hiragana": "じゅうようかんりてん",
-    "arti": "titik kendali kritis (CCP)",
+    "kanji": "技能",
+    "hiragana": "ぎのう",
+    "arti": "keterampilan / keahlian[span_5](start_span)[span_5](end_span)",
     "tipe": "Kata Benda"
   }
 ]
