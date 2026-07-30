@@ -1,0 +1,314 @@
+[
+  {
+    "kanji": "危害要因",
+    "hiragana": "きがいよういん",
+    "arti": "faktor bahaya / hazard",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "物理的危害要因",
+    "hiragana": "ぶつりてききがいよういん",
+    "arti": "faktor bahaya fisik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "化学적危害要因",
+    "hiragana": "かがくてききがいよういん",
+    "arti": "faktor bahaya kimia",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生物的危害要因",
+    "hiragana": "せいぶつてききがいよういん",
+    "arti": "faktor bahaya biologis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品製造",
+    "hiragana": "しょくひんせいぞう",
+    "arti": "manufaktur makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "気をつける",
+    "hiragana": "きをつける",
+    "arti": "berhati-hati",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "説明",
+    "hiragana": "せつめい",
+    "arti": "penjelasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "arti": "keras",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "歯",
+    "hiragana": "は",
+    "arti": "gigi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "欠ける",
+    "hiragana": "かける",
+    "arti": "patah / ompong / chipping",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "尖る",
+    "hiragana": "とがる",
+    "arti": "runcing / tajam",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "口の中",
+    "hiragana": "くちのなか",
+    "arti": "dalam mulut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "傷",
+    "hiragana": "きず",
+    "arti": "luka",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "物理的",
+    "hiragana": "ぶつりてき",
+    "arti": "secara fisik",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ケガ",
+    "arti": "luka / cedera",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "表",
+    "hiragana": "ひょう",
+    "arti": "tabel / daftar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "代表的",
+    "hiragana": "だいひょうてき",
+    "arti": "perwakilan / representatif / khas",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "金属片",
+    "hiragana": "きんぞくへん",
+    "arti": "serpihan logam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "片",
+    "hiragana": "へん",
+    "arti": "serpihan / potongan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "ガラス",
+    "hiragana": "ガラス",
+    "arti": "kaca",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいると",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品製造中",
+    "hiragana": "しょくひんせいぞうちゅう",
+    "arti": "selama produksi makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "プラスチック",
+    "arti": "plastik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "石",
+    "hiragana": "いし",
+    "arti": "batu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取り除く",
+    "hiragana": "とりのぞく",
+    "arti": "menyingkirkan / membuang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "arti": "selama",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "異物",
+    "hiragana": "いぶつ",
+    "arti": "benda asing",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "arti": "telur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "arti": "masakan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "殻",
+    "hiragana": "から",
+    "arti": "cangkang / kulit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "硬質異物",
+    "hiragana": "こうしついぶつ",
+    "arti": "benda asing keras",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "金属",
+    "hiragana": "きんぞく",
+    "arti": "logam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "混入",
+    "hiragana": "こんにゅう",
+    "arti": "pencampuran / kontaminasi (benda asing)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "防止",
+    "hiragana": "ぼうし",
+    "arti": "pencegahan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "土",
+    "hiragana": "つち",
+    "arti": "tanah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "小石",
+    "hiragana": "こいし",
+    "arti": "kerikil",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "arti": "sayur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "洗浄",
+    "hiragana": "せんじょう",
+    "arti": "pencucian / pembersihan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "選別",
+    "hiragana": "せんべつ",
+    "arti": "pemilahan / seleksi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "下処理",
+    "hiragana": "したしょり",
+    "arti": "persiapan awal / penanganan awal (bahan)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "根",
+    "hiragana": "ね",
+    "arti": "akar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "部分",
+    "hiragana": "ぶぶん",
+    "arti": "bagian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "切り取る",
+    "hiragana": "きりとる",
+    "arti": "memotong / memangkas",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "貝",
+    "hiragana": "かい",
+    "arti": "kerang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "arti": "ikan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "arti": "tulang",
+    "tipe": "Kata Benda"
+  }
+]
