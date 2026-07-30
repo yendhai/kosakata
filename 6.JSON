@@ -1,0 +1,194 @@
+[
+  {
+    "kanji": "",
+    "hiragana": "ハサップ",
+    "arti": "HACCP (Hazard Analysis and Critical Control Point)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "arti": "bahasa Jepang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "翻訳",
+    "hiragana": "ほんやく",
+    "arti": "terjemahan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "危害要因分析重要管理点",
+    "hiragana": "きがいよういんぶんせきじゅうようかんりてん",
+    "arti": "Analisis Bahaya dan Titik Kendali Kritis (HACCP)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "危害要因",
+    "hiragana": "きがいよういん",
+    "arti": "faktor bahaya (hazard)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "分析",
+    "hiragana": "ぶんせき",
+    "arti": "analisis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "重要管理点",
+    "hiragana": "じゅうようかんりてん",
+    "arti": "Titik Kendali Kritis (CCP)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "まま",
+    "arti": "dibiarkan begitu saja / dalam keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "管理",
+    "hiragana": "かんり",
+    "arti": "manajemen / pengelolaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "プラン",
+    "arti": "rencana / plan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "一般衛生管理",
+    "hiragana": "いっぱんえいせいかんり",
+    "arti": "manajemen kebersihan umum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "衛生管理",
+    "hiragana": "えいせいかんり",
+    "arti": "manajemen kebersihan / sanitasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "図",
+    "hiragana": "ず",
+    "arti": "gambar / bagan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "イメージ",
+    "arti": "gambar ilustrasi / bayangan (image)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ハザード",
+    "arti": "bahaya (hazard)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "arti": "sakit / penyakit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "なる",
+    "arti": "menjadi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ケガ",
+    "arti": "luka / cedera",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "する",
+    "arti": "melakukan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "arti": "makan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品製造",
+    "hiragana": "しょくひんせいぞう",
+    "arti": "manufaktur makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "arti": "mengatakan / disebut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "含む",
+    "hiragana": "ふくむ",
+    "arti": "mengandung / termasuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "arti": "kegiatan / aktivitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "これから",
+    "arti": "mulai sekarang / selanjutnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "",
+    "hiragana": "について",
+    "arti": "tentang / mengenai",
+    "tipe": "Ungkapan"
+  },
+  {
+    "kanji": "学習",
+    "hiragana": "がくしゅう",
+    "arti": "belajar / pembelajaran",
+    "tipe": "Kata Benda"
+  }
+]
