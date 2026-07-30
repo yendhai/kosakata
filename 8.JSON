@@ -1,0 +1,482 @@
+[
+  {
+    "kanji": "処理",
+    "hiragana": "しょり",
+    "arti": "pengolahan / penanganan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "終わる",
+    "hiragana": "おわる",
+    "arti": "selesai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "arti": "bahan / material",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "調理",
+    "hiragana": "ちょうり",
+    "arti": "memasak / pengolahan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保管",
+    "hiragana": "ほかん",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "蓋",
+    "hiragana": "ふた",
+    "arti": "tutup",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "虫",
+    "hiragana": "むし",
+    "arti": "serangga",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "髪の毛",
+    "hiragana": "かみのけ",
+    "arti": "rambut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "紙片",
+    "hiragana": "しへん",
+    "arti": "serpihan kertas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "arti": "keras",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "異物",
+    "hiragana": "いぶつ",
+    "arti": "benda asing",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "口の中",
+    "hiragana": "くちのなか",
+    "arti": "dalam mulut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "のど",
+    "arti": "tenggorokan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "傷",
+    "hiragana": "きず",
+    "arti": "luka",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出来る",
+    "hiragana": "できる",
+    "arti": "dapat / terbentuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "物理的危害要因",
+    "hiragana": "ぶつりてききがいよういん",
+    "arti": "faktor bahaya fisik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "しかし",
+    "arti": "namun / tetapi",
+    "tipe": "Kata Sambung"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "不潔",
+    "hiragana": "ふけつ",
+    "arti": "tidak bersih / kotor",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "不衛生",
+    "hiragana": "ふえいせい",
+    "arti": "tidak higienis",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "思う",
+    "hiragana": "おもう",
+    "arti": "mengira / menganggap",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "苦情",
+    "hiragana": "くじょう",
+    "arti": "keluhan / komplain",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "クレーム",
+    "arti": "klaim / komplain",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "返品",
+    "hiragana": "へんぴん",
+    "arti": "pengembalian barang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "繋がる",
+    "hiragana": "つながる",
+    "arti": "berujung / terhubung",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "発見",
+    "hiragana": "はっけん",
+    "arti": "penemuan / mendapati",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すぐ",
+    "arti": "segera",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "arti": "pekerjaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "止める",
+    "hiragana": "とめる",
+    "arti": "menghentikan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "責任者",
+    "hiragana": "せきにんしゃ",
+    "arti": "penanggung jawab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "報告",
+    "hiragana": "ほうこく",
+    "arti": "laporan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "arti": "perusahaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "信用",
+    "hiragana": "しんよう",
+    "arti": "kepercayaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "落とする",
+    "hiragana": "おとす",
+    "arti": "menjatuhkan / merusak",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "化学的危害要因",
+    "hiragana": "かがくてききがいよういん",
+    "arti": "faktor bahaya kimia",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "物質",
+    "hiragana": "ぶっしつ",
+    "arti": "zat / substansi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "アレルギー物質",
+    "hiragana": "アレルギーぶっしつ",
+    "arti": "zat alergen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ヒスタミン",
+    "arti": "histamin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "じゃがいも",
+    "arti": "kentang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "芽",
+    "hiragana": "め",
+    "arti": "tunas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "含む",
+    "hiragana": "ふくむ",
+    "arti": "mengandung",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ソラニン",
+    "arti": "solanin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "殺菌剤",
+    "hiragana": "さっきんざい",
+    "arti": "bakterisida / zat pembunuh kuman",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "薬剤",
+    "hiragana": "やくざい",
+    "arti": "agen kimia / obat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "化学物質",
+    "hiragana": "かがくぶっしつ",
+    "arti": "zat kimia",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "アレルギー反応",
+    "hiragana": "アレルギーはんのう",
+    "arti": "reaksi alergi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アレルゲン",
+    "arti": "alergen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "体",
+    "hiragana": "からだ",
+    "arti": "tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "過剰",
+    "hiragana": "かじょう",
+    "arti": "berlebihan",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "反応",
+    "hiragana": "はんのう",
+    "arti": "reaksi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よくない",
+    "arti": "tidak baik",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "症状",
+    "hiragana": "しょうじょう",
+    "arti": "gejala",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出る",
+    "hiragana": "でる",
+    "arti": "muncul / keluar",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かゆみ",
+    "arti": "rasa gatal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "じんましん",
+    "arti": "biduran / biduran (hives)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "唇",
+    "hiragana": "くちびる",
+    "arti": "bibir",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "まぶた",
+    "arti": "kelopak mata",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腫れ",
+    "hiragana": "はれ",
+    "arti": "pembengkakan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "鼻水",
+    "hiragana": "はなみず",
+    "arti": "pilek / air hidung",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "くしゃみ",
+    "arti": "bersin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "止まる",
+    "hiragana": "とまる",
+    "arti": "berhenti",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "息",
+    "hiragana": "いき",
+    "arti": "napas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出来る",
+    "hiragana": "できない",
+    "arti": "tidak bisa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "吐き気",
+    "hiragana": "はきけ",
+    "arti": "mual",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "arti": "berat / parah",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "死ぬ",
+    "hiragana": "しぬ",
+    "arti": "meninggal / mati",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "arti": "Jepang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "法律",
+    "hiragana": "ほうりつ",
+    "arti": "hukum / undang-undang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "発症数",
+    "hiragana": "はっしょうすう",
+    "arti": "jumlah kasus timbulnya penyakit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "arti": "banyak",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "加工食品",
+    "hiragana": "かこうしょくひん",
+    "arti": "makanan olahan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "表示",
+    "hiragana": "ひょうじ",
+    "arti": "pelabelan / indikasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "義務",
+    "hiragana": "ぎむ",
+    "arti": "kewajiban",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "特定原材料",
+    "hiragana": "とくていげんざいりょう",
+    "arti": "bahan baku tertentu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "推奨",
+    "hiragana": "すいしょう",
+    "arti": "rekomendasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "特定原材料に準ずるもの",
+    "hiragana": "とくていげんざいりょうにじゅんずるもの",
+    "arti": "hal yang setara dengan bahan baku tertentu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "arti": "arti / makna",
+    "tipe": "Kata Benda"
+  }
+]
