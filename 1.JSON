@@ -2,37 +2,37 @@
   {
     "kanji": "第",
     "hiragana": "だい",
-    "arti": "ke- (awalan untuk nomor urut)[span_0](start_span)[span_0](end_span)",
+    "arti": "ke- (awalan untuk nomor urut)",
     "tipe": "Awalan"
   },
   {
     "kanji": "章",
     "hiragana": "しょう",
-    "arti": "bab[span_1](start_span)[span_1](end_span)",
+    "arti": "bab",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "飲食料品",
     "hiragana": "いんしょくりょうひん",
-    "arti": "produk makanan dan minuman[span_2](start_span)[span_2](end_span)",
+    "arti": "produk makanan dan minuman",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "製造業",
     "hiragana": "せいぞうぎょう",
-    "arti": "industri manufaktur / pabrikasi[span_3](start_span)[span_3](end_span)",
+    "arti": "industri manufaktur / pabrikasi",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "必要",
     "hiragana": "ひつよう",
-    "arti": "perlu / penting[span_4](start_span)[span_4](end_span)",
+    "arti": "perlu / penting",
     "tipe": "Kata Sifat (na)"
   },
   {
     "kanji": "技能",
     "hiragana": "ぎのう",
-    "arti": "keterampilan / keahlian[span_5](start_span)[span_5](end_span)",
+    "arti": "keterampilan / keahlian",
     "tipe": "Kata Benda"
   }
 ]
