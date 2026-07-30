@@ -1,38 +1,50 @@
 [
   {
+    "kanji": "第1章",
+    "hiragana": "だいいっしょう",
+    "arti": "Bab 1",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "第",
     "hiragana": "だい",
-    "arti": "ke- (awalan untuk nomor urut)",
-    "tipe": "Awalan"
+    "arti": "Awalan untuk urutan (ke-)",
+    "tipe": "Kata Benda"
   },
   {
     "kanji": "章",
     "hiragana": "しょう",
-    "arti": "bab",
+    "arti": "Bab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "飲食料品製造業",
+    "hiragana": "いんしょくりょうひんせいぞうぎょう",
+    "arti": "Industri manufaktur makanan dan minuman",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "飲食料品",
     "hiragana": "いんしょくりょうひん",
-    "arti": "produk makanan dan minuman",
+    "arti": "Produk makanan dan minuman",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "製造業",
     "hiragana": "せいぞうぎょう",
-    "arti": "industri manufaktur / pabrikasi",
+    "arti": "Industri manufaktur / Pabrik",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "必要",
     "hiragana": "ひつよう",
-    "arti": "perlu / penting",
+    "arti": "Perlu / Penting",
     "tipe": "Kata Sifat (na)"
   },
   {
     "kanji": "技能",
     "hiragana": "ぎのう",
-    "arti": "keterampilan / keahlian",
+    "arti": "Keterampilan / Keahlian",
     "tipe": "Kata Benda"
   }
 ]
