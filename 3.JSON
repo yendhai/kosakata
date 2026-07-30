@@ -1,0 +1,350 @@
+[
+  {
+    "kanji": "特定技能",
+    "hiragana": "とくていぎのう",
+    "arti": "keterampilan khusus (Specified Skilled Worker)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "１号",
+    "hiragana": "いちごう",
+    "arti": "nomor 1 / tipe 1",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "arti": "perlu / penting",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "技能",
+    "hiragana": "ぎのう",
+    "arti": "keterampilan / keahlian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "飲食料品製造業",
+    "hiragana": "いんしょくりょうひんせいぞうぎょう",
+    "arti": "industri manufaktur makanan dan minuman",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "在留資格者",
+    "hiragana": "ざいりゅうしかくしゃ",
+    "arti": "pemegang status izin tinggal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "働く",
+    "hiragana": "はたらく",
+    "arti": "bekerja",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "業種",
+    "hiragana": "ぎょうしゅ",
+    "arti": "jenis industri / jenis usaha",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "畜産食料品製造業",
+    "hiragana": "ちくさんしょくりょうひんせいぞうぎょう",
+    "arti": "industri manufaktur produk makanan hewani (peternakan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水産食料品製造業",
+    "hiragana": "すいさんしょくりょうひんせいぞうぎょう",
+    "arti": "industri manufaktur produk makanan laut (perikanan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "調味料製造業",
+    "hiragana": "ちょうみりょうせいぞうぎょう",
+    "arti": "industri manufaktur bumbu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "パン・菓子製造業",
+    "hiragana": "パン・かしせいぞうぎょう",
+    "arti": "industri manufaktur roti dan kue",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "そう菜製造業",
+    "hiragana": "そうさいせいぞうぎょう",
+    "arti": "industri manufaktur lauk pauk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷凍調理食品製造業",
+    "hiragana": "れいとうちょうりしょくひんせいぞうぎょう",
+    "arti": "industri manufaktur makanan olahan beku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "清涼飲料製造業",
+    "hiragana": "せいりょういんりょうせいぞうぎょう",
+    "arti": "industri manufaktur minuman ringan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "どの",
+    "arti": "yang mana / apa pun (diikuti kata benda)",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "食品衛生",
+    "hiragana": "しょくひんえいせい",
+    "arti": "kebersihan makanan / sanitasi makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "労働安全",
+    "hiragana": "ろうどうあんぜん",
+    "arti": "keselamatan kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "知識",
+    "hiragana": "ちしき",
+    "arti": "pengetahuan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生命",
+    "hiragana": "せいめい",
+    "arti": "nyawa / kehidupan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "いのち",
+    "arti": "nyawa",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "衛る",
+    "hiragana": "まもる",
+    "arti": "menjaga / melindungi (kesehatan/kebersihan)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "守る",
+    "hiragana": "まもる",
+    "arti": "melindungi / mematuhi (aturan)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "arti": "makan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "arti": "sakit / penyakit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "なる",
+    "arti": "menjadi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ケガ",
+    "arti": "luka / cedera",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "管理",
+    "hiragana": "かんり",
+    "arti": "manajemen / pengelolaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "衛生管理",
+    "hiragana": "えいせいかんり",
+    "arti": "manajemen kebersihan / sanitasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "十分",
+    "hiragana": "じゅうぶん",
+    "arti": "cukup",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "arti": "aman / keselamatan",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "arti": "perusahaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "信用",
+    "hiragana": "しんよう",
+    "arti": "kepercayaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "なくす",
+    "arti": "menghilangkan / kehilangan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "arti": "pabrik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "労働災害",
+    "hiragana": "ろうどうさいがい",
+    "arti": "kecelakaan kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "起きる",
+    "hiragana": "おきる",
+    "arti": "terjadi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業場",
+    "hiragana": "さぎょうば",
+    "arti": "tempat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業服",
+    "hiragana": "さぎょうふく",
+    "arti": "pakaian kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ヘルメット",
+    "arti": "helm",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "安全保護具",
+    "hiragana": "あんぜんほごぐ",
+    "arti": "alat pelindung keselamatan (APD)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "arti": "benar / tepat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "着用",
+    "hiragana": "ちゃくよう",
+    "arti": "mengenakan / memakai (pakaian/alat)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "そして",
+    "arti": "lalu / kemudian / dan",
+    "tipe": "Kata Sambung"
+  },
+  {
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "arti": "ditentukan / diputuskan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ルール",
+    "arti": "aturan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業手順書",
+    "hiragana": "さぎょうてじゅんしょ",
+    "arti": "buku panduan langkah kerja / SOP",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "arti": "pekerjaan / operasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "行う",
+    "hiragana": "おこなう",
+    "arti": "melakukan / melaksanakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "器具",
+    "hiragana": "きぐ",
+    "arti": "peralatan / instrumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業者",
+    "hiragana": "さぎょうしゃ",
+    "arti": "pekerja / operator",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "arti": "kesehatan",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "",
+    "hiragana": "マニュアル",
+    "arti": "manual / buku panduan",
+    "tipe": "Kata Benda"
+  }
+]
