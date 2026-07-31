@@ -1,0 +1,320 @@
+[
+  {
+    "kanji": "物質",
+    "hiragana": "ぶっしつ",
+    "arti": "zat / materi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "含む",
+    "hiragana": "ふくむ",
+    "arti": "mengandung",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "arti": "kasus / situasi / jika",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "arti": "ikan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "arti": "masakan / hidangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "arti": "makan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "アレルギー反応",
+    "hiragana": "アレルギーはんのう",
+    "arti": "reaksi alergi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "似る",
+    "hiragana": "にる",
+    "arti": "mirip / menyerupai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "症状",
+    "hiragana": "しょうじょう",
+    "arti": "gejala",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "起こる",
+    "hiragana": "おこる",
+    "arti": "terjadi / muncul",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食中毒",
+    "hiragana": "しょくちゅうどく",
+    "arti": "keracunan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "arti": "berkata / disebut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "保存状態",
+    "hiragana": "ほぞんじょうたい",
+    "arti": "kondisi penyimpanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "arti": "buruk",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "arti": "bertambah / meningkat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "受け入れる",
+    "hiragana": "うけいれる",
+    "arti": "menerima",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すぐ",
+    "arti": "segera",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "冷蔵",
+    "hiragana": "れいぞう",
+    "arti": "pendinginan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷凍",
+    "hiragana": "れいとう",
+    "arti": "pembekuan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "arti": "perlu / penting",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ソラニン",
+    "arti": "solanin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "じゃがいも",
+    "arti": "kentang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "芽",
+    "hiragana": "め",
+    "arti": "tunas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "緑色",
+    "hiragana": "みどりいろ",
+    "arti": "warna hijau",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "皮",
+    "hiragana": "かわ",
+    "arti": "kulit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "吐き気",
+    "hiragana": "はきけ",
+    "arti": "mual",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "おう吐",
+    "hiragana": "おうと",
+    "arti": "muntah",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "下痢",
+    "hiragana": "げり",
+    "arti": "diare",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "arti": "sakit perut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "頭痛",
+    "hiragana": "ずつう",
+    "arti": "sakit kepala",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "部分",
+    "hiragana": "ぶぶん",
+    "arti": "bagian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取り除く",
+    "hiragana": "とりのぞく",
+    "arti": "menyingkirkan / membuang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "arti": "mencegah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "生物的危害要因",
+    "hiragana": "せいぶつてききがいよういん",
+    "arti": "faktor bahaya biologis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "危害要因",
+    "hiragana": "きがいよういん",
+    "arti": "faktor bahaya",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "arti": "dalam / di antara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "細菌",
+    "hiragana": "さいきん",
+    "arti": "bakteri",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ウイルス",
+    "arti": "virus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "寄生虫",
+    "hiragana": "きせいちゅう",
+    "arti": "parasit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "カビ",
+    "arti": "jamur (mold)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "arti": "penyakit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "病原性微生物",
+    "hiragana": "びょうげんせいびせいぶつ",
+    "arti": "mikroorganisme patogen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "微生物",
+    "hiragana": "びせいぶつ",
+    "arti": "mikroorganisme",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "顕微鏡",
+    "hiragana": "けんびきょう",
+    "arti": "mikroskop",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "見えない",
+    "hiragana": "みえない",
+    "arti": "tidak terlihat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "arti": "kecil",
+    "tipe": "Kata Sifat (Pre-nomina)"
+  },
+  {
+    "kanji": "生き物",
+    "hiragana": "いきもの",
+    "arti": "makhluk hidup",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "arti": "makna / arti",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食中毒菌",
+    "hiragana": "しょくちゅうどくきん",
+    "arti": "bakteri keracunan makanan",
+    "tipe": "Kata Benda"
+  }
+]
