@@ -1,0 +1,422 @@
+[
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "arti": "menetapkan / menentukan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "arti": "suhu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "arti": "waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加熱",
+    "hiragana": "かねつ",
+    "arti": "pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "重要",
+    "hiragana": "じゅうよう",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "多く",
+    "hiragana": "おおく",
+    "arti": "banyak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食中毒菌",
+    "hiragana": "しょくちゅうどくきん",
+    "arti": "bakteri keracunan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "殺菌",
+    "hiragana": "さっきん",
+    "arti": "sterilisasi / pembasmian kuman",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "芽胞",
+    "hiragana": "がほう",
+    "arti": "spora",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やっつける",
+    "arti": "membasmi / mengalahkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "殺す",
+    "hiragana": "ころす",
+    "arti": "membunuh",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "厳しい",
+    "hiragana": "きびしい",
+    "arti": "ketat / keras",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "条件",
+    "hiragana": "じょうけん",
+    "arti": "syarat / kondisi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "arti": "perlu / penting",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "arti": "kasus / situasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "薬剤",
+    "hiragana": "やくざい",
+    "arti": "obat / agen kimia",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "調理",
+    "hiragana": "ちょうり",
+    "arti": "memasak",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "濃度",
+    "hiragana": "のうど",
+    "arti": "konsentrasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "全体",
+    "hiragana": "ぜんたい",
+    "arti": "keseluruhan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "arti": "semua / seluruhnya",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "セレウスきん",
+    "arti": "bakteri Bacillus cereus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ウェルシュきん",
+    "arti": "bakteri Clostridium perfringens",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ゆっくり",
+    "arti": "perlahan-lahan",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "下がる",
+    "hiragana": "さがる",
+    "arti": "turun",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "arti": "selama / di antara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "arti": "bertambah / meningkat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "終わる",
+    "hiragana": "おわる",
+    "arti": "selesai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すぐに",
+    "arti": "segera",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "冷やす",
+    "hiragana": "ひやす",
+    "arti": "mendinginkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ウイルス",
+    "arti": "virus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "代表的",
+    "hiragana": "だいひょうてき",
+    "arti": "representatif / khas",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ノロウイルス",
+    "arti": "norovirus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "牡蠣",
+    "hiragana": "かき",
+    "arti": "tiram",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "二枚貝",
+    "hiragana": "にまいがい",
+    "arti": "kerang bercangkang dua (bivalvia)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚染",
+    "hiragana": "おせん",
+    "arti": "kontaminasi / pencemaran",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "感染",
+    "hiragana": "かんせん",
+    "arti": "infeksi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "体",
+    "hiragana": "からだ",
+    "arti": "tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腸",
+    "hiragana": "ちょう",
+    "arti": "usus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "arti": "sakit perut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "下痢",
+    "hiragana": "げり",
+    "arti": "diare",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "おう吐",
+    "hiragana": "おうと",
+    "arti": "muntah",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "症状",
+    "hiragana": "しょうじょう",
+    "arti": "gejala",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "arti": "menimbulkan / menyebabkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "大便",
+    "hiragana": "だいべん",
+    "arti": "tinja / feses",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "吐いたもの",
+    "hiragana": "はいたもの",
+    "arti": "muntahan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "基本",
+    "hiragana": "きほん",
+    "arti": "dasar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "しっかり",
+    "arti": "dengan baik / sungguh-sungguh",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "arti": "cuci tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "arti": "terutama",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "",
+    "hiragana": "トイレ",
+    "arti": "toilet",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "行く",
+    "hiragana": "いく",
+    "arti": "pergi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "中心温度",
+    "hiragana": "ちゅうしんおんど",
+    "arti": "suhu pusat (core temperature)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アルコール",
+    "arti": "alkohol",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "消毒",
+    "hiragana": "しょうどく",
+    "arti": "disinfeksi / sterilisasi kuman",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "死ぬ",
+    "hiragana": "しぬ",
+    "arti": "mati",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "器具",
+    "hiragana": "きぐ",
+    "arti": "peralatan / instrumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "洗浄",
+    "hiragana": "せんじょう",
+    "arti": "pencucian / pembersihan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "次亜塩素酸ナトリウム溶液",
+    "hiragana": "じあえんそさんナトリウムようえき",
+    "arti": "larutan natrium hipoklorit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "布巾",
+    "hiragana": "ふきん",
+    "arti": "kain lap / serbet",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "拭く",
+    "hiragana": "ふく",
+    "arti": "mengelap / menyeka",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "予防",
+    "hiragana": "よぼう",
+    "arti": "pencegahan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "原則",
+    "hiragana": "げんそく",
+    "arti": "prinsip",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "対策",
+    "hiragana": "たいさく",
+    "arti": "langkah-langkah / tindakan (solusi)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "有効",
+    "hiragana": "ゆうこう",
+    "arti": "efektif / berlaku",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  }
+]
