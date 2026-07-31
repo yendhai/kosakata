@@ -1,0 +1,422 @@
+[
+  {
+    "kanji": "代表的",
+    "hiragana": "だいひょうてき",
+    "arti": "representatif / khas",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "食中毒菌",
+    "hiragana": "しょくちゅうどくきん",
+    "arti": "bakteri keracunan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "症状",
+    "hiragana": "しょうじょう",
+    "arti": "gejala",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "芽胞",
+    "hiragana": "がほう",
+    "arti": "spora",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "殻",
+    "hiragana": "から",
+    "arti": "cangkang / kulit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "被る",
+    "hiragana": "かぶる",
+    "arti": "memakai / menutupi (kepala)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "細菌",
+    "hiragana": "さいきん",
+    "arti": "bakteri",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "種",
+    "hiragana": "たね",
+    "arti": "biji / benih",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "通常",
+    "hiragana": "つうじょう",
+    "arti": "biasanya / normal",
+    "tipe": "Kata Benda / Kata Keterangan"
+  },
+  {
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "arti": "panas / demam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "死ぬ",
+    "hiragana": "しぬ",
+    "arti": "mati",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "乾燥",
+    "hiragana": "かんそう",
+    "arti": "kering / pengeringan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "育つ",
+    "hiragana": "そだつ",
+    "arti": "tumbuh / berkembang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "環境",
+    "hiragana": "かんきょう",
+    "arti": "lingkungan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "一部",
+    "hiragana": "いちぶ",
+    "arti": "sebagian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "生き残る",
+    "hiragana": "いきのこる",
+    "arti": "bertahan hidup",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "戻る",
+    "hiragana": "もどる",
+    "arti": "kembali",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "arti": "bertambah / meningkat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "始める",
+    "hiragana": "はじめる",
+    "arti": "mulai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "名称",
+    "hiragana": "めいしょう",
+    "arti": "nama / sebutan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "特徴",
+    "hiragana": "とくちょう",
+    "arti": "ciri khas / karakteristik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "主な",
+    "hiragana": "おもな",
+    "arti": "utama",
+    "tipe": "Kata Sifat (Pre-nomina)"
+  },
+  {
+    "kanji": "カンピロバクター属菌",
+    "hiragana": "カンピロバクターぞくきん",
+    "arti": "bakteri genus Campylobacter",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "体",
+    "hiragana": "からだ",
+    "arti": "tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "菌",
+    "hiragana": "きん",
+    "arti": "kuman / bakteri",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "発症",
+    "hiragana": "はっしょう",
+    "arti": "timbulnya penyakit",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "食肉",
+    "hiragana": "しょくにく",
+    "arti": "daging konsumsi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "arti": "terutama",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "鶏肉",
+    "hiragana": "とりにく",
+    "arti": "daging ayam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "下痢",
+    "hiragana": "げり",
+    "arti": "diare",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "arti": "sakit perut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "発熱",
+    "hiragana": "はつねつ",
+    "arti": "demam",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "サルモネラ属菌",
+    "hiragana": "サルモネラぞくきん",
+    "arti": "bakteri genus Salmonella",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "鶏卵",
+    "hiragana": "けいらん",
+    "arti": "telur ayam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腸炎ビブリオ",
+    "hiragana": "ちょうえんビブリオ",
+    "arti": "Vibrio parahaemolyticus (bakteri usus)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "毒素",
+    "hiragana": "どくそ",
+    "arti": "toksin / racun",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "魚介類",
+    "hiragana": "ぎょかいるい",
+    "arti": "makanan laut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "激しい",
+    "hiragana": "はげしい",
+    "arti": "hebat / parah",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "腸管出血性大腸菌",
+    "hiragana": "ちょうかんしゅっけつせいだいちょうきん",
+    "arti": "E. coli enterohemoragik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "arti": "daging sapi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "arti": "sayuran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "井戸水",
+    "hiragana": "いどみず",
+    "arti": "air sumur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "血便",
+    "hiragana": "けつべん",
+    "arti": "tinja berdarah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "黄色ブドウ球菌",
+    "hiragana": "おうしょくブドウきゅうきん",
+    "arti": "Staphylococcus aureus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "皮膚",
+    "hiragana": "ひふ",
+    "arti": "kulit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "傷口",
+    "hiragana": "きずぐち",
+    "arti": "luka terbuka",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "arti": "kuat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "",
+    "hiragana": "おにぎり",
+    "arti": "bola nasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "サンドイッチ",
+    "arti": "roti lapis / sandwich",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "吐き気",
+    "hiragana": "はきけ",
+    "arti": "mual",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "おう吐",
+    "hiragana": "おうと",
+    "arti": "muntah",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "セレウス菌",
+    "hiragana": "セレウスきん",
+    "arti": "Bacillus cereus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "穀物加工品",
+    "hiragana": "こくもつかこうひん",
+    "arti": "produk olahan biji-bijian/sereal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "炒飯",
+    "hiragana": "チャーハン",
+    "arti": "nasi goreng",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "ウェルシュ菌",
+    "hiragana": "ウェルシュきん",
+    "arti": "Clostridium perfringens",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "土",
+    "hiragana": "つち",
+    "arti": "tanah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水",
+    "hiragana": "みず",
+    "arti": "air",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "カレー",
+    "arti": "kari",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "シチュー",
+    "arti": "sup kental / rebusan / stew",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加熱調理",
+    "hiragana": "かねつちょうり",
+    "arti": "pengolahan dengan pemanasan / memasak",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "ボツリヌス菌",
+    "hiragana": "ボツリヌスきん",
+    "arti": "Clostridium botulinum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "瓶詰め食品",
+    "hiragana": "びんづめしょくひん",
+    "arti": "makanan dalam botol kaca",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "レトルト食品",
+    "hiragana": "レトルトしょくひん",
+    "arti": "makanan retort (siap saji)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "呼吸困難",
+    "hiragana": "こきゅうこんなん",
+    "arti": "kesulitan bernapas",
+    "tipe": "Kata Benda"
+  }
+]
