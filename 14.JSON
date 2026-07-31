@@ -1,0 +1,356 @@
+[
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食中毒",
+    "hiragana": "しょくちゅうどく",
+    "arti": "keracunan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "予防",
+    "hiragana": "よぼう",
+    "arti": "pencegahan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "食品製造工場",
+    "hiragana": "しょくひんせいぞうこうじょう",
+    "arti": "pabrik pengolahan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "arti": "membawa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "重要",
+    "hiragana": "じゅうよう",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "arti": "sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業者",
+    "hiragana": "さぎょうしゃ",
+    "arti": "pekerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "感染",
+    "hiragana": "かんせん",
+    "arti": "infeksi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "arti": "konfirmasi / memastikan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "arti": "perlu / penting",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "arti": "cuci tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "消毒",
+    "hiragana": "しょうどく",
+    "arti": "disinfeksi / sterilisasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "吐物",
+    "hiragana": "とぶつ",
+    "arti": "muntahan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "専門",
+    "hiragana": "せんもん",
+    "arti": "spesialis / khusus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "用具",
+    "hiragana": "ようぐ",
+    "arti": "peralatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "arti": "benar / tepat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "処理",
+    "hiragana": "しょり",
+    "arti": "penanganan / pemrosesan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "拡げる",
+    "hiragana": "ひろげる",
+    "arti": "memperluas / menyebarkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "arti": "mencegah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "微生物",
+    "hiragana": "びせいぶつ",
+    "arti": "mikroorganisme",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "増殖",
+    "hiragana": "ぞうしょく",
+    "arti": "perkembangbiakan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "目",
+    "hiragana": "め",
+    "arti": "mata",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "見える",
+    "hiragana": "みえる",
+    "arti": "terlihat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "胞子",
+    "hiragana": "ほうし",
+    "arti": "spora",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "存在",
+    "hiragana": "そんざい",
+    "arti": "keberadaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "完全",
+    "hiragana": "かんぜん",
+    "arti": "sempurna / sepenuhnya",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "無くなる",
+    "hiragana": "なくなる",
+    "arti": "hilang / habis",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "豆",
+    "hiragana": "まめ",
+    "arti": "kacang-kacangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "穀類",
+    "hiragana": "こくりい",
+    "arti": "biji-bijian / sereal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "arti": "sayuran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "arti": "buah-buahan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保存中",
+    "hiragana": "ほぞんちゅう",
+    "arti": "selama penyimpanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生える",
+    "hiragana": "はえる",
+    "arti": "tumbuh (berjamur/berlumut)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "寄生虫",
+    "hiragana": "きせいちゅう",
+    "arti": "parasit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "arti": "hewan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "栄養",
+    "hiragana": "えいよう",
+    "arti": "nutrisi / gizi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取る",
+    "hiragana": "とる",
+    "arti": "mengambil / mendapatkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "表面",
+    "hiragana": "ひょうめん",
+    "arti": "permukaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "体内",
+    "hiragana": "たいない",
+    "arti": "dalam tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "魚介類",
+    "hiragana": "ぎょかいるい",
+    "arti": "makanan laut / ikan dan kerang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "寄生",
+    "hiragana": "きせい",
+    "arti": "parasitisme / berparasit",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "生",
+    "hiragana": "なま",
+    "arti": "mentah",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "arti": "makan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "激しい",
+    "hiragana": "はげしい",
+    "arti": "hebat / parah",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "arti": "sakit perut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "arti": "menimbulkan / menyebabkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "加熱",
+    "hiragana": "かねつ",
+    "arti": "pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "殺す",
+    "hiragana": "ころす",
+    "arti": "membunuh",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "冷凍",
+    "hiragana": "れいとう",
+    "arti": "pembekuan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "一般衛生管理",
+    "hiragana": "いっぱんえいせいかんり",
+    "arti": "manajemen kebersihan umum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業場",
+    "hiragana": "さぎょうじょう",
+    "arti": "tempat kerja / area kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "共通",
+    "hiragana": "きょうつう",
+    "arti": "umum / bersama",
+    "tipe": "Kata Benda / Kata Kerja"
+  }
+]
