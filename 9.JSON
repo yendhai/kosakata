@@ -1,0 +1,548 @@
+[
+  {
+    "kanji": "特定原材料",
+    "hiragana": "とくていげんざいりょう",
+    "arti": "bahan baku tertentu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "表示義務",
+    "hiragana": "ひょうじぎむ",
+    "arti": "kewajiban pelabelan / kewajiban mencantumkan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "品目",
+    "hiragana": "ひんもく",
+    "arti": "item / jenis barang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "えび",
+    "arti": "udang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かに",
+    "arti": "kepiting",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "くるみ",
+    "arti": "kenari / walnut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "小麦",
+    "hiragana": "こむぎ",
+    "arti": "gandum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "そば",
+    "arti": "soba (mie Jepang / gandum kuda)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "注",
+    "hiragana": "ちゅう",
+    "arti": "catatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "年",
+    "hiragana": "ねん",
+    "arti": "tahun",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "月",
+    "hiragana": "がつ",
+    "arti": "bulan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "日",
+    "hiragana": "にち / か",
+    "arti": "hari / tanggal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "より",
+    "arti": "dari / sejak",
+    "tipe": "Kata Keterangan / Partikel"
+  },
+  {
+    "kanji": "準ずる",
+    "hiragana": "じゅんずる",
+    "arti": "setara dengan / berlaku mutatis mutandis",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "移す",
+    "hiragana": "うつす",
+    "arti": "memindahkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "表示",
+    "hiragana": "ひょうじ",
+    "arti": "pelabelan / indikasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "推奨",
+    "hiragana": "すいしょう",
+    "arti": "rekomendasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "乳",
+    "hiragana": "にゅう",
+    "arti": "susu / produk susu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "落花生",
+    "hiragana": "らっかせい",
+    "arti": "kacang tanah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ピーナッツ",
+    "arti": "kacang tanah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アーモンド",
+    "arti": "almond",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "あわび",
+    "arti": "abalon",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "いか",
+    "arti": "cumi-cumi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "いくら",
+    "arti": "telur ikan salmon",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "オレンジ",
+    "arti": "jeruk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "カシューナッツ",
+    "arti": "kacang mete",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "キウイフルーツ",
+    "arti": "buah kiwi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "arti": "daging sapi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ごま",
+    "arti": "wijen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "さけ",
+    "arti": "ikan salmon",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "さば",
+    "arti": "ikan makarel",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "大豆",
+    "hiragana": "だいず",
+    "arti": "kacang kedelai",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "鶏肉",
+    "hiragana": "とりにく",
+    "arti": "daging ayam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "バナナ",
+    "arti": "pisang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "arti": "daging babi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "まつたけ",
+    "arti": "jamur matsutake",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "桃",
+    "hiragana": "もも",
+    "arti": "buah persik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やまいも",
+    "arti": "ubi gunung / ubi jepang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "りんご",
+    "arti": "apel",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ゼラチン",
+    "arti": "gelatin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "物質",
+    "hiragana": "ぶっしつ",
+    "arti": "zat / materi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "含む",
+    "hiragana": "ふくむ",
+    "arti": "mengandung / mencakup",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "調理",
+    "hiragana": "ちょうり",
+    "arti": "memasak / menyiapkan makanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "器具",
+    "hiragana": "きぐ",
+    "arti": "peralatan / instrumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "そのまま",
+    "arti": "begitu saja / seperti adanya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "次",
+    "hiragana": "つぎ",
+    "arti": "selanjutnya / berikutnya",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "必ず",
+    "hiragana": "かならず",
+    "arti": "pasti / harus / selalu",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "洗浄",
+    "hiragana": "せんじょう",
+    "arti": "pencucian / pembersihan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "また",
+    "arti": "juga / selain itu",
+    "tipe": "Kata Sambung"
+  },
+  {
+    "kanji": "まな板",
+    "hiragana": "まないた",
+    "arti": "talenan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "包丁",
+    "hiragana": "ほうちょう",
+    "arti": "pisau dapur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "調理器具",
+    "hiragana": "ちょうりきぐ",
+    "arti": "alat masak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "別",
+    "hiragana": "べつ",
+    "arti": "berbeda / terpisah",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "区別",
+    "hiragana": "くべつ",
+    "arti": "membedakan / mengelompokkan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "大切",
+    "hiragana": "たいせつ",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "arti": "contohnya / misalnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "ゆで卵",
+    "hiragana": "ゆでたまご",
+    "arti": "telur rebus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "切る",
+    "hiragana": "きる",
+    "arti": "memotong",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "他",
+    "hiragana": "ほか",
+    "arti": "yang lain",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "arti": "telur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "付く",
+    "hiragana": "つく",
+    "arti": "menempel / mengenai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "arti": "mencegah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "洗浄剤",
+    "hiragana": "せんじょうざい",
+    "arti": "deterjen / bahan pembersih",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "殺菌剤",
+    "hiragana": "さっきんざい",
+    "arti": "bakterisida / zat pembasmi kuman",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "化学的危害要因",
+    "hiragana": "かがくてききがいよういん",
+    "arti": "faktor bahaya kimia",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "残る",
+    "hiragana": "のこる",
+    "arti": "tersisa / tertinggal",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "よく",
+    "arti": "dengan baik / sering",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "水",
+    "hiragana": "みず",
+    "arti": "air",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "洗い流す",
+    "hiragana": "あらいながす",
+    "arti": "mencuci hingga bersih / membilas",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ヒスタミン",
+    "arti": "histamin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "arti": "ikan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "獲る",
+    "hiragana": "とる",
+    "arti": "menangkap (ikan/hewan)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "あと",
+    "arti": "setelah / sesudah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すぐ",
+    "arti": "segera / langsung",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "冷蔵",
+    "hiragana": "れいぞう",
+    "arti": "pendinginan (kulkas)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷凍",
+    "hiragana": "れいとう",
+    "arti": "pembekuan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "arti": "buruk / jelek",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "条件",
+    "hiragana": "じょうけん",
+    "arti": "syarat / kondisi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保存",
+    "hiragana": "ほぞん",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "arti": "terutama / khususnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "",
+    "hiragana": "マグロ",
+    "arti": "ikan tuna",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アジ",
+    "arti": "ikan makarel kuda",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "イワシ",
+    "arti": "ikan sarden",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "サバ",
+    "arti": "ikan makarel",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "赤身魚",
+    "hiragana": "あかみざかな",
+    "arti": "ikan berdaging merah",
+    "tipe": "Kata Benda"
+  }
+]
