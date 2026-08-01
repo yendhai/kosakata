@@ -1,0 +1,282 @@
+[
+  {
+    "kanji": "食品衛生",
+    "hiragana": "しょくひんえいせい",
+    "romaji": "shokuhineisei",
+    "arti": "kebersihan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "労働安全",
+    "hiragana": "ろうどうあんぜん",
+    "romaji": "roudouanzen",
+    "arti": "keselamatan kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "romaji": "byouki",
+    "arti": "penyakit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "ケガ",
+    "hiragana": "けが",
+    "romaji": "kega",
+    "arti": "luka / cedera",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "役立つ",
+    "hiragana": "やくだつ",
+    "romaji": "yakudatsu",
+    "arti": "berguna / bermanfaat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "romaji": "nihon",
+    "arti": "Jepang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "romaji": "sekai",
+    "arti": "dunia",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "romaji": "koujou",
+    "arti": "pabrik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "施設",
+    "hiragana": "しせつ",
+    "romaji": "shisetsu",
+    "arti": "fasilitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "romaji": "setsubi",
+    "arti": "peralatan / perlengkapan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "器具",
+    "hiragana": "きぐ",
+    "romaji": "kigu",
+    "arti": "peralatan / instrumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "衛生管理",
+    "hiragana": "えいせいかんり",
+    "romaji": "eiseikanri",
+    "arti": "manajemen kebersihan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "正しく",
+    "hiragana": "ただしく",
+    "romaji": "tadashiku",
+    "arti": "dengan benar",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "管理",
+    "hiragana": "かんり",
+    "romaji": "kanri",
+    "arti": "manajemen / pengelolaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "金属片",
+    "hiragana": "きんぞくへん",
+    "romaji": "kinzokuhen",
+    "arti": "pecahan logam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "混入",
+    "hiragana": "こんにゅう",
+    "romaji": "konnyuu",
+    "arti": "pencampuran (benda asing) / kontaminasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "病原性微生物",
+    "hiragana": "びょうげんせいびせいぶつ",
+    "romaji": "byougenseibiseibutsu",
+    "arti": "mikroorganisme patogen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "危害要因",
+    "hiragana": "きがいよういん",
+    "romaji": "kigaiyouin",
+    "arti": "faktor bahaya",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "含まれる",
+    "hiragana": "ふくまれる",
+    "romaji": "fukumareru",
+    "arti": "terkandung / termasuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "触れる",
+    "hiragana": "ふれる",
+    "romaji": "fureru",
+    "arti": "menyentuh / bersentuhan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "交差汚染",
+    "hiragana": "こうさおせん",
+    "romaji": "kousaosen",
+    "arti": "kontaminasi silang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "防止",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "arti": "pencegahan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "使い分ける",
+    "hiragana": "つかいわける",
+    "romaji": "tsukaiwakeru",
+    "arti": "menggunakan sesuai tujuan / membedakan penggunaan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "区域",
+    "hiragana": "くいき",
+    "romaji": "kuiki",
+    "arti": "zona / area",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "区分衛生管理",
+    "hiragana": "くぶんえいせいかんり",
+    "romaji": "kubuneiseikanri",
+    "arti": "manajemen kebersihan zonasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "清潔作業区域",
+    "hiragana": "せいけつさぎょうくいき",
+    "romaji": "seiketsusagyoukuiki",
+    "arti": "zona kerja bersih",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "準清潔作業区域",
+    "hiragana": "じゅんせいけつさぎょうくいき",
+    "romaji": "junseiketsusagyoukuiki",
+    "arti": "zona kerja semi-bersih",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚染作業区域",
+    "hiragana": "おせんさぎょうくいき",
+    "romaji": "osensagyoukuiki",
+    "arti": "zona kerja tercemar / kotor",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "惣菜製造業",
+    "hiragana": "そうざいせいぞうぎょう",
+    "romaji": "souzaiseizougyou",
+    "arti": "industri pembuatan lauk pauk (deli)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "トッピング",
+    "romaji": "toppingu",
+    "arti": "topping / taburan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "盛り付け",
+    "hiragana": "もりつけ",
+    "romaji": "moritsuke",
+    "arti": "penataan makanan (plating)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "包装",
+    "hiragana": "ほうそう",
+    "romaji": "housou",
+    "arti": "pengemasan / pembungkusan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "取り扱う",
+    "hiragana": "とりあつかう",
+    "romaji": "toriatsukau",
+    "arti": "menangani / mengurus",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "下処理",
+    "hiragana": "したしょり",
+    "romaji": "shitashori",
+    "arti": "persiapan awal (pre-processing)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "受入れ",
+    "hiragana": "うけいれ",
+    "romaji": "ukeire",
+    "arti": "penerimaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "外",
+    "hiragana": "そと",
+    "romaji": "soto",
+    "arti": "luar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出荷",
+    "hiragana": "しゅっか",
+    "romaji": "shukka",
+    "arti": "pengiriman barang",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "段ボール箱",
+    "hiragana": "だんボールばこ",
+    "romaji": "danboorubako",
+    "arti": "kotak kardus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "詰める",
+    "hiragana": "つめる",
+    "romaji": "tsumeru",
+    "arti": "memasukkan / mengemas (ke dalam wadah)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "製品",
+    "hiragana": "せいひん",
+    "romaji": "seihin",
+    "arti": "produk / barang jadi",
+    "tipe": "Kata Benda"
+  }
+]
