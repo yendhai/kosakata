@@ -1,0 +1,387 @@
+[
+  {
+    "kanji": "一般衛生管理",
+    "hiragana": "いっぱんえいせいかんり",
+    "romaji": "ippaneiseikanri",
+    "arti": "manajemen kebersihan umum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "衛生管理",
+    "hiragana": "えいせいかんり",
+    "romaji": "eiseikanri",
+    "arti": "manajemen kebersihan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "施設",
+    "hiragana": "しせつ",
+    "romaji": "shisetsu",
+    "arti": "fasilitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "romaji": "setsubi",
+    "arti": "peralatan / perlengkapan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "器具",
+    "hiragana": "きぐ",
+    "romaji": "kigu",
+    "arti": "peralatan / instrumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業者",
+    "hiragana": "さぎょうしゃ",
+    "romaji": "sagyousha",
+    "arti": "pekerja / operator",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "romaji": "genzairyou",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "分ける",
+    "hiragana": "わける",
+    "romaji": "wakeru",
+    "arti": "membagi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "共通",
+    "hiragana": "きょうつう",
+    "romaji": "kyoutsuu",
+    "arti": "umum / bersama",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "考え方",
+    "hiragana": "かんがえかた",
+    "romaji": "kangaekata",
+    "arti": "cara berpikir / konsep",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "説明",
+    "hiragana": "せつめい",
+    "romaji": "setsumei",
+    "arti": "penjelasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "始まる",
+    "hiragana": "はじまる",
+    "romaji": "hajimaru",
+    "arti": "dimulai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "romaji": "katsudou",
+    "arti": "aktivitas / kegiatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "romaji": "imi",
+    "arti": "arti / makna",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "言葉",
+    "hiragana": "ことば",
+    "romaji": "kotoba",
+    "arti": "kata / kosakata",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "整理",
+    "hiragana": "せいり",
+    "romaji": "seiri",
+    "arti": "ringkas / pemilahan (Seiri)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "整頓",
+    "hiragana": "せいとん",
+    "romaji": "seiton",
+    "arti": "rapi / penataan (Seiton)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "清掃",
+    "hiragana": "せいそう",
+    "romaji": "seisou",
+    "arti": "resik / pembersihan (Seisou)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "清潔",
+    "hiragana": "せいけつ",
+    "romaji": "seiketsu",
+    "arti": "rawat / kebersihan (Seiketsu)",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "習慣付け",
+    "hiragana": "しゅうかんづけ",
+    "romaji": "shuukanzuke",
+    "arti": "pembiasaan / rajin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "しつけ",
+    "romaji": "shitsuke",
+    "arti": "disiplin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "要る",
+    "hiragana": "いる",
+    "romaji": "iru",
+    "arti": "membutuhkan / perlu",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "romaji": "dougu",
+    "arti": "alat / perkakas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "romaji": "hitsuyou",
+    "arti": "perlu / penting",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "取り出す",
+    "hiragana": "とりだす",
+    "romaji": "toridasu",
+    "arti": "mengeluarkan / mengambil",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "arti": "menentukan / menetapkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "arti": "meletakkan / menaruh",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "順序",
+    "hiragana": "じゅんじょ",
+    "romaji": "junjo",
+    "arti": "urutan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "並べる",
+    "hiragana": "ならべる",
+    "romaji": "naraberu",
+    "arti": "menyusun / membariskan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "arti": "nama",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "数量",
+    "hiragana": "すうりょう",
+    "romaji": "suuryou",
+    "arti": "jumlah / kuantitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "表示",
+    "hiragana": "ひょうじ",
+    "romaji": "hyouji",
+    "arti": "tampilan / indikasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "洗う",
+    "hiragana": "あらう",
+    "romaji": "arau",
+    "arti": "mencuci",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "磨く",
+    "hiragana": "みがく",
+    "romaji": "migaku",
+    "arti": "menggosok / memoles",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "拭く",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "arti": "mengelap / menyeka",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "状態",
+    "hiragana": "じょうたい",
+    "romaji": "joutai",
+    "arti": "kondisi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚れ",
+    "hiragana": "よごれ",
+    "romaji": "yogore",
+    "arti": "kotoran / noda",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取り除く",
+    "hiragana": "とりのぞく",
+    "romaji": "torinozoku",
+    "arti": "menyingkirkan / membuang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "見た目",
+    "hiragana": "みため",
+    "romaji": "mitame",
+    "arti": "penampilan / rupa",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品衛生",
+    "hiragana": "しょくひんえいせい",
+    "romaji": "shokuhineisei",
+    "arti": "kebersihan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "問題",
+    "hiragana": "もんだい",
+    "romaji": "mondai",
+    "arti": "masalah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "病原性微生物",
+    "hiragana": "びょうげんせいびせいぶつ",
+    "romaji": "byougenseibiseibutsu",
+    "arti": "mikroorganisme patogen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚染",
+    "hiragana": "おせん",
+    "romaji": "osen",
+    "arti": "kontaminasi / pencemaran",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ルール",
+    "romaji": "ruuru",
+    "arti": "aturan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "実行",
+    "hiragana": "じっこう",
+    "romaji": "jikkou",
+    "arti": "pelaksanaan / eksekusi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "保つ",
+    "hiragana": "たもつ",
+    "romaji": "tamotsu",
+    "arti": "menjaga / mempertahankan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "手指",
+    "hiragana": "てゆび",
+    "romaji": "teyubi",
+    "arti": "jari tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業服",
+    "hiragana": "さぎょうふく",
+    "romaji": "sagyoufuku",
+    "arti": "pakaian kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持ち込む",
+    "hiragana": "もちこむ",
+    "romaji": "mochikomu",
+    "arti": "membawa masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "物",
+    "hiragana": "ぶつ",
+    "romaji": "butsu",
+    "arti": "benda / barang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "基本",
+    "hiragana": "きほん",
+    "romaji": "kihon",
+    "arti": "dasar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "硬質異物",
+    "hiragana": "こうしついぶつ",
+    "romaji": "koushitsuibutsu",
+    "arti": "benda asing keras",
+    "tipe": "Kata Benda"
+  }
+]
