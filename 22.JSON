@@ -1,0 +1,226 @@
+[
+  {
+    "kanji": "作業服",
+    "hiragana": "さぎょうふく",
+    "romaji": "sagyoufuku",
+    "arti": "pakaian kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ヘアーネット",
+    "romaji": "heaanetto",
+    "arti": "jaring rambut / hairnet",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "arti": "topi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "内側",
+    "hiragana": "うちがわ",
+    "romaji": "uchigawa",
+    "arti": "bagian dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "着用",
+    "hiragana": "ちゃくよう",
+    "romaji": "chakuyou",
+    "arti": "memakai / mengenakan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "romaji": "uwagi",
+    "arti": "baju atasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "下",
+    "hiragana": "した",
+    "romaji": "shita",
+    "arti": "bawah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "Tシャツ",
+    "romaji": "tiishatsu",
+    "arti": "kaus / t-shirt",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ボタン",
+    "romaji": "botan",
+    "arti": "kancing",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "襟",
+    "hiragana": "えり",
+    "romaji": "eri",
+    "arti": "kerah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "髪の毛",
+    "hiragana": "かみのけ",
+    "romaji": "kaminoke",
+    "arti": "rambut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ほこり",
+    "romaji": "hokori",
+    "arti": "debu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "付着",
+    "hiragana": "ふちゃく",
+    "romaji": "fuchaku",
+    "arti": "menempel / melekat",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "縦襟",
+    "hiragana": "たてえり",
+    "romaji": "tateeri",
+    "arti": "kerah berdiri / kerah tegak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ポケット",
+    "romaji": "poketto",
+    "arti": "saku / kantong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "清潔",
+    "hiragana": "せいけつ",
+    "romaji": "seiketsu",
+    "arti": "bersih",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "袖",
+    "hiragana": "そで",
+    "romaji": "sode",
+    "arti": "lengan (baju)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "裾",
+    "hiragana": "すそ",
+    "romaji": "suso",
+    "arti": "ujung bawah (pakaian)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ゴム",
+    "romaji": "gomu",
+    "arti": "karet",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "絞り",
+    "hiragana": "しぼり",
+    "romaji": "shibori",
+    "arti": "kerutan / kencangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使用",
+    "hiragana": "しよう",
+    "romaji": "shiyou",
+    "arti": "penggunaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "端",
+    "hiragana": "はし",
+    "romaji": "hashi",
+    "arti": "ujung / tepi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ズボン",
+    "romaji": "zubon",
+    "arti": "celana panjang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "ireru",
+    "arti": "memasukkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "履き物",
+    "hiragana": "はきもの",
+    "romaji": "hakimono",
+    "arti": "alas kaki",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "履く",
+    "hiragana": "はく",
+    "romaji": "haku",
+    "arti": "memakai (alas kaki / bawahan)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "エプロン",
+    "romaji": "epuron",
+    "arti": "celemek / apron",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腕カバー",
+    "hiragana": "うでカバー",
+    "romaji": "udekabaa",
+    "arti": "pelindung lengan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "上",
+    "hiragana": "うえ",
+    "romaji": "ue",
+    "arti": "atas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "着ける",
+    "hiragana": "つける",
+    "romaji": "tsukeru",
+    "arti": "memasang / mengenakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "ところ",
+    "hiragana": "ところ",
+    "romaji": "tokoro",
+    "arti": "saat / tempat / keadaan",
+    "tipe": "Kata Benda"
+  }
+]
