@@ -1,0 +1,212 @@
+[
+  {
+    "kanji": "作業服",
+    "hiragana": "さぎょうふく",
+    "romaji": "sagyoufuku",
+    "arti": "pakaian kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "arti": "topi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "正しく",
+    "hiragana": "ただしく",
+    "romaji": "tadashiku",
+    "arti": "dengan benar",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "着ける",
+    "hiragana": "つける",
+    "romaji": "tsukeru",
+    "arti": "memakai / mengenakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "注意事項",
+    "hiragana": "ちゅういじこう",
+    "romaji": "chuuijikou",
+    "arti": "hal-hal yang perlu diperhatikan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "深く",
+    "hiragana": "ふかく",
+    "romaji": "fukaku",
+    "arti": "secara dalam / erat",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "髪の毛",
+    "hiragana": "かみのけ",
+    "romaji": "kaminoke",
+    "arti": "rambut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "長め",
+    "hiragana": "ながめ",
+    "romaji": "nagame",
+    "arti": "agak panjang",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "束ねる",
+    "hiragana": "たばねる",
+    "romaji": "tabaneru",
+    "arti": "mengikat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "arti": "hidung",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "あご",
+    "romaji": "ago",
+    "arti": "dagu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "マスク",
+    "romaji": "masuku",
+    "arti": "masker",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "romaji": "uwagi",
+    "arti": "baju atasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "ireru",
+    "arti": "memasukkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ファスナー",
+    "romaji": "fasunaa",
+    "arti": "ritsleting / resleting",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "上",
+    "hiragana": "うえ",
+    "romaji": "ue",
+    "arti": "atas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "romaji": "agaru",
+    "arti": "naik / dinaikkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ほほ",
+    "romaji": "hoho",
+    "arti": "pipi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "隙間",
+    "hiragana": "すきま",
+    "romaji": "sukima",
+    "arti": "celah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "針金",
+    "hiragana": "はりがね",
+    "romaji": "harigane",
+    "arti": "kawat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "折る",
+    "hiragana": "おる",
+    "romaji": "oru",
+    "arti": "melipat / menekuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "romaji": "aida",
+    "arti": "di antara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "romaji": "tebukuro",
+    "arti": "sarung tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "方",
+    "hiragana": "かた",
+    "romaji": "kata",
+    "arti": "cara",
+    "tipe": "Akhiran / Kata Benda"
+  },
+  {
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "arti": "tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "大きさ",
+    "hiragana": "おおきさ",
+    "romaji": "ookisa",
+    "arti": "ukuran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "合う",
+    "hiragana": "あう",
+    "romaji": "au",
+    "arti": "cocok / pas",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "破れ",
+    "hiragana": "やぶれ",
+    "romaji": "yabure",
+    "arti": "robekan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚れ",
+    "hiragana": "よごれ",
+    "romaji": "yogore",
+    "arti": "kotoran / noda",
+    "tipe": "Kata Benda"
+  }
+]
