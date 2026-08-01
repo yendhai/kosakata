@@ -1,0 +1,184 @@
+[
+  {
+    "kanji": "作業場",
+    "hiragana": "さぎょうじょう",
+    "romaji": "sagyoujou",
+    "arti": "tempat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum / depan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "粘着",
+    "hiragana": "ねんちゃく",
+    "romaji": "nenchaku",
+    "arti": "perekat / menempel",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ローラー",
+    "romaji": "rooraa",
+    "arti": "roller (penggulung)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "エアーシャワー",
+    "romaji": "eaa shawaa",
+    "arti": "air shower (pancuran udara)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "髪の毛",
+    "hiragana": "かみのけ",
+    "romaji": "kaminoke",
+    "arti": "rambut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ほこり",
+    "romaji": "hokori",
+    "arti": "debu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取る",
+    "hiragana": "とる",
+    "romaji": "toru",
+    "arti": "mengambil / menghilangkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業服",
+    "hiragana": "さぎょうふく",
+    "romaji": "sagyoufuku",
+    "arti": "pakaian kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "区分衛生管理",
+    "hiragana": "くぶんえいせいかんり",
+    "romaji": "kubun eisei kanri",
+    "arti": "manajemen sanitasi zonasi / manajemen kebersihan per area",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "arti": "topi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "arti": "sepatu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "外",
+    "hiragana": "そと",
+    "romaji": "soto",
+    "arti": "luar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出る",
+    "hiragana": "でる",
+    "romaji": "deru",
+    "arti": "keluar",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "戻る",
+    "hiragana": "もどる",
+    "romaji": "modoru",
+    "arti": "kembali",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "土",
+    "hiragana": "つち",
+    "romaji": "tsuchi",
+    "arti": "tanah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "虫",
+    "hiragana": "むし",
+    "romaji": "mushi",
+    "arti": "serangga",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "微生物",
+    "hiragana": "びせいぶつ",
+    "romaji": "biseibutsu",
+    "arti": "mikroorganisme",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam / bagian dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持ち込む",
+    "hiragana": "もちこむ",
+    "romaji": "mochikomu",
+    "arti": "membawa masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "トイレ",
+    "romaji": "toire",
+    "arti": "toilet / kamar kecil",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "用",
+    "hiragana": "よう",
+    "romaji": "you",
+    "arti": "untuk / penggunaan (keperluan)",
+    "tipe": "Kata Benda / Akhiran"
+  },
+  {
+    "kanji": "履物",
+    "hiragana": "はきもの",
+    "romaji": "hakimono",
+    "arti": "alas kaki",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "履き替える",
+    "hiragana": "はきかえる",
+    "romaji": "hakikaeru",
+    "arti": "mengganti alas kaki",
+    "tipe": "Kata Kerja"
+  }
+]
