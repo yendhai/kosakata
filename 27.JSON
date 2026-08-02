@@ -1,0 +1,345 @@
+[
+  {
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "romaji": "shashin",
+    "arti": "foto",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持ち込む",
+    "hiragana": "もちこむ",
+    "romaji": "mochikomu",
+    "arti": "membawa masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ホチキス",
+    "romaji": "hochikisu",
+    "arti": "stapler",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "針",
+    "hiragana": "はり",
+    "romaji": "hari",
+    "arti": "jarum / isi stapler",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "クリップ",
+    "romaji": "kurippu",
+    "arti": "klip / penjepit kertas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "書類",
+    "hiragana": "しょるい",
+    "romaji": "shorui",
+    "arti": "dokumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "arti": "pensil",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "シャープペン",
+    "romaji": "shaapupen",
+    "arti": "pensil mekanik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "折れる",
+    "hiragana": "おれる",
+    "romaji": "oreru",
+    "arti": "patah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "芯",
+    "hiragana": "しん",
+    "romaji": "shin",
+    "arti": "inti / isi pensil",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "異物混入",
+    "hiragana": "いぶつこんにゅう",
+    "romaji": "ibutsu konnyuu",
+    "arti": "kontaminasi benda asing",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "臭い",
+    "hiragana": "におい",
+    "romaji": "nioi",
+    "arti": "bau / aroma",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "品質",
+    "hiragana": "ひんしつ",
+    "romaji": "hinshitsu",
+    "arti": "kualitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "romaji": "warui",
+    "arti": "buruk / jelek",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "影響",
+    "hiragana": "えいきょう",
+    "romaji": "eikyou",
+    "arti": "pengaruh / dampak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "香水",
+    "hiragana": "こうすい",
+    "romaji": "kousui",
+    "arti": "parfum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "romaji": "tsuyoi",
+    "arti": "kuat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "気がつく",
+    "hiragana": "きがつく",
+    "romaji": "kigatsuku",
+    "arti": "menyadari",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "禁止",
+    "hiragana": "きんし",
+    "romaji": "kinshi",
+    "arti": "larangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品製造工場",
+    "hiragana": "しょくひんせいぞうこうじょう",
+    "romaji": "shokuhin seizou koujou",
+    "arti": "pabrik pembuatan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "着る",
+    "hiragana": "きる",
+    "romaji": "kiru",
+    "arti": "memakai (pakaian atas/tubuh)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "意図的",
+    "hiragana": "いとてき",
+    "romaji": "itoteki",
+    "arti": "dengan sengaja",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "出入り",
+    "hiragana": "でいり",
+    "romaji": "deiri",
+    "arti": "keluar masuk",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "記録",
+    "hiragana": "きろく",
+    "romaji": "kiroku",
+    "arti": "catatan / merekam",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "出入り口",
+    "hiragana": "でいりぐち",
+    "romaji": "deiriguchi",
+    "arti": "pintu keluar masuk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "倉庫",
+    "hiragana": "そうこ",
+    "romaji": "souko",
+    "arti": "gudang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "カメラ",
+    "hiragana": "かめら",
+    "romaji": "kamera",
+    "arti": "kamera",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "arti": "meletakkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "romaji": "anzen",
+    "arti": "aman / keamanan",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "良い",
+    "hiragana": "よい",
+    "romaji": "yoi",
+    "arti": "baik / bagus",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "romaji": "tsukuru",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "製造方法",
+    "hiragana": "せいぞうほうほう",
+    "romaji": "seizou houhou",
+    "arti": "metode produksi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "大切",
+    "hiragana": "たいせつ",
+    "romaji": "taisetsu",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "保管",
+    "hiragana": "ほかん",
+    "romaji": "hokan",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "外部",
+    "hiragana": "がいぶ",
+    "romaji": "gaibu",
+    "arti": "bagian luar / pihak luar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "注文",
+    "hiragana": "ちゅうもん",
+    "romaji": "chuumon",
+    "arti": "pesanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "届く",
+    "hiragana": "とどく",
+    "romaji": "todoku",
+    "arti": "sampai / tiba",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "照らし合わせる",
+    "hiragana": "てらしあわせる",
+    "romaji": "terashiawaseru",
+    "arti": "mencocokkan / membandingkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "受入検査",
+    "hiragana": "うけいれけんさ",
+    "romaji": "ukeire kensa",
+    "arti": "inspeksi penerimaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "見た目",
+    "hiragana": "みため",
+    "romaji": "mitame",
+    "arti": "penampilan luar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "規格",
+    "hiragana": "きかく",
+    "romaji": "kikaku",
+    "arti": "standar / spesifikasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入り数",
+    "hiragana": "いりすう",
+    "romaji": "irisuu",
+    "arti": "jumlah isi (dalam satu kemasan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "包装状態",
+    "hiragana": "ほうそうじょうたい",
+    "romaji": "housou joutai",
+    "arti": "kondisi kemasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "期限",
+    "hiragana": "きげん",
+    "romaji": "kigen",
+    "arti": "batas waktu / kedaluwarsa",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保存方法",
+    "hiragana": "ほぞんほうほう",
+    "romaji": "hozon houhou",
+    "arti": "metode penyimpanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "表示",
+    "hiragana": "ひょうじ",
+    "romaji": "hyouji",
+    "arti": "label / tampilan / indikasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "品温",
+    "hiragana": "ひんおん",
+    "romaji": "hin'on",
+    "arti": "suhu produk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "腐敗",
+    "hiragana": "ふはい",
+    "romaji": "fuhai",
+    "arti": "pembusukan / membusuk",
+    "tipe": "Kata Benda"
+  }
+]
