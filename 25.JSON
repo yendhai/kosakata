@@ -1,0 +1,191 @@
+[
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "romaji": "tadashii",
+    "arti": "benar / tepat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "romaji": "tearai",
+    "arti": "mencuci tangan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "romaji": "houhou",
+    "arti": "metode / cara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "流水",
+    "hiragana": "りゅうすい",
+    "romaji": "ryuusui",
+    "arti": "air mengalir",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚れ",
+    "hiragana": "よごれ",
+    "romaji": "yogore",
+    "arti": "kotoran / noda",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "落とす",
+    "hiragana": "おとす",
+    "romaji": "otosu",
+    "arti": "membersihkan / menjatuhkan / menghilangkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "arti": "tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "romaji": "yubi",
+    "arti": "jari",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "手首",
+    "hiragana": "てくび",
+    "romaji": "tekubi",
+    "arti": "pergelangan tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "洗う",
+    "hiragana": "あらう",
+    "romaji": "arau",
+    "arti": "mencuci",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "romaji": "tokuni",
+    "arti": "khususnya / terutama",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "romaji": "aida",
+    "arti": "di antara / sela-sela",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "先",
+    "hiragana": "さき",
+    "romaji": "saki",
+    "arti": "ujung",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "爪",
+    "hiragana": "つめ",
+    "romaji": "tsume",
+    "arti": "kuku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "秒間",
+    "hiragana": "びょうかん",
+    "romaji": "byoukan",
+    "arti": "selama ... detik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "程度",
+    "hiragana": "ていど",
+    "romaji": "teido",
+    "arti": "sekitar / kisaran",
+    "tipe": "Kata Benda / Akhiran"
+  },
+  {
+    "kanji": "洗い流す",
+    "hiragana": "あらいながす",
+    "romaji": "arainagasu",
+    "arti": "membilas / mencuci bersih",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "使い捨て",
+    "hiragana": "つかいすて",
+    "romaji": "tsukaisute",
+    "arti": "sekali pakai (disposable)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ペーパータオル",
+    "romaji": "peepaataoru",
+    "arti": "tisu kertas (paper towel)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "エアータオル",
+    "romaji": "eaataoru",
+    "arti": "pengering tangan (air towel)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "乾かす",
+    "hiragana": "かわかす",
+    "romaji": "kawakasu",
+    "arti": "mengeringkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "消毒用",
+    "hiragana": "しょうどくよう",
+    "romaji": "shoudokuyou",
+    "arti": "untuk disinfeksi / keperluan sterilisasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アルコール",
+    "romaji": "arukooru",
+    "arti": "alkohol",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "両手",
+    "hiragana": "りょうて",
+    "romaji": "ryoute",
+    "arti": "kedua tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "噴きつける",
+    "hiragana": "ふきつける",
+    "romaji": "fukitsukeru",
+    "arti": "menyemprotkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すりこむ",
+    "romaji": "surikomu",
+    "arti": "menggosokkan / meratakan",
+    "tipe": "Kata Kerja"
+  }
+]
