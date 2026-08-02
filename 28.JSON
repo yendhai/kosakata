@@ -1,0 +1,156 @@
+[
+  {
+    "kanji": "消費期限",
+    "hiragana": "しょうひきげん",
+    "romaji": "shouhikigen",
+    "arti": "batas waktu konsumsi / tanggal kedaluwarsa",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "過ぎる",
+    "hiragana": "すぎる",
+    "romaji": "sugiru",
+    "arti": "lewat / berlalu",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "保存方法",
+    "hiragana": "ほぞんほうほう",
+    "romaji": "hozon houhou",
+    "arti": "metode penyimpanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "適切",
+    "hiragana": "てきせつ",
+    "romaji": "tekisetsu",
+    "arti": "tepat / sesuai",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "受入れる",
+    "hiragana": "うけいれる",
+    "romaji": "ukeireru",
+    "arti": "menerima",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "責任者",
+    "hiragana": "せきにんしゃ",
+    "romaji": "sekininsha",
+    "arti": "penanggung jawab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "報告",
+    "hiragana": "ほうこく",
+    "romaji": "houkoku",
+    "arti": "laporan / melapor",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "返品",
+    "hiragana": "へんぴん",
+    "romaji": "henpin",
+    "arti": "pengembalian barang / retur",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "交換",
+    "hiragana": "こうかん",
+    "romaji": "koukan",
+    "arti": "penukaran / penggantian",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "romaji": "genzairyou",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "受入検査",
+    "hiragana": "うけいれけんさ",
+    "romaji": "ukeire kensa",
+    "arti": "inspeksi penerimaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "検査",
+    "hiragana": "けんさ",
+    "romaji": "kensa",
+    "arti": "inspeksi / pemeriksaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "合格",
+    "hiragana": "ごうかく",
+    "romaji": "goukaku",
+    "arti": "lulus / memenuhi syarat",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "arti": "konfirmasi / memastikan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "冷蔵",
+    "hiragana": "れいぞう",
+    "romaji": "reizou",
+    "arti": "pendinginan (chiller / kulkas)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷凍",
+    "hiragana": "れいとう",
+    "romaji": "reitou",
+    "arti": "pembekuan (freezer)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保存",
+    "hiragana": "ほぞん",
+    "romaji": "hozon",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "romaji": "hitsuyou",
+    "arti": "perlu / butuh",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "romaji": "nagai",
+    "arti": "panjang / lama (waktu)",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "arti": "waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "室温",
+    "hiragana": "しつおん",
+    "romaji": "shitsuon",
+    "arti": "suhu ruangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "arti": "meletakkan / menaruh",
+    "tipe": "Kata Kerja"
+  }
+]
