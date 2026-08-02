@@ -1,0 +1,429 @@
+[
+  {
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "romaji": "reizouko",
+    "arti": "kulkas / lemari pendingin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "隙間",
+    "hiragana": "すきま",
+    "romaji": "sukima",
+    "arti": "celah / ruang kosong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "romaji": "genzairyou",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "詰め込む",
+    "hiragana": "つめこむ",
+    "romaji": "tsumekomu",
+    "arti": "memasukkan / menjejal",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "冷気",
+    "hiragana": "れいき",
+    "romaji": "reiki",
+    "arti": "udara dingin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "全体",
+    "hiragana": "ぜんたい",
+    "romaji": "zentai",
+    "arti": "keseluruhan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "回る",
+    "hiragana": "まわる",
+    "romaji": "mawaru",
+    "arti": "berputar / mengalir",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "十分",
+    "hiragana": "じゅうぶん",
+    "romaji": "juubun",
+    "arti": "cukup",
+    "tipe": "Kata Sifat (na) / Kata Keterangan"
+  },
+  {
+    "kanji": "冷やす",
+    "hiragana": "ひやす",
+    "romaji": "hiyasu",
+    "arti": "mendinginkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "冷凍庫",
+    "hiragana": "れいとうこ",
+    "romaji": "reitouko",
+    "arti": "freezer / lemari pembeku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "romaji": "baai",
+    "arti": "kasus / situasi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷凍食品",
+    "hiragana": "れいとうしょくひん",
+    "romaji": "reitou shokuhin",
+    "arti": "makanan beku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "割",
+    "hiragana": "わり",
+    "romaji": "wari",
+    "arti": "persen (per sepuluh) / rasio",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "詰める",
+    "hiragana": "つめる",
+    "romaji": "tsumeru",
+    "arti": "mengisi / mengemas",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "方",
+    "hiragana": "ほう",
+    "romaji": "hou",
+    "arti": "pihak / cara / arah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "互いに",
+    "hiragana": "たがいに",
+    "romaji": "tagaini",
+    "arti": "saling",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "節電",
+    "hiragana": "せつでん",
+    "romaji": "setsuden",
+    "arti": "penghematan listrik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ドア",
+    "romaji": "doa",
+    "arti": "pintu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "romaji": "akeru",
+    "arti": "membuka",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "低温",
+    "hiragana": "ていおん",
+    "romaji": "teion",
+    "arti": "suhu rendah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保つ",
+    "hiragana": "たもつ",
+    "romaji": "tamotsu",
+    "arti": "menjaga / mempertahankan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "romaji": "ondo",
+    "arti": "suhu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "arti": "setiap hari",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "romaji": "tadashii",
+    "arti": "benar / tepat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "定期的",
+    "hiragana": "ていきてき",
+    "romaji": "teikiteki",
+    "arti": "secara berkala / rutin",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "測定",
+    "hiragana": "そくてい",
+    "romaji": "sokutei",
+    "arti": "pengukuran",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "結果",
+    "hiragana": "けっか",
+    "romaji": "kekka",
+    "arti": "hasil",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "記録",
+    "hiragana": "きろく",
+    "romaji": "kiroku",
+    "arti": "catatan / merekam",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "食品衛生法",
+    "hiragana": "しょくひんえいせいほう",
+    "romaji": "shokuhin eiseihou",
+    "arti": "Undang-Undang Sanitasi Makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "以下",
+    "hiragana": "いか",
+    "romaji": "ika",
+    "arti": "di bawah / kurang dari",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "arti": "menetapkan / memutuskan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "棚",
+    "hiragana": "たな",
+    "romaji": "tana",
+    "arti": "rak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "床",
+    "hiragana": "ゆか",
+    "romaji": "yuka",
+    "arti": "lantai",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "清潔",
+    "hiragana": "せいけつ",
+    "romaji": "seiketsu",
+    "arti": "bersih",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "清掃",
+    "hiragana": "せいそう",
+    "romaji": "seisou",
+    "arti": "pembersihan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "使用期限",
+    "hiragana": "しようきげん",
+    "romaji": "shiyou kigen",
+    "arti": "batas waktu penggunaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "賞味期限",
+    "hiragana": "しょうみきげん",
+    "romaji": "shoumi kigen",
+    "arti": "batas waktu rasa optimal (best before)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "消費期限",
+    "hiragana": "しょうひきげん",
+    "romaji": "shouhi kigen",
+    "arti": "batas waktu konsumsi (tanggal kedaluwarsa)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "良い",
+    "hiragana": "よい",
+    "romaji": "yoi",
+    "arti": "baik / boleh",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "期間",
+    "hiragana": "きかん",
+    "romaji": "kikan",
+    "arti": "periode / jangka waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "最後",
+    "hiragana": "さいご",
+    "romaji": "saigo",
+    "arti": "terakhir",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "日",
+    "hiragana": "ひ",
+    "romaji": "hi",
+    "arti": "hari",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "過ぎる",
+    "hiragana": "すぎる",
+    "romaji": "sugiru",
+    "arti": "lewat / berlalu",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "それぞれ",
+    "romaji": "sorezore",
+    "arti": "masing-masing",
+    "tipe": "Kata Benda / Kata Keterangan"
+  },
+  {
+    "kanji": "食品製造工場",
+    "hiragana": "しょくひんせいぞうこうじょう",
+    "romaji": "shokuhin seizou koujou",
+    "arti": "pabrik pembuatan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "容器",
+    "hiragana": "ようき",
+    "romaji": "youki",
+    "arti": "wadah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "romaji": "fukuro",
+    "arti": "kantong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "arti": "masuk / dimasukkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "加工食品",
+    "hiragana": "かこうしょくひん",
+    "romaji": "kakou shokuhin",
+    "arti": "makanan olahan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "期限",
+    "hiragana": "きげん",
+    "romaji": "kigen",
+    "arti": "batas waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "表示",
+    "hiragana": "ひょうじ",
+    "romaji": "hyouji",
+    "arti": "label / tampilan / indikasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "製造",
+    "hiragana": "せいぞう",
+    "romaji": "seizou",
+    "arti": "produksi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "企業",
+    "hiragana": "きぎょう",
+    "romaji": "kigyou",
+    "arti": "perusahaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "未開封",
+    "hiragana": "みかいふう",
+    "romaji": "mikaifuu",
+    "arti": "belum dibuka",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "条件",
+    "hiragana": "じょうけん",
+    "romaji": "jouken",
+    "arti": "syarat / kondisi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保存",
+    "hiragana": "ほぞん",
+    "romaji": "hozon",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "美味しく",
+    "hiragana": "おいしく",
+    "romaji": "oishiku",
+    "arti": "dengan lezat / enak",
+    "tipe": "Kata Sifat (i) / Kata Keterangan"
+  },
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "arti": "makan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "一般的",
+    "hiragana": "いっぱんてき",
+    "romaji": "ippanteki",
+    "arti": "secara umum",
+    "tipe": "Kata Sifat (na)"
+  }
+]
