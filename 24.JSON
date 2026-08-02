@@ -1,0 +1,205 @@
+[
+  {
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "romaji": "tearai",
+    "arti": "mencuci tangan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "作業者",
+    "hiragana": "さぎょうしゃ",
+    "romaji": "sagyousha",
+    "arti": "pekerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "手指",
+    "hiragana": "てゆび",
+    "romaji": "teyubi",
+    "arti": "jari tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "微生物",
+    "hiragana": "びせいぶつ",
+    "romaji": "biseibutsu",
+    "arti": "mikroorganisme",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "romaji": "genzairyou",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚染",
+    "hiragana": "おせん",
+    "romaji": "osen",
+    "arti": "kontaminasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "次",
+    "hiragana": "つぎ",
+    "romaji": "tsugi",
+    "arti": "berikut / selanjutnya",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "romaji": "baai",
+    "arti": "kasus / situasi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業場",
+    "hiragana": "さぎょうじょう",
+    "romaji": "sagyoujou",
+    "arti": "tempat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "romaji": "sagyou",
+    "arti": "pekerjaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "始める",
+    "hiragana": "はじめる",
+    "romaji": "hajimeru",
+    "arti": "memulai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "直前",
+    "hiragana": "ちょくぜん",
+    "romaji": "chokuzen",
+    "arti": "tepat sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "トイレ",
+    "romaji": "toire",
+    "arti": "toilet",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生",
+    "hiragana": "なま",
+    "romaji": "nama",
+    "arti": "mentah",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "arti": "daging",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "arti": "ikan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "romaji": "tamago",
+    "arti": "telur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "触れる",
+    "hiragana": "ふれる",
+    "romaji": "fureru",
+    "arti": "menyentuh",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "他",
+    "hiragana": "ほか",
+    "romaji": "hoka",
+    "arti": "lain / yang lain",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "器具",
+    "hiragana": "きぐ",
+    "romaji": "kigu",
+    "arti": "peralatan / instrumen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "盛り付け",
+    "hiragana": "もりつけ",
+    "romaji": "moritsuke",
+    "arti": "penataan makanan (plating)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "romaji": "chokusetsu",
+    "arti": "secara langsung",
+    "tipe": "Kata Benda / Kata Keterangan"
+  },
+  {
+    "kanji": "汚染作業区域",
+    "hiragana": "おせんさぎょうくいき",
+    "romaji": "osen sagyou kuiki",
+    "arti": "area kerja terkontaminasi (kotor)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "非汚染作業区域",
+    "hiragana": "ひおせんさぎょうくいき",
+    "romaji": "hiosen sagyou kuiki",
+    "arti": "area kerja tidak terkontaminasi (bersih)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "移動",
+    "hiragana": "いどう",
+    "romaji": "idou",
+    "arti": "perpindahan / bergerak",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "とき",
+    "romaji": "toki",
+    "arti": "saat / waktu",
+    "tipe": "Kata Benda"
+  }
+]
