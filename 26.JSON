@@ -1,0 +1,296 @@
+[
+  {
+    "kanji": "交換",
+    "hiragana": "こうかん",
+    "romaji": "koukan",
+    "arti": "penggantian / menukar",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "危害要因",
+    "hiragana": "きがいよういん",
+    "romaji": "kigai youin",
+    "arti": "faktor bahaya (hazard)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "製造",
+    "hiragana": "せいぞう",
+    "romaji": "seizou",
+    "arti": "produksi / pembuatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "徹底",
+    "hiragana": "てってい",
+    "romaji": "tettei",
+    "arti": "tuntas / menyeluruh",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "一度",
+    "hiragana": "いちど",
+    "romaji": "ichido",
+    "arti": "sekali / satu kali",
+    "tipe": "Kata Benda (Keterangan)"
+  },
+  {
+    "kanji": "捨てる",
+    "hiragana": "すてる",
+    "romaji": "suteru",
+    "arti": "membuang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "注意",
+    "hiragana": "ちゅうい",
+    "romaji": "chuui",
+    "arti": "perhatian / berhati-hati",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "調理",
+    "hiragana": "ちょうり",
+    "romaji": "chouri",
+    "arti": "memasak / mengolah makanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "arti": "sayuran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取り扱う",
+    "hiragana": "とりあつかう",
+    "romaji": "toriatsukau",
+    "arti": "menangani / mengurus",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "病原性微生物",
+    "hiragana": "びょうげんせいびせいぶつ",
+    "romaji": "byougensei biseibutsu",
+    "arti": "mikroorganisme patogen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アレルギーぶっしつ",
+    "romaji": "arerugii busshitsu",
+    "arti": "zat alergen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "受入れ",
+    "hiragana": "うけいれ",
+    "romaji": "ukeire",
+    "arti": "penerimaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "段ボール箱",
+    "hiragana": "だんボールばこ",
+    "romaji": "danboorubako",
+    "arti": "kotak kardus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "コンテナ",
+    "romaji": "kontena",
+    "arti": "wadah / kontainer",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "休憩",
+    "hiragana": "きゅうけい",
+    "romaji": "kyuukei",
+    "arti": "istirahat",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "殺菌済み",
+    "hiragana": "さっきんずみ",
+    "romaji": "sakkinzumi",
+    "arti": "sudah disterilisasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加熱調理",
+    "hiragana": "かねつちょうり",
+    "romaji": "kanetsuchouri",
+    "arti": "memasak dengan pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "非加熱調理",
+    "hiragana": "ひかねつちょうり",
+    "romaji": "hikanetsuchouri",
+    "arti": "mengolah tanpa pemanasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "破れる",
+    "hiragana": "やぶれる",
+    "romaji": "yabureru",
+    "arti": "robek",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "別",
+    "hiragana": "べつ",
+    "romaji": "betsu",
+    "arti": "lain / berbeda",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "守る",
+    "hiragana": "まもる",
+    "romaji": "mamoru",
+    "arti": "mematuhi / menjaga",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業手順書",
+    "hiragana": "さぎょうてじゅんしょ",
+    "romaji": "sagyou tejunsho",
+    "arti": "buku panduan kerja (SOP)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "装置",
+    "hiragana": "そうち",
+    "romaji": "souchi",
+    "arti": "peralatan / perangkat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "不備",
+    "hiragana": "ふび",
+    "romaji": "fubi",
+    "arti": "kekurangan / ketidaklengkapan / cacat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たばこ",
+    "romaji": "tabako",
+    "arti": "rokok",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "吸う",
+    "hiragana": "すう",
+    "romaji": "suu",
+    "arti": "menghisap",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たん",
+    "romaji": "tan",
+    "arti": "dahak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つば",
+    "romaji": "tsuba",
+    "arti": "ludah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "吐く",
+    "hiragana": "はく",
+    "romaji": "haku",
+    "arti": "meludah / memuntahkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "咳",
+    "hiragana": "せき",
+    "romaji": "seki",
+    "arti": "batuk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "目",
+    "hiragana": "め",
+    "romaji": "me",
+    "arti": "mata",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "口",
+    "hiragana": "くち",
+    "romaji": "kuchi",
+    "arti": "mulut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "周り",
+    "hiragana": "まわり",
+    "romaji": "mawari",
+    "arti": "sekitar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "触る",
+    "hiragana": "さわる",
+    "romaji": "sawaru",
+    "arti": "menyentuh",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "拭く",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "arti": "mengelap / menyeka",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "romaji": "kankei",
+    "arti": "hubungan / kaitan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持ち物",
+    "hiragana": "もちもの",
+    "romaji": "mochimono",
+    "arti": "barang bawaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "arti": "jam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "スマートフォン",
+    "romaji": "sumaato fon",
+    "arti": "ponsel pintar / smartphone",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "arti": "dompet",
+    "tipe": "Kata Benda"
+  }
+]
