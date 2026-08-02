@@ -1,0 +1,436 @@
+[
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "romaji": "genzairyou",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保管",
+    "hiragana": "ほかん",
+    "romaji": "hokan",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "種類",
+    "hiragana": "しゅるい",
+    "romaji": "shurui",
+    "arti": "jenis / macam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "異なる",
+    "hiragana": "ことなる",
+    "romaji": "kotonaru",
+    "arti": "berbeda",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "それぞれ",
+    "romaji": "sorezore",
+    "arti": "masing-masing",
+    "tipe": "Kata Benda / Kata Keterangan"
+  },
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "arti": "menentukan / menetapkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "romaji": "ondo",
+    "arti": "suhu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "romaji": "hitsuyou",
+    "arti": "perlu / kebutuhan",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "主な",
+    "hiragana": "おもな",
+    "romaji": "omona",
+    "arti": "utama",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "以下",
+    "hiragana": "いか",
+    "romaji": "ika",
+    "arti": "di bawah / kurang dari sama dengan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "米穀類",
+    "hiragana": "べいこくるい",
+    "romaji": "beikokurui",
+    "arti": "beras dan biji-bijian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "コメ",
+    "romaji": "kome",
+    "arti": "beras",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "穀類加工品",
+    "hiragana": "こくるいかこうひん",
+    "romaji": "kokurui kakouhin",
+    "arti": "produk olahan biji-bijian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "小麦粉",
+    "hiragana": "こむぎこ",
+    "romaji": "komugiko",
+    "arti": "tepung terigu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "デンプン",
+    "romaji": "denpun",
+    "arti": "pati / tepung kanji",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "室温",
+    "hiragana": "しつおん",
+    "romaji": "shitsuon",
+    "arti": "suhu ruangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "注",
+    "hiragana": "ちゅう",
+    "romaji": "chuu",
+    "arti": "catatan (singkatan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "調味料",
+    "hiragana": "ちょうみりょう",
+    "romaji": "choumiryou",
+    "arti": "bumbu penyedap",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "砂糖",
+    "hiragana": "さとう",
+    "romaji": "satou",
+    "arti": "gula",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食塩",
+    "hiragana": "しょくえん",
+    "romaji": "shokuen",
+    "arti": "garam meja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "みそ",
+    "romaji": "miso",
+    "arti": "pasta kedelai (miso)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "しょう油",
+    "hiragana": "しょうゆ",
+    "romaji": "shouyu",
+    "arti": "kecap asin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ソース",
+    "romaji": "soosu",
+    "arti": "saus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食酢",
+    "hiragana": "しょくす",
+    "romaji": "shokusu",
+    "arti": "cuka makan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食肉",
+    "hiragana": "しょくにく",
+    "romaji": "shokuniku",
+    "arti": "daging konsumsi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食肉製品",
+    "hiragana": "しょくにくせいひん",
+    "romaji": "shokuniku seihin",
+    "arti": "produk olahan daging",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ハム",
+    "romaji": "hamu",
+    "arti": "daging ham",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ソーセージ",
+    "romaji": "sooseeji",
+    "arti": "sosis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ベーコン",
+    "romaji": "beekon",
+    "arti": "bakon (bacon)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "鮮魚介類",
+    "hiragana": "せんぎょかいるい",
+    "romaji": "sengyokairui",
+    "arti": "makanan laut (ikan dan kerang segar)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水産物",
+    "hiragana": "すいさんぶつ",
+    "romaji": "suisanbutsu",
+    "arti": "produk hasil laut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "油脂",
+    "hiragana": "ゆし",
+    "romaji": "yushi",
+    "arti": "lemak dan minyak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "固形油脂",
+    "hiragana": "こけいゆし",
+    "romaji": "kokeiyushi",
+    "arti": "lemak/minyak padat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ラード",
+    "romaji": "raado",
+    "arti": "lemak babi (lard)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "マーガリン",
+    "romaji": "maagarin",
+    "arti": "margarin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ショートニング",
+    "romaji": "shootoningu",
+    "arti": "mentega putih (shortening)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷凍",
+    "hiragana": "れいとう",
+    "romaji": "reitou",
+    "arti": "pembekuan / beku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ゆでだこ",
+    "romaji": "yudedako",
+    "arti": "gurita rebus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生",
+    "hiragana": "なま",
+    "romaji": "nama",
+    "arti": "mentah / segar",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "液状",
+    "hiragana": "えきじょう",
+    "romaji": "ekijou",
+    "arti": "bentuk cair",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "殻付き卵",
+    "hiragana": "からつきたまご",
+    "romaji": "karatsuki tamago",
+    "arti": "telur bercangkang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "液卵",
+    "hiragana": "えきらん",
+    "romaji": "ekiran",
+    "arti": "telur cair",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "凍結卵",
+    "hiragana": "とうけつらん",
+    "romaji": "touketsuran",
+    "arti": "telur beku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生鮮果実",
+    "hiragana": "せいせんかじつ",
+    "romaji": "seisen kajitsu",
+    "arti": "buah-buahan segar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "arti": "sayuran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "前後",
+    "hiragana": "ぜんご",
+    "romaji": "zengo",
+    "arti": "sekitar / kisaran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "乳",
+    "hiragana": "にゅう",
+    "romaji": "nyuu",
+    "arti": "susu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "濃縮乳",
+    "hiragana": "のうしゅくにゅう",
+    "romaji": "noushukunyuu",
+    "arti": "susu kental / susu pekat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "脱脂乳",
+    "hiragana": "だっしにゅう",
+    "romaji": "dasshinyuu",
+    "arti": "susu skim",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "クリーム",
+    "romaji": "kuriimu",
+    "arti": "krim",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "バター",
+    "romaji": "bataa",
+    "arti": "mentega",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "チーズ",
+    "romaji": "chiizu",
+    "arti": "keju",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "練乳",
+    "hiragana": "れんにゅう",
+    "romaji": "rennyuu",
+    "arti": "susu kental manis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "乾燥",
+    "hiragana": "かんそう",
+    "romaji": "kansou",
+    "arti": "kering / pengeringan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "容器",
+    "hiragana": "ようき",
+    "romaji": "youki",
+    "arti": "wadah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "arti": "masuk / berisi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "カット野菜",
+    "hiragana": "かっとやさい",
+    "romaji": "katto yasai",
+    "arti": "sayuran potong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam / bagian dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "指定",
+    "hiragana": "してい",
+    "romaji": "shitei",
+    "arti": "penunjukan / penetapan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "romaji": "baai",
+    "arti": "kasus / situasi / keadaan",
+    "tipe": "Kata Benda"
+  }
+]
