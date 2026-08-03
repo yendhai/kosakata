@@ -1,0 +1,660 @@
+[
+  {
+    "kanji": "解凍",
+    "hiragana": "かいとう",
+    "romaji": "kaitou",
+    "arti": "pencairan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "arti": "daging",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "arti": "ikan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出る",
+    "hiragana": "でる",
+    "romaji": "deru",
+    "arti": "keluar",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "汁",
+    "hiragana": "しる",
+    "romaji": "shiru",
+    "arti": "cairan / jus (daging)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ドリップ",
+    "romaji": "dorippu",
+    "arti": "cairan daging (drip)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "他",
+    "hiragana": "ほか",
+    "romaji": "hoka",
+    "arti": "lain / lainnya",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "arti": "makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原材料",
+    "hiragana": "げんざいりょう",
+    "romaji": "genzairyou",
+    "arti": "bahan baku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "トレー",
+    "romaji": "toree",
+    "arti": "nampan (tray)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "ireru",
+    "arti": "memasukkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "網目",
+    "hiragana": "あみめ",
+    "romaji": "amime",
+    "arti": "jaring-jaring",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "載せる",
+    "hiragana": "のせる",
+    "romaji": "noseru",
+    "arti": "meletakkan di atas",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "用",
+    "hiragana": "よう",
+    "romaji": "you",
+    "arti": "untuk / penggunaan",
+    "tipe": "Akhiran / Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ラック",
+    "romaji": "rakku",
+    "arti": "rak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "排水",
+    "hiragana": "はいすい",
+    "romaji": "haisui",
+    "arti": "saluran air buangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "romaji": "chokusetsu",
+    "arti": "secara langsung",
+    "tipe": "Kata Keterangan / Kata Benda"
+  },
+  {
+    "kanji": "流す",
+    "hiragana": "ながす",
+    "romaji": "nagasu",
+    "arti": "mengalirkan / membuang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "流水解凍",
+    "hiragana": "りゅうすいかいとう",
+    "romaji": "ryuusui kaitou",
+    "arti": "pencairan dengan air mengalir",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "密閉",
+    "hiragana": "みっぺい",
+    "romaji": "mippei",
+    "arti": "tertutup rapat / kedap udara",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "romaji": "fukuro",
+    "arti": "kantong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "穴",
+    "hiragana": "あな",
+    "romaji": "ana",
+    "arti": "lubang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "破れ",
+    "hiragana": "やぶれ",
+    "romaji": "yabure",
+    "arti": "robekan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "arti": "konfirmasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "一部",
+    "hiragana": "いちぶ",
+    "romaji": "ichibu",
+    "arti": "sebagian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "流れ出す",
+    "hiragana": "ながれだす",
+    "romaji": "nagaredasu",
+    "arti": "mengalir keluar",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "romaji": "baai",
+    "arti": "kasus / situasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "別",
+    "hiragana": "べつ",
+    "romaji": "betsu",
+    "arti": "lain / berbeda",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "移し替える",
+    "hiragana": "うつしかえる",
+    "romaji": "utsushikaeru",
+    "arti": "memindahkan ke tempat lain",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "固形",
+    "hiragana": "こけい",
+    "romaji": "kokei",
+    "arti": "bentuk padat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "脂",
+    "hiragana": "あぶら",
+    "romaji": "abura",
+    "arti": "lemak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "romaji": "katai",
+    "arti": "keras",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "ペースト状",
+    "hiragana": "ぺーすとじょう",
+    "romaji": "peesutojou",
+    "arti": "berbentuk pasta",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加温",
+    "hiragana": "かおん",
+    "romaji": "kaon",
+    "arti": "pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "柔らかい",
+    "hiragana": "やわらかい",
+    "romaji": "yawarakai",
+    "arti": "lunak / lembut",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "容器",
+    "hiragana": "ようき",
+    "romaji": "youki",
+    "arti": "wadah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出す",
+    "hiragana": "だす",
+    "romaji": "dasu",
+    "arti": "mengeluarkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "必要以上",
+    "hiragana": "ひつよういじょう",
+    "romaji": "hitsuyou ijou",
+    "arti": "lebih dari yang diperlukan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "品質",
+    "hiragana": "ひんしつ",
+    "romaji": "hinshitsu",
+    "arti": "kualitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "劣化",
+    "hiragana": "れっか",
+    "romaji": "rekka",
+    "arti": "penurunan kualitas / deteriorasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "管理",
+    "hiragana": "かんり",
+    "romaji": "kanri",
+    "arti": "manajemen / pengelolaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "注意",
+    "hiragana": "ちゅうい",
+    "romaji": "chuui",
+    "arti": "perhatian / berhati-hati",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "洗浄",
+    "hiragana": "せんじょう",
+    "romaji": "senjou",
+    "arti": "pencucian / pembersihan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "多く",
+    "hiragana": "おおく",
+    "romaji": "ooku",
+    "arti": "banyak",
+    "tipe": "Kata Keterangan / Kata Benda"
+  },
+  {
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "arti": "air",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "異物",
+    "hiragana": "いぶつ",
+    "romaji": "ibutsu",
+    "arti": "benda asing",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚れ",
+    "hiragana": "よごれ",
+    "romaji": "yogore",
+    "arti": "kotoran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取り除く",
+    "hiragana": "とりのぞく",
+    "romaji": "torinozoku",
+    "arti": "menyingkirkan / membuang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "魚介藻類",
+    "hiragana": "ぎょかいそうるい",
+    "romaji": "gyokaisourui",
+    "arti": "ikan, kerang, dan rumput laut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "適正",
+    "hiragana": "てきせい",
+    "romaji": "tekisei",
+    "arti": "tepat / sesuai",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "濃度",
+    "hiragana": "のうど",
+    "romaji": "noudo",
+    "arti": "konsentrasi / kepekatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食塩水",
+    "hiragana": "しょくえんすい",
+    "romaji": "shokuensui",
+    "arti": "air garam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加熱工程",
+    "hiragana": "かねつこうてい",
+    "romaji": "kanetsu koutei",
+    "arti": "proses pemanasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "arti": "sayuran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "サラダ",
+    "romaji": "sarada",
+    "arti": "salad",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "薬剤",
+    "hiragana": "やくざい",
+    "romaji": "yakuzai",
+    "arti": "bahan kimia / obat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "殺菌",
+    "hiragana": "さっきん",
+    "romaji": "sakkin",
+    "arti": "sterilisasi / pembasmian kuman",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "選別",
+    "hiragana": "せんべつ",
+    "romaji": "senbetsu",
+    "arti": "penyortiran",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "分別",
+    "hiragana": "ぶんべつ",
+    "romaji": "bunbetsu",
+    "arti": "pemisahan / klasifikasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "裁断",
+    "hiragana": "さいだん",
+    "romaji": "saidan",
+    "arti": "pemotongan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "色",
+    "hiragana": "いろ",
+    "romaji": "iro",
+    "arti": "warna",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "臭い",
+    "hiragana": "におい",
+    "romaji": "nioi",
+    "arti": "bau",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "違う",
+    "hiragana": "ちがう",
+    "romaji": "chigau",
+    "arti": "berbeda",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "根",
+    "hiragana": "ね",
+    "romaji": "ne",
+    "arti": "akar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "芽",
+    "hiragana": "め",
+    "romaji": "me",
+    "arti": "tunas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "皮",
+    "hiragana": "かわ",
+    "romaji": "kawa",
+    "arti": "kulit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "うろこ",
+    "romaji": "uroko",
+    "arti": "sisik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ヒレ",
+    "romaji": "hire",
+    "arti": "sirip",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "部分",
+    "hiragana": "ぶぶん",
+    "romaji": "bubun",
+    "arti": "bagian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "確実",
+    "hiragana": "かくじつ",
+    "romaji": "kakujitsu",
+    "arti": "pasti / yakin",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "廃棄",
+    "hiragana": "はいき",
+    "romaji": "haiki",
+    "arti": "pembuangan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "食品製造",
+    "hiragana": "しょくひんせいぞう",
+    "romaji": "shokuhin seizou",
+    "arti": "pembuatan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生",
+    "hiragana": "なま",
+    "romaji": "nama",
+    "arti": "mentah",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "Ｘ線異物検出機",
+    "hiragana": "えっくすせんいぶつけんしゅつき",
+    "romaji": "ekkususen ibutsu kenshutsuki",
+    "arti": "mesin pendeteksi benda asing sinar-X",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "romaji": "hone",
+    "arti": "tulang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "残る",
+    "hiragana": "のこる",
+    "romaji": "nokoru",
+    "arti": "tersisa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "調べる",
+    "hiragana": "しらべる",
+    "romaji": "shiraberu",
+    "arti": "memeriksa / menyelidiki",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "見つかる",
+    "hiragana": "みつかる",
+    "romaji": "mitsukaru",
+    "arti": "ditemukan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "製造工程",
+    "hiragana": "せいぞうこうてい",
+    "romaji": "seizou koutei",
+    "arti": "proses produksi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "衛生管理",
+    "hiragana": "えいせいかんり",
+    "romaji": "eisei kanri",
+    "arti": "manajemen sanitasi / kebersihan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "製造設備",
+    "hiragana": "せいぞうせつび",
+    "romaji": "seizou setsubi",
+    "arti": "fasilitas produksi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "細断",
+    "hiragana": "さいだん",
+    "romaji": "saidan",
+    "arti": "mencacah / memotong kecil",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "混合",
+    "hiragana": "こんごう",
+    "romaji": "kongou",
+    "arti": "pencampuran",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "加熱",
+    "hiragana": "かねつ",
+    "romaji": "kanetsu",
+    "arti": "pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "成型",
+    "hiragana": "せいけい",
+    "romaji": "seikei",
+    "arti": "pembentukan / pencetakan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "romaji": "setsubi",
+    "arti": "peralatan / fasilitas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "清潔",
+    "hiragana": "せいけつ",
+    "romaji": "seiketsu",
+    "arti": "bersih",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "繋がる",
+    "hiragana": "つながる",
+    "romaji": "tsunagaru",
+    "arti": "terhubung / tersambung",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "配管",
+    "hiragana": "はいかん",
+    "romaji": "haikan",
+    "arti": "pipa saluran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "微生物",
+    "hiragana": "びせいぶつ",
+    "romaji": "biseibutsu",
+    "arti": "mikroorganisme",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "汚染",
+    "hiragana": "おせん",
+    "romaji": "osen",
+    "arti": "pencemaran / kontaminasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  }
+]
