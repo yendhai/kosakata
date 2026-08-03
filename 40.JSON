@@ -24,7 +24,7 @@
     "kanji": "逸脱",
     "hiragana": "いつだつ",
     "romaji": "itsudatsu",
-    "arti": "penyimpangan / deviasi",
+    "arti": "penyimpangan",
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
@@ -39,11 +39,11 @@
     "hiragana": "おなじ",
     "romaji": "onaji",
     "arti": "sama",
-    "tipe": "Kata Sifat / Rentaishi"
+    "tipe": "Kata Sifat (na) / Kata Benda"
   },
   {
     "kanji": "作る",
-    "hiragana": "つく",
+    "hiragana": "つくる",
     "romaji": "tsukuru",
     "arti": "membuat",
     "tipe": "Kata Kerja"
@@ -77,6 +77,13 @@
     "tipe": "Kata Kerja"
   },
   {
+    "kanji": "２つ",
+    "hiragana": "ふたつ",
+    "romaji": "futatsu",
+    "arti": "dua (buah)",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "必要",
     "hiragana": "ひつよう",
     "romaji": "hitsuyou",
@@ -105,6 +112,13 @@
     "tipe": "Kata Keterangan"
   },
   {
+    "kanji": "コンベア",
+    "hiragana": "こんべあ",
+    "romaji": "konbea",
+    "arti": "ban berjalan (conveyor)",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "加熱",
     "hiragana": "かねつ",
     "romaji": "kanetsu",
@@ -112,10 +126,17 @@
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
+    "kanji": "ゾーン",
+    "hiragana": "ぞーん",
+    "romaji": "zoon",
+    "arti": "zona / area",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "通る",
     "hiragana": "とおる",
     "romaji": "tooru",
-    "arti": "melewati / melintasi",
+    "arti": "melewati / melalui",
     "tipe": "Kata Kerja"
   },
   {
@@ -164,13 +185,13 @@
     "kanji": "調整",
     "hiragana": "ちょうせい",
     "romaji": "chousei",
-    "arti": "penyesuaian / pengaturan",
+    "arti": "penyesuaian / penyetelan",
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
     "kanji": "加熱不足",
-    "hiragana": "かねつふそく",
-    "romaji": "kanetsu fusoku",
+    "hiragana": "かねつぶそく",
+    "romaji": "kanetsu busoku",
     "arti": "kurang pemanasan",
     "tipe": "Kata Benda"
   },
@@ -178,7 +199,7 @@
     "kanji": "廃棄",
     "hiragana": "はいき",
     "romaji": "haiki",
-    "arti": "pembuangan / pemusnahan",
+    "arti": "pembuangan / afkir",
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
@@ -206,7 +227,7 @@
     "kanji": "機能",
     "hiragana": "きのう",
     "romaji": "kinou",
-    "arti": "fungsi / berfungsi",
+    "arti": "fungsi",
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
@@ -217,11 +238,11 @@
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "一度",
-    "hiragana": "いちど",
-    "romaji": "ichido",
-    "arti": "satu kali / sekali lagi",
-    "tipe": "Kata Benda"
+    "kanji": "もう一度",
+    "hiragana": "もういちど",
+    "romaji": "mou ichido",
+    "arti": "sekali lagi",
+    "tipe": "Kata Keterangan / Frasa"
   },
   {
     "kanji": "検査",
@@ -234,21 +255,42 @@
     "kanji": "記録",
     "hiragana": "きろく",
     "romaji": "kiroku",
-    "arti": "pencatatan / rekaman",
+    "arti": "catatan / pencatatan",
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
     "kanji": "実施",
     "hiragana": "じっし",
     "romaji": "jisshi",
-    "arti": "pelaksanaan / penerapan",
+    "arti": "pelaksanaan",
     "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "管理記録",
+    "hiragana": "かんりきろく",
+    "romaji": "kanri kiroku",
+    "arti": "catatan pengelolaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "とき / じ",
+    "romaji": "toki / ji",
+    "arti": "waktu / saat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "HACCP",
+    "hiragana": "ハサップ",
+    "romaji": "hasappu",
+    "arti": "HACCP (Hazard Analysis and Critical Control Point)",
+    "tipe": "Kata Benda"
   },
   {
     "kanji": "残す",
     "hiragana": "のこす",
     "romaji": "nokosu",
-    "arti": "menyisakan / meninggalkan",
+    "arti": "meninggalkan / menyisakan",
     "tipe": "Kata Kerja"
   },
   {
@@ -270,20 +312,20 @@
     "hiragana": "てきせつ",
     "romaji": "tekisetsu",
     "arti": "tepat / sesuai",
-    "tipe": "Kata Sifat (na) / Kata Benda"
+    "tipe": "Kata Sifat (na)"
   },
   {
     "kanji": "管理手段",
     "hiragana": "かんりしゅだん",
     "romaji": "kanri shudan",
-    "arti": "sarana / metode pengelolaan",
+    "arti": "metode/cara pengelolaan",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "製造",
     "hiragana": "せいぞう",
     "romaji": "seizou",
-    "arti": "produksi / pembuatan",
+    "arti": "produksi",
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
@@ -301,24 +343,38 @@
     "tipe": "Kata Benda"
   },
   {
+    "kanji": "いつ",
+    "hiragana": "いつ",
+    "romaji": "itsu",
+    "arti": "kapan",
+    "tipe": "Kata Ganti / Kata Benda"
+  },
+  {
     "kanji": "誰",
     "hiragana": "だれ",
     "romaji": "dare",
     "arti": "siapa",
-    "tipe": "Kata Benda / Kata Tanya"
+    "tipe": "Kata Ganti / Kata Benda"
+  },
+  {
+    "kanji": "どのように",
+    "hiragana": "どのように",
+    "romaji": "donoyouni",
+    "arti": "bagaimana / dengan cara apa",
+    "tipe": "Kata Keterangan / Frasa"
   },
   {
     "kanji": "手順",
     "hiragana": "てじゅん",
     "romaji": "tejun",
-    "arti": "prosedur / langkah-langkah",
+    "arti": "prosedur / urutan",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "あらかじめ",
     "hiragana": "あらかじめ",
     "romaji": "arakajime",
-    "arti": "terlebih dahulu / sebelumnya",
+    "arti": "sebelumnya / terlebih dahulu",
     "tipe": "Kata Keterangan"
   },
   {
@@ -326,6 +382,13 @@
     "hiragana": "れいぞうこ",
     "romaji": "reizouko",
     "arti": "kulkas / lemari es",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
     "tipe": "Kata Benda"
   },
   {
@@ -337,9 +400,9 @@
   },
   {
     "kanji": "ハンバーグ",
-    "hiragana": "ハンバーグ",
+    "hiragana": "はんばーぐ",
     "romaji": "hanbaagu",
-    "arti": "daging cincang / steak hamburg",
+    "arti": "hamburg steak (daging cincang)",
     "tipe": "Kata Benda"
   },
   {
@@ -360,15 +423,22 @@
     "kanji": "濃度",
     "hiragana": "のうど",
     "romaji": "noudo",
-    "arti": "konsentrasi / kepekatan",
+    "arti": "konsentrasi / kadar",
     "tipe": "Kata Benda"
   },
   {
     "kanji": "時間",
     "hiragana": "じかん",
     "romaji": "jikan",
-    "arti": "waktu / durasi",
+    "arti": "waktu",
     "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "はかる",
+    "hiragana": "はかる",
+    "romaji": "hakaru",
+    "arti": "mengukur",
+    "tipe": "Kata Kerja"
   },
   {
     "kanji": "確認",
@@ -376,5 +446,12 @@
     "romaji": "kakunin",
     "arti": "konfirmasi / pengecekan",
     "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "すぐ",
+    "hiragana": "すぐ",
+    "romaji": "sugu",
+    "arti": "segera / langsung",
+    "tipe": "Kata Keterangan"
   }
 ]
