@@ -1,0 +1,429 @@
+[
+  {
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "romaji": "zenbu",
+    "arti": "semua / seluruhnya",
+    "tipe": "Kata Benda / Kata Keterangan"
+  },
+  {
+    "kanji": "殺す",
+    "hiragana": "ころす",
+    "romaji": "korosu",
+    "arti": "membunuh / membasmi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "少し",
+    "hiragana": "すこし",
+    "romaji": "sukoshi",
+    "arti": "sedikit",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "生き残る",
+    "hiragana": "いきのこる",
+    "romaji": "ikinokoru",
+    "arti": "bertahan hidup / tersisa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam / di antara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加熱",
+    "hiragana": "かねつ",
+    "romaji": "kanetsu",
+    "arti": "pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "arti": "makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷える",
+    "hiragana": "ひえる",
+    "romaji": "hieru",
+    "arti": "menjadi dingin",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "間",
+    "hiragana": "あいだ",
+    "romaji": "aida",
+    "arti": "selama / saat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "romaji": "fueru",
+    "arti": "bertambah / meningkat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食中毒",
+    "hiragana": "しょくちゅうどく",
+    "romaji": "shokuchuudoku",
+    "arti": "keracunan makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加熱調理",
+    "hiragana": "かねつちょうり",
+    "romaji": "kanetsu chouri",
+    "arti": "memasak dengan pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "終わる",
+    "hiragana": "おわる",
+    "romaji": "owaru",
+    "arti": "selesai / berakhir",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "冷やす",
+    "hiragana": "ひやす",
+    "romaji": "hiyasu",
+    "arti": "mendinginkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "重要",
+    "hiragana": "じゅうよう",
+    "romaji": "juuyou",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "具体的",
+    "hiragana": "ぐたいてき",
+    "romaji": "gutaiteki",
+    "arti": "secara konkret / spesifik",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "分間",
+    "hiragana": "ふんかん",
+    "romaji": "funkan",
+    "arti": "menit (durasi)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "以内",
+    "hiragana": "いない",
+    "romaji": "inai",
+    "arti": "dalam (batas waktu / jarak)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中心温度",
+    "hiragana": "ちゅうしんおんど",
+    "romaji": "chuushin ondo",
+    "arti": "suhu pusat (inti)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "下げる",
+    "hiragana": "さげる",
+    "romaji": "sageru",
+    "arti": "menurunkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "romaji": "hitsuyou",
+    "arti": "perlu / kebutuhan",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "冷却方法",
+    "hiragana": "れいきゃくほうほう",
+    "romaji": "reikyaku houhou",
+    "arti": "metode pendinginan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "風",
+    "hiragana": "かぜ",
+    "romaji": "kaze",
+    "arti": "angin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "当てる",
+    "hiragana": "あてる",
+    "romaji": "ateru",
+    "arti": "mengenakan / mengarahkan (ke sesuatu)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "romaji": "houhou",
+    "arti": "metode / cara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "風冷",
+    "hiragana": "ふうれい",
+    "romaji": "fuurei",
+    "arti": "pendinginan dengan angin (air cooling)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷水",
+    "hiragana": "れいすい",
+    "romaji": "reisui",
+    "arti": "air dingin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水冷",
+    "hiragana": "すいれい",
+    "romaji": "suirei",
+    "arti": "pendinginan dengan air (water cooling)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷却",
+    "hiragana": "れいきゃく",
+    "romaji": "reikyaku",
+    "arti": "pendinginan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "出来上がる",
+    "hiragana": "できあがる",
+    "romaji": "dekiagaru",
+    "arti": "selesai dibuat / rampung",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "美味しさ",
+    "hiragana": "おいしさ",
+    "romaji": "oishisa",
+    "arti": "kelezatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "損なう",
+    "hiragana": "そこなう",
+    "romaji": "sokonau",
+    "arti": "merusak / mengurangi / menghilangkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "大切",
+    "hiragana": "たいせつ",
+    "romaji": "taisetsu",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "薬剤",
+    "hiragana": "やくざい",
+    "romaji": "yakuzai",
+    "arti": "bahan kimia / obat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "殺菌",
+    "hiragana": "さっきん",
+    "romaji": "sakkin",
+    "arti": "sterilisasi / pembasmian kuman",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "病原性微生物",
+    "hiragana": "びょうげんせいびせいぶつ",
+    "romaji": "byougensei biseibutsu",
+    "arti": "mikroorganisme patogen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "やっつける",
+    "hiragana": "やっつける",
+    "romaji": "yattsukeru",
+    "arti": "mengalahkan / membasmi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "濃度",
+    "hiragana": "のうど",
+    "romaji": "noudo",
+    "arti": "konsentrasi / kepekatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "処理",
+    "hiragana": "しょり",
+    "romaji": "shori",
+    "arti": "penanganan / proses",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "arti": "waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "次亜塩素酸ナトリウム溶液",
+    "hiragana": "じあえんそさんなとりうむようえき",
+    "romaji": "jiaensosannatoriumuyoueki",
+    "arti": "larutan natrium hipoklorit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "romaji": "baai",
+    "arti": "kasus / situasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "冷凍",
+    "hiragana": "れいとう",
+    "romaji": "reitou",
+    "arti": "pembekuan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "保存性",
+    "hiragana": "ほぞんせい",
+    "romaji": "hozonsei",
+    "arti": "daya simpan / kemampuan pengawetan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "高める",
+    "hiragana": "たかめる",
+    "romaji": "takameru",
+    "arti": "meningkatkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "生鮮食品",
+    "hiragana": "せいせんしょくひん",
+    "romaji": "seisen shokuhin",
+    "arti": "makanan segar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加工食品",
+    "hiragana": "かこうしょくひん",
+    "romaji": "kakou shokuhin",
+    "arti": "makanan olahan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "凍らせる",
+    "hiragana": "こおらせる",
+    "romaji": "kooraseru",
+    "arti": "membekukan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "凍結",
+    "hiragana": "とうけつ",
+    "romaji": "touketsu",
+    "arti": "pembekuan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "凍る",
+    "hiragana": "こおる",
+    "romaji": "kooru",
+    "arti": "membeku",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "保存",
+    "hiragana": "ほぞん",
+    "romaji": "hozon",
+    "arti": "penyimpanan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "冷凍庫",
+    "hiragana": "れいとうこ",
+    "romaji": "reitouko",
+    "arti": "freezer / lemari pembeku",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "硬さ",
+    "hiragana": "かたさ",
+    "romaji": "katasa",
+    "arti": "tingkat kekerasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "弾力",
+    "hiragana": "だんりょく",
+    "romaji": "danryoku",
+    "arti": "elastisitas / kekenyalan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食感",
+    "hiragana": "しょっかん",
+    "romaji": "shokkan",
+    "arti": "tekstur makanan saat digigit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "風味",
+    "hiragana": "ふうみ",
+    "romaji": "fuumi",
+    "arti": "rasa / cita rasa",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "悪くなる",
+    "hiragana": "わるくなる",
+    "romaji": "warukunaru",
+    "arti": "menjadi buruk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "短時間",
+    "hiragana": "たんじかん",
+    "romaji": "tanjikan",
+    "arti": "waktu singkat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "急速",
+    "hiragana": "きゅうそく",
+    "romaji": "kyuusoku",
+    "arti": "cepat / pesat",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  }
+]
