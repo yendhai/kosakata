@@ -1,0 +1,86 @@
+[
+  {
+    "kanji": "後",
+    "hiragana": "あと",
+    "romaji": "ato",
+    "arti": "nanti / belakangan",
+    "tipe": "Kata Benda / Kata Keterangan"
+  },
+  {
+    "kanji": "まとめて",
+    "hiragana": "まとめて",
+    "romaji": "matomete",
+    "arti": "sekaligus / dikumpulkan bersama",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "記録",
+    "hiragana": "きろく",
+    "romaji": "kiroku",
+    "arti": "pencatatan / catatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "いつも",
+    "hiragana": "いつも",
+    "romaji": "itsumo",
+    "arti": "selalu / biasanya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "はかる",
+    "hiragana": "はかる",
+    "romaji": "hakaru",
+    "arti": "mengukur",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "arti": "konfirmasi / pengecekan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "事実",
+    "hiragana": "じじつ",
+    "romaji": "jijitsu",
+    "arti": "fakta / kenyataan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "絶対",
+    "hiragana": "ぜったい",
+    "romaji": "zettai",
+    "arti": "sama sekali / mutlak",
+    "tipe": "Kata Keterangan / Kata Benda"
+  },
+  {
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "romaji": "jibun",
+    "arti": "diri sendiri",
+    "tipe": "Kata Benda / Kata Ganti"
+  },
+  {
+    "kanji": "判断",
+    "hiragana": "はんだん",
+    "romaji": "handan",
+    "arti": "penilaian / keputusan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "修正",
+    "hiragana": "しゅうせい",
+    "romaji": "shuusei",
+    "arti": "koreksi / revisi",
+    "tipe": "Kata Benda / Kata Kerja"
+  }
+]
