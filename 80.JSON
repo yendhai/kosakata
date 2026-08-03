@@ -1,0 +1,380 @@
+[
+  {
+    "kanji": "改善措置",
+    "hiragana": "かいぜんそち",
+    "romaji": "kaizen sochi",
+    "arti": "tindakan perbaikan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "重要管理点",
+    "hiragana": "じゅうようかんりてん",
+    "romaji": "juuyou kanriten",
+    "arti": "Titik Kendali Kritis (Critical Control Point / CCP)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "管理基準",
+    "hiragana": "かんりきじゅん",
+    "romaji": "kanri kijun",
+    "arti": "standar pengelolaan / batas kritis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "逸脱",
+    "hiragana": "いつだつ",
+    "romaji": "itsudatsu",
+    "arti": "penyimpangan / deviasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "romaji": "baai",
+    "arti": "kasus / situasi / jika",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "romaji": "onaji",
+    "arti": "sama",
+    "tipe": "Kata Sifat / Rentaishi"
+  },
+  {
+    "kanji": "作る",
+    "hiragana": "つく",
+    "romaji": "tsukuru",
+    "arti": "membuat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "arti": "makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "捨てる",
+    "hiragana": "すてる",
+    "romaji": "suteru",
+    "arti": "membuang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作り直す",
+    "hiragana": "つくりなおす",
+    "romaji": "tsukurinaosu",
+    "arti": "membuat ulang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "arti": "menentukan / memutuskan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "romaji": "hitsuyou",
+    "arti": "perlu / kebutuhan",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "措置",
+    "hiragana": "そち",
+    "romaji": "sochi",
+    "arti": "tindakan / langkah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "romaji": "iu",
+    "arti": "mengatakan / disebut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "例えば",
+    "hiragana": "たとえば",
+    "romaji": "tatoeba",
+    "arti": "contohnya / misalnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "加熱",
+    "hiragana": "かねつ",
+    "romaji": "kanetsu",
+    "arti": "pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "通る",
+    "hiragana": "とおる",
+    "romaji": "tooru",
+    "arti": "melewati / melintasi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "速度",
+    "hiragana": "そくど",
+    "romaji": "sokudo",
+    "arti": "kecepatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "romaji": "hayai",
+    "arti": "cepat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "中心温度",
+    "hiragana": "ちゅうしんおんど",
+    "romaji": "chuushin ondo",
+    "arti": "suhu pusat (core temperature)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "十分",
+    "hiragana": "じゅうぶん",
+    "romaji": "juubun",
+    "arti": "cukup",
+    "tipe": "Kata Sifat (na) / Kata Keterangan"
+  },
+  {
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "arti": "tinggi",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "romaji": "osoi",
+    "arti": "lambat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "調整",
+    "hiragana": "ちょうせい",
+    "romaji": "chousei",
+    "arti": "penyesuaian / pengaturan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "加熱不足",
+    "hiragana": "かねつふそく",
+    "romaji": "kanetsu fusoku",
+    "arti": "kurang pemanasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "廃棄",
+    "hiragana": "はいき",
+    "romaji": "haiki",
+    "arti": "pembuangan / pemusnahan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "考える",
+    "hiragana": "かんがえる",
+    "romaji": "kangaeru",
+    "arti": "berpikir / menganggap",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "金属探知機",
+    "hiragana": "きんぞくたんちき",
+    "romaji": "kinzoku tanchiki",
+    "arti": "detektor logam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "正常",
+    "hiragana": "せいじょう",
+    "romaji": "seijou",
+    "arti": "normal",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "機能",
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "arti": "fungsi / berfungsi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "一度",
+    "hiragana": "いちど",
+    "romaji": "ichido",
+    "arti": "satu kali / sekali lagi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "検査",
+    "hiragana": "けんさ",
+    "romaji": "kensa",
+    "arti": "pemeriksaan / inspeksi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "記録",
+    "hiragana": "きろく",
+    "romaji": "kiroku",
+    "arti": "pencatatan / rekaman",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "実施",
+    "hiragana": "じっし",
+    "romaji": "jisshi",
+    "arti": "pelaksanaan / penerapan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "残す",
+    "hiragana": "のこす",
+    "romaji": "nokosu",
+    "arti": "menyisakan / meninggalkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "危害要因",
+    "hiragana": "きがいよういん",
+    "romaji": "kigai youin",
+    "arti": "faktor bahaya (hazard)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "除去",
+    "hiragana": "じょきょ",
+    "romaji": "jokyo",
+    "arti": "penghapusan / eliminasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "適切",
+    "hiragana": "てきせつ",
+    "romaji": "tekisetsu",
+    "arti": "tepat / sesuai",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "管理手段",
+    "hiragana": "かんりしゅだん",
+    "romaji": "kanri shudan",
+    "arti": "sarana / metode pengelolaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "製造",
+    "hiragana": "せいぞう",
+    "romaji": "seizou",
+    "arti": "produksi / pembuatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "検証",
+    "hiragana": "けんしょう",
+    "romaji": "kenshou",
+    "arti": "verifikasi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "一般衛生管理",
+    "hiragana": "いっぱんえいせいかんり",
+    "romaji": "ippan eisei kanri",
+    "arti": "manajemen sanitasi umum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "誰",
+    "hiragana": "だれ",
+    "romaji": "dare",
+    "arti": "siapa",
+    "tipe": "Kata Benda / Kata Tanya"
+  },
+  {
+    "kanji": "手順",
+    "hiragana": "てじゅん",
+    "romaji": "tejun",
+    "arti": "prosedur / langkah-langkah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "あらかじめ",
+    "hiragana": "あらかじめ",
+    "romaji": "arakajime",
+    "arti": "terlebih dahulu / sebelumnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "romaji": "reizouko",
+    "arti": "kulkas / lemari es",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "romaji": "ondo",
+    "arti": "suhu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "ハンバーグ",
+    "hiragana": "ハンバーグ",
+    "romaji": "hanbaagu",
+    "arti": "daging cincang / steak hamburg",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "殺菌液",
+    "hiragana": "さっきんえき",
+    "romaji": "sakkin'eki",
+    "arti": "cairan sterilisasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "濃度",
+    "hiragana": "のうど",
+    "romaji": "noudo",
+    "arti": "konsentrasi / kepekatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "arti": "waktu / durasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "arti": "konfirmasi / pengecekan",
+    "tipe": "Kata Benda / Kata Kerja"
+  }
+]
