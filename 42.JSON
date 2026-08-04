@@ -1,0 +1,44 @@
+[
+  {
+    "kanji": "第",
+    "hiragana": "だい",
+    "romaji": "dai",
+    "arti": "ke- (awalan untuk nomor urut)",
+    "tipe": "Awalan (Prefix)"
+  },
+  {
+    "kanji": "章",
+    "hiragana": "しょう",
+    "romaji": "shou",
+    "arti": "bab (chapter)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "第3章",
+    "hiragana": "だいさんしょう",
+    "romaji": "dai san shou",
+    "arti": "Bab 3",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "労働",
+    "hiragana": "ろうどう",
+    "romaji": "roudou",
+    "arti": "tenaga kerja / kerja",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "romaji": "anzen",
+    "arti": "keselamatan / keamanan",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "労働安全",
+    "hiragana": "ろうどうあんぜん",
+    "romaji": "roudou anzen",
+    "arti": "keselamatan kerja",
+    "tipe": "Kata Benda"
+  }
+]
