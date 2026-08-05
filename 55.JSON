@@ -1,0 +1,408 @@
+[
+  {
+    "kanji": "体験",
+    "hiragana": "たいけん",
+    "romaji": "taiken",
+    "arti": "pengalaman",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "お互い",
+    "hiragana": "おたがい",
+    "romaji": "otagai",
+    "arti": "satu sama lain / saling",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "報告",
+    "hiragana": "ほうこく",
+    "romaji": "houkoku",
+    "arti": "laporan / melapor",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "し合う",
+    "hiragana": "しあう",
+    "romaji": "shiau",
+    "arti": "saling melakukan sesuatu",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "記録",
+    "hiragana": "きろく",
+    "romaji": "kiroku",
+    "arti": "rekaman / catatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "工場内",
+    "hiragana": "こうじょうない",
+    "romaji": "koujounai",
+    "arti": "di dalam pabrik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "全員",
+    "hiragana": "ぜんいん",
+    "romaji": "zen'in",
+    "arti": "semua orang / seluruh anggota",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "共有",
+    "hiragana": "きょうゆう",
+    "romaji": "kyouyuu",
+    "arti": "berbagi / share",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "arti": "penyebab / alasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出来るだけ",
+    "hiragana": "できるだけ",
+    "romaji": "dekirudake",
+    "arti": "sebisa mungkin",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "出し合う",
+    "hiragana": "だしあう",
+    "romaji": "dashiau",
+    "arti": "saling menyumbang / mengeluarkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "romaji": "chiisana",
+    "arti": "kecil",
+    "tipe": "Pra-nomina (Rentaishi)"
+  },
+  {
+    "kanji": "無い",
+    "hiragana": "ない",
+    "romaji": "nai",
+    "arti": "tidak ada",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "思う",
+    "hiragana": "おもう",
+    "romaji": "omou",
+    "arti": "berpikir / merasa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "改善",
+    "hiragana": "かいぜん",
+    "romaji": "kaizen",
+    "arti": "perbaikan / peningkatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "進む",
+    "hiragana": "すすむ",
+    "romaji": "susumu",
+    "arti": "maju / berlanjut / berkembang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "今",
+    "hiragana": "いま",
+    "romaji": "ima",
+    "arti": "sekarang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "romaji": "anzen",
+    "arti": "aman / keselamatan",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "作業場",
+    "hiragana": "さぎょうば",
+    "romaji": "sagyouba",
+    "arti": "tempat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "romaji": "kiken",
+    "arti": "bahaya",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "予知",
+    "hiragana": "よち",
+    "romaji": "yochi",
+    "arti": "prakiraan / prediksi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "訓練",
+    "hiragana": "くんれん",
+    "romaji": "kunren",
+    "arti": "pelatihan / latihan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "実際",
+    "hiragana": "じっさい",
+    "romaji": "jissai",
+    "arti": "kenyataan / aktual",
+    "tipe": "Kata Benda / Kata Keterangan"
+  },
+  {
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "arti": "pekerjaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "始める",
+    "hiragana": "はじめる",
+    "romaji": "hajimeru",
+    "arti": "memulai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum / depan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "atarashii",
+    "arti": "baru",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "学ぶ",
+    "hiragana": "まなぶ",
+    "romaji": "manabu",
+    "arti": "belajar",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "隠れる",
+    "hiragana": "かくれる",
+    "romaji": "kakureru",
+    "arti": "bersembunyi / tersembunyi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "潜在的",
+    "hiragana": "せんざいてき",
+    "romaji": "senzaiteki",
+    "arti": "potensial / laten (terpendam)",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "romaji": "fusegu",
+    "arti": "mencegah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "初め",
+    "hiragana": "はじめ",
+    "romaji": "hajime",
+    "arti": "awal / permulaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "文字",
+    "hiragana": "もじ",
+    "romaji": "moji",
+    "arti": "huruf / karakter tulisan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かもしれない",
+    "romaji": "kamoshirenai",
+    "arti": "mungkin (saja terjadi)",
+    "tipe": "Akhiran Kata Kerja/Sifat/Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "モノ",
+    "romaji": "mono",
+    "arti": "barang / benda",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "挟まれる",
+    "hiragana": "はさまれる",
+    "romaji": "hasamareru",
+    "arti": "terjepit",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "巻き込まれる",
+    "hiragana": "まきこまれる",
+    "romaji": "makikomareru",
+    "arti": "tergulung / terlibat / terbawa-bawa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "当たる",
+    "hiragana": "あたる",
+    "romaji": "ataru",
+    "arti": "terkena / membentur",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "romaji": "korobu",
+    "arti": "terjatuh (tersandung)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "落ちる",
+    "hiragana": "おちる",
+    "romaji": "ochiru",
+    "arti": "jatuh (dari atas ke bawah)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "火傷",
+    "hiragana": "やけど",
+    "romaji": "yakedo",
+    "arti": "luka bakar / melepuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "感電",
+    "hiragana": "かんでん",
+    "romaji": "kanden",
+    "arti": "tersengat listrik",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "腰",
+    "hiragana": "こし",
+    "romaji": "koshi",
+    "arti": "pinggang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "痛める",
+    "hiragana": "いためる",
+    "romaji": "itameru",
+    "arti": "menyakiti / mencederai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "ガス中毒",
+    "hiragana": "ガスちゅうどく",
+    "romaji": "gasu chuudoku",
+    "arti": "keracunan gas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "酸欠",
+    "hiragana": "さんけつ",
+    "romaji": "sanketsu",
+    "arti": "kekurangan oksigen",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "有害物",
+    "hiragana": "ゆうがいぶつ",
+    "romaji": "yuugaibutsu",
+    "arti": "zat berbahaya / materi beracun",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やられる",
+    "romaji": "yarareru",
+    "arti": "terkena (dampak buruk) / celaka",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "回る",
+    "hiragana": "まわる",
+    "romaji": "mawaru",
+    "arti": "berputar",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "飛ぶ",
+    "hiragana": "とぶ",
+    "romaji": "tobu",
+    "arti": "terbang / melayang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "抜ける",
+    "hiragana": "ぬける",
+    "romaji": "nukeru",
+    "arti": "terlepas / copot",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "燃える",
+    "hiragana": "もえる",
+    "romaji": "moeru",
+    "arti": "terbakar / menyala",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "倒れる",
+    "hiragana": "たおれる",
+    "romaji": "taoreru",
+    "arti": "roboh / tumbang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "崩れる",
+    "hiragana": "くずれる",
+    "romaji": "kuzureru",
+    "arti": "runtuh / hancur",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "爆発",
+    "hiragana": "ばくはつ",
+    "romaji": "bakuhatsu",
+    "arti": "ledakan / meledak",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "漏れる",
+    "hiragana": "もれる",
+    "romaji": "moreru",
+    "arti": "bocor",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "厚生労働省",
+    "hiragana": "こうせいろうどうしょう",
+    "romaji": "kousei roudoushou",
+    "arti": "Kementerian Kesehatan, Tenaga Kerja, dan Kesejahteraan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "マニュアル",
+    "romaji": "manyuaru",
+    "arti": "manual / buku panduan",
+    "tipe": "Kata Benda"
+  }
+]
