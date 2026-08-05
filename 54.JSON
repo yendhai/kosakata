@@ -1,0 +1,275 @@
+[
+  {
+    "kanji": "責任者",
+    "hiragana": "せきにんしゃ",
+    "romaji": "sekininsha",
+    "arti": "penanggung jawab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "報告",
+    "hiragana": "ほうこく",
+    "romaji": "houkoku",
+    "arti": "laporan / melapor",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "労働災害",
+    "hiragana": "ろうどうさいがい",
+    "romaji": "roudou saigai",
+    "arti": "kecelakaan kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "事例",
+    "hiragana": "じれい",
+    "romaji": "jirei",
+    "arti": "contoh kasus / preseden",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "学ぶ",
+    "hiragana": "まなぶ",
+    "romaji": "manabu",
+    "arti": "belajar",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "飲食料品",
+    "hiragana": "いんしょくりょうひん",
+    "romaji": "inshokuryouhin",
+    "arti": "makanan dan minuman",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "製造業",
+    "hiragana": "せいぞうぎょう",
+    "romaji": "seizougyou",
+    "arti": "industri manufaktur",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "知る",
+    "hiragana": "しる",
+    "romaji": "shiru",
+    "arti": "mengetahui",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "arti": "perusahaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "紹介",
+    "hiragana": "しょうかい",
+    "romaji": "shoukai",
+    "arti": "pengenalan / perkenalan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "良く",
+    "hiragana": "よく",
+    "romaji": "yoku",
+    "arti": "dengan baik",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "romaji": "onaji",
+    "arti": "sama",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "気を付ける",
+    "hiragana": "きをつける",
+    "romaji": "ki o tsukeru",
+    "arti": "berhati-hati",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "社内",
+    "hiragana": "しゃない",
+    "romaji": "shanai",
+    "arti": "di dalam perusahaan / internal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "romaji": "setsubi",
+    "arti": "fasilitas / peralatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "身近",
+    "hiragana": "みぢか",
+    "romaji": "mijika",
+    "arti": "dekat / akrab (dengan kehidupan sehari-hari)",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "分かりやすい",
+    "hiragana": "わかりやすい",
+    "romaji": "wakariyasui",
+    "arti": "mudah dimengerti",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "一番",
+    "hiragana": "いちばん",
+    "romaji": "ichiban",
+    "arti": "nomor satu / paling",
+    "tipe": "Kata Keterangan / Kata Benda"
+  },
+  {
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "romaji": "oboeru",
+    "arti": "mengingat / menghafal",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "社外",
+    "hiragana": "しゃがい",
+    "romaji": "shagai",
+    "arti": "di luar perusahaan / eksternal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "違う",
+    "hiragana": "ちがう",
+    "romaji": "chigau",
+    "arti": "berbeda",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "考える",
+    "hiragana": "かんがえる",
+    "romaji": "kangaeru",
+    "arti": "memikirkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "romaji": "fusegu",
+    "arti": "mencegah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "役に立つ",
+    "hiragana": "やくにたつ",
+    "romaji": "yaku ni tatsu",
+    "arti": "berguna / bermanfaat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ヒヤリ・ハット",
+    "romaji": "hiyari hatto",
+    "arti": "near miss (nyaris celaka)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "romaji": "katsudou",
+    "arti": "aktivitas / kegiatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "参加",
+    "hiragana": "さんか",
+    "romaji": "sanka",
+    "arti": "partisipasi / ikut serta",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "もう少し",
+    "hiragana": "もうすこし",
+    "romaji": "mou sukoshi",
+    "arti": "sedikit lagi",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "怪我",
+    "hiragana": "けが",
+    "romaji": "kega",
+    "arti": "luka / cedera",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "arti": "penyebab / alasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "romaji": "karui",
+    "arti": "ringan",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "romaji": "chiisana",
+    "arti": "kecil",
+    "tipe": "Pra-nomina (Rentaishi)"
+  },
+  {
+    "kanji": "件",
+    "hiragana": "けん",
+    "romaji": "ken",
+    "arti": "kasus / kejadian (satuan hitung)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "法則",
+    "hiragana": "ほうそく",
+    "romaji": "housoku",
+    "arti": "hukum / aturan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ハインリッヒ",
+    "romaji": "hainrihhi",
+    "arti": "Heinrich",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "romaji": "sukunai",
+    "arti": "sedikit",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "起こりにくい",
+    "hiragana": "おこりにくい",
+    "romaji": "okorinikui",
+    "arti": "sulit / jarang terjadi",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "romaji": "omoi",
+    "arti": "berat / parah",
+    "tipe": "Kata Sifat (i)"
+  }
+]
