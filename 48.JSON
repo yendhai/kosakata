@@ -1,0 +1,408 @@
+[
+  {
+    "kanji": "作業手順書",
+    "hiragana": "さぎょうてじゅんしょ",
+    "romaji": "sagyou tejunsho",
+    "arti": "buku panduan kerja / SOP",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ルール",
+    "romaji": "ruuru",
+    "arti": "aturan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "守る",
+    "hiragana": "まもる",
+    "romaji": "mamoru",
+    "arti": "mematuhi / menjaga",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "労働災害",
+    "hiragana": "ろうどうさいがい",
+    "romaji": "roudou saigai",
+    "arti": "kecelakaan kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "予防",
+    "hiragana": "よぼう",
+    "romaji": "yobou",
+    "arti": "pencegahan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "arti": "menulis (dalam teks ini bentuk pasif 書かれています - kakarete imasu: ditulis)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "基本的",
+    "hiragana": "きほんてき",
+    "romaji": "kihonteki",
+    "arti": "mendasar / fundamental",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "職場",
+    "hiragana": "しょくば",
+    "romaji": "shokuba",
+    "arti": "tempat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業場",
+    "hiragana": "さぎょうじょう",
+    "romaji": "sagyoujou",
+    "arti": "area kerja / tempat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "romaji": "hashiru",
+    "arti": "berlari",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "arti": "menentukan / menetapkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "通路",
+    "hiragana": "つうろ",
+    "romaji": "tsuuro",
+    "arti": "lorong / jalan lintas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "arti": "berjalan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "横断",
+    "hiragana": "おうだん",
+    "romaji": "oudan",
+    "arti": "menyeberang / perlintasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "romaji": "houhou",
+    "arti": "cara / metode",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "フォークリフト",
+    "romaji": "fookurifuto",
+    "arti": "forklift",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "通る",
+    "hiragana": "とおる",
+    "romaji": "tooru",
+    "arti": "lewat / melintas",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "とき",
+    "romaji": "toki",
+    "arti": "saat / waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "運転",
+    "hiragana": "うんてん",
+    "romaji": "unten",
+    "arti": "mengemudi / mengoperasikan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "romaji": "hito",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "目",
+    "hiragana": "め",
+    "romaji": "me",
+    "arti": "mata",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "合わせる",
+    "hiragana": "あわせる",
+    "romaji": "awaseru",
+    "arti": "menyesuaikan / menyatukan (目を合わせる - me o awaseru = bertatapan mata)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "arti": "konfirmasi / pengecekan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "コンベア",
+    "romaji": "konbea",
+    "arti": "conveyor (ban berjalan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "下",
+    "hiragana": "した",
+    "romaji": "shita",
+    "arti": "bawah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "くぐる",
+    "romaji": "kuguru",
+    "arti": "berjalan menunduk di bawah sesuatu",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "階段",
+    "hiragana": "かいだん",
+    "romaji": "kaidan",
+    "arti": "tangga",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "下りる",
+    "hiragana": "おりる",
+    "romaji": "oriru",
+    "arti": "turun (ke bawah)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "romaji": "agaru",
+    "arti": "naik (ke atas)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "romaji": "sagyou",
+    "arti": "pekerjaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "手順",
+    "hiragana": "てじゅん",
+    "romaji": "tejun",
+    "arti": "prosedur / langkah-langkah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "必ず",
+    "hiragana": "かならず",
+    "romaji": "kanarazu",
+    "arti": "pasti / selalu",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "スイッチ",
+    "romaji": "suicchi",
+    "arti": "sakelar / tombol",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "ireru",
+    "arti": "memasukkan / menyalakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "指差呼称",
+    "hiragana": "しさこしょう",
+    "romaji": "shisa koshou",
+    "arti": "menunjuk sambil menyebut (metode keselamatan point and call)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "共同",
+    "hiragana": "きょうどう",
+    "romaji": "kyoudou",
+    "arti": "bersama-sama",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "連絡",
+    "hiragana": "れんらく",
+    "romaji": "renraku",
+    "arti": "komunikasi / menghubungi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "合図",
+    "hiragana": "あいず",
+    "romaji": "aizu",
+    "arti": "isyarat / tanda",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "確実",
+    "hiragana": "かくじつ",
+    "romaji": "kakujitsu",
+    "arti": "pasti / dengan tepat",
+    "tipe": "Kata Sifat (na) / Kata Keterangan"
+  },
+  {
+    "kanji": "よそ見",
+    "hiragana": "よそみ",
+    "romaji": "yosomi",
+    "arti": "melihat ke arah lain (tidak fokus)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "ムダ話",
+    "hiragana": "ムダばなし",
+    "romaji": "mudabanashi",
+    "arti": "obrolan sia-sia / bicara yang tidak perlu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "工具",
+    "hiragana": "こうぐ",
+    "romaji": "kougu",
+    "arti": "perkakas / alat kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ナイフ",
+    "romaji": "naifu",
+    "arti": "pisau",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "置き方",
+    "hiragana": "おきかた",
+    "romaji": "okikata",
+    "arti": "cara meletakkan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "arti": "meletakkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "romaji": "kiken",
+    "arti": "bahaya",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "見つかる",
+    "hiragana": "みつかる",
+    "romaji": "mitsukaru",
+    "arti": "ditemukan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "責任者",
+    "hiragana": "せきにんしゃ",
+    "romaji": "sekininsha",
+    "arti": "penanggung jawab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "報告",
+    "hiragana": "ほうこく",
+    "romaji": "houkoku",
+    "arti": "melapor / laporan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "他",
+    "hiragana": "ほか",
+    "romaji": "hoka",
+    "arti": "lain / yang lain",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "見る",
+    "hiragana": "みる",
+    "romaji": "miru",
+    "arti": "melihat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "声",
+    "hiragana": "こえ",
+    "romaji": "koe",
+    "arti": "suara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "注意",
+    "hiragana": "ちゅうい",
+    "romaji": "chuui",
+    "arti": "memperingatkan / memperhatikan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "離れる",
+    "hiragana": "はなれる",
+    "romaji": "hanareru",
+    "arti": "meninggalkan / menjauh",
+    "tipe": "Kata Kerja"
+  }
+]
