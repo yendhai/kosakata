@@ -1,0 +1,352 @@
+[
+  {
+    "kanji": "腰痛",
+    "hiragana": "ようつう",
+    "romaji": "youtsuu",
+    "arti": "sakit pinggang / nyeri punggung bawah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "災害",
+    "hiragana": "さいがい",
+    "romaji": "saigai",
+    "arti": "bencana / kecelakaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "romaji": "omoi",
+    "arti": "berat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "持ちあげる",
+    "hiragana": "もちあげる",
+    "romaji": "mochiageru",
+    "arti": "mengangkat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "繰り返す",
+    "hiragana": "くりかえす",
+    "romaji": "kurikaesu",
+    "arti": "mengulang",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "romaji": "hakobu",
+    "arti": "membawa / mengangkut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "起こる",
+    "hiragana": "おこる",
+    "romaji": "okoru",
+    "arti": "terjadi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "長い間",
+    "hiragana": "ながいあいだ",
+    "romaji": "nagai aida",
+    "arti": "waktu yang lama",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "治る",
+    "hiragana": "なおる",
+    "romaji": "naoru",
+    "arti": "sembuh / pulih",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "何度も",
+    "hiragana": "なんども",
+    "romaji": "nandomo",
+    "arti": "berkali-kali",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "熱中症",
+    "hiragana": "ねっちゅうしょう",
+    "romaji": "necchuushou",
+    "arti": "sengatan panas / heatstroke",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "気温",
+    "hiragana": "きおん",
+    "romaji": "kion",
+    "arti": "suhu udara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "湿度",
+    "hiragana": "しつど",
+    "romaji": "shitsudo",
+    "arti": "kelembapan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "arti": "tinggi",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "体温",
+    "hiragana": "たいおん",
+    "romaji": "taion",
+    "arti": "suhu tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "romaji": "agaru",
+    "arti": "naik",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "体内",
+    "hiragana": "たいない",
+    "romaji": "tainai",
+    "arti": "dalam tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水分",
+    "hiragana": "すいぶん",
+    "romaji": "suibun",
+    "arti": "kandungan air / cairan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "塩分",
+    "hiragana": "えんぶん",
+    "romaji": "enbun",
+    "arti": "kandungan garam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "崩れる",
+    "hiragana": "くずれる",
+    "romaji": "kuzureru",
+    "arti": "runtuh / rusak (keseimbangan)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "調節",
+    "hiragana": "ちょうせつ",
+    "romaji": "chousetsu",
+    "arti": "pengaturan / penyesuaian",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "死ぬ",
+    "hiragana": "しぬ",
+    "romaji": "shinu",
+    "arti": "mati / meninggal",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "激突",
+    "hiragana": "げきとつ",
+    "romaji": "gekitotsu",
+    "arti": "benturan / tabrakan keras",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "移動中",
+    "hiragana": "いどうちゅう",
+    "romaji": "idouchuu",
+    "arti": "sedang berpindah / bergerak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "フォークリフト",
+    "romaji": "fookurifuto",
+    "arti": "forklift",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "速く",
+    "hiragana": "はやく",
+    "romaji": "hayaku",
+    "arti": "dengan cepat",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "動く",
+    "hiragana": "うごく",
+    "romaji": "ugoku",
+    "arti": "bergerak",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "労働災害",
+    "hiragana": "ろうどうさいがい",
+    "romaji": "roudou saigai",
+    "arti": "kecelakaan kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "無くす",
+    "hiragana": "なくす",
+    "romaji": "nakusu",
+    "arti": "menghilangkan / meniadakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "大切",
+    "hiragana": "たいせつ",
+    "romaji": "taisetsu",
+    "arti": "penting",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "責任者",
+    "hiragana": "せきにんしゃ",
+    "romaji": "sekininsha",
+    "arti": "penanggung jawab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "指示",
+    "hiragana": "しじ",
+    "romaji": "shiji",
+    "arti": "instruksi / petunjuk",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "従う",
+    "hiragana": "したがう",
+    "romaji": "shitagau",
+    "arti": "mengikuti / mematuhi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "romaji": "kimaru",
+    "arti": "diputuskan / ditetapkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ルール",
+    "romaji": "ruuru",
+    "arti": "aturan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "目標",
+    "hiragana": "もくひょう",
+    "romaji": "mokuhyou",
+    "arti": "target / tujuan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "romaji": "katsudou",
+    "arti": "kegiatan / aktivitas",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "参加",
+    "hiragana": "さんか",
+    "romaji": "sanka",
+    "arti": "partisipasi / keikutsertaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "洗剤",
+    "hiragana": "せんざい",
+    "romaji": "senzai",
+    "arti": "deterjen / bahan pembersih",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "薬剤",
+    "hiragana": "やくざい",
+    "romaji": "yakuzai",
+    "arti": "bahan kimia / obat-obatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "arti": "pekerjaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "romaji": "isogashii",
+    "arti": "sibuk",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "romaji": "onaji",
+    "arti": "sama",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "状態",
+    "hiragana": "じょうたい",
+    "romaji": "joutai",
+    "arti": "kondisi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保つ",
+    "hiragana": "たもつ",
+    "romaji": "tamotsu",
+    "arti": "menjaga / mempertahankan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "romaji": "jibun",
+    "arti": "diri sendiri",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "romaji": "anzen",
+    "arti": "keamanan / keselamatan",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "第２章",
+    "hiragana": "だいにしょう",
+    "romaji": "dai ni shou",
+    "arti": "bab 2",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "学習",
+    "hiragana": "がくしゅう",
+    "romaji": "gakushuu",
+    "arti": "pembelajaran / belajar",
+    "tipe": "Kata Benda / Kata Kerja"
+  }
+]
