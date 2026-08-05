@@ -1,0 +1,303 @@
+[
+  {
+    "kanji": "事例",
+    "hiragana": "じれい",
+    "romaji": "jirei",
+    "arti": "contoh kasus / preseden",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "状況",
+    "hiragana": "じょうきょう",
+    "romaji": "joukyou",
+    "arti": "situasi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいらっしゃる / はいる",
+    "romaji": "hairu",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "romaji": "hako",
+    "arti": "kotak / box",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "両手",
+    "hiragana": "りょうて",
+    "romaji": "ryoute",
+    "arti": "kedua tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "romaji": "motsu",
+    "arti": "memegang / membawa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "向う",
+    "hiragana": "むかう",
+    "romaji": "mukau",
+    "arti": "menuju ke arah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "駐車場",
+    "hiragana": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "arti": "tempat parkir",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "arti": "berjalan kaki",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "通路",
+    "hiragana": "つうろ",
+    "romaji": "tsuuro",
+    "arti": "lorong / jalur / jalan lewat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "arti": "meletakkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "空箱",
+    "hiragana": "からばこ",
+    "romaji": "karabako",
+    "arti": "kotak kosong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "転倒",
+    "hiragana": "てんとう",
+    "romaji": "tentou",
+    "arti": "terjatuh / tergelincir",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "重ねる",
+    "hiragana": "かさねる",
+    "romaji": "kasaneru",
+    "arti": "menumpuk / menindih",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "足元",
+    "hiragana": "あしもと",
+    "romaji": "ashimoto",
+    "arti": "pijakan kaki / area sekitar kaki",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "見える",
+    "hiragana": "みえる",
+    "romaji": "mieru",
+    "arti": "terlihat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "romaji": "anzen",
+    "arti": "keselamatan / aman",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "arti": "konfirmasi / memastikan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "十分",
+    "hiragana": "じゅうぶん",
+    "romaji": "juubun",
+    "arti": "cukup",
+    "tipe": "Kata Sifat (na) / Kata Keterangan"
+  },
+  {
+    "kanji": "対策",
+    "hiragana": "たいさく",
+    "romaji": "taisaku",
+    "arti": "langkah penanggulangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "romaji": "sagyou",
+    "arti": "pekerjaan / aktivitas kerja",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "物",
+    "hiragana": "もの",
+    "romaji": "mono",
+    "arti": "barang / benda",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "まま",
+    "hiragana": "まま",
+    "romaji": "mama",
+    "arti": "seperti apa adanya / membiarkan",
+    "tipe": "Kata Tata Bahasa"
+  },
+  {
+    "kanji": "開始",
+    "hiragana": "かいし",
+    "romaji": "kaishi",
+    "arti": "memulai / permulaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum / depan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "romaji": "hakobu",
+    "arti": "mengangkut / membawa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "数",
+    "hiragana": "かず",
+    "romaji": "kazu",
+    "arti": "jumlah / angka",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "災害",
+    "hiragana": "さいがい",
+    "romaji": "saigai",
+    "arti": "bencana / kecelakaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "包装",
+    "hiragana": "ほうそう",
+    "romaji": "housou",
+    "arti": "pengemasan / pembungkusan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "製品",
+    "hiragana": "せいひん",
+    "romaji": "seihin",
+    "arti": "produk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "止まる",
+    "hiragana": "とまる",
+    "romaji": "tomaru",
+    "arti": "berhenti",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "停止",
+    "hiragana": "ていし",
+    "romaji": "teishi",
+    "arti": "penghentian / berhenti",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "押す",
+    "hiragana": "おす",
+    "romaji": "osu",
+    "arti": "menekan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "カバー",
+    "romaji": "kabaa",
+    "arti": "tutup / pelindung / cover",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "romaji": "akeru",
+    "arti": "membuka",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "取り除く",
+    "hiragana": "とりのぞく",
+    "romaji": "torinozoku",
+    "arti": "menyingkirkan / mengeluarkan / membersihkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "突然",
+    "hiragana": "とつぜん",
+    "romaji": "totsuzen",
+    "arti": "tiba-tiba",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "動き出す",
+    "hiragana": "うきだす / うごだす",
+    "romaji": "ugodasu",
+    "arti": "mulai bergerak",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "arti": "tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "挟まる",
+    "hiragana": "はさまれる",
+    "romaji": "hasamareru",
+    "arti": "terjepit",
+    "tipe": "Kata Kerja"
+  }
+]
