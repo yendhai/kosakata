@@ -1,0 +1,632 @@
+[
+  {
+    "kanji": "安全保護具",
+    "hiragana": "あんぜんほごぐ",
+    "romaji": "anzen hogogu",
+    "arti": "alat pelindung keselamatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "romaji": "tadashii",
+    "arti": "benar / tepat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "着用",
+    "hiragana": "ちゃくよう",
+    "romaji": "chakuyou",
+    "arti": "memakai / mengenakan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "指示",
+    "hiragana": "しじ",
+    "romaji": "shiji",
+    "arti": "instruksi / petunjuk",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "romaji": "baai",
+    "arti": "kasus / situasi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "romaji": "shokuhin",
+    "arti": "makanan / produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "製造",
+    "hiragana": "せいぞう",
+    "romaji": "seizou",
+    "arti": "produksi / pembuatan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "romaji": "koujou",
+    "arti": "pabrik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "arti": "menggunakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "紹介",
+    "hiragana": "しょうかい",
+    "romaji": "shoukai",
+    "arti": "memperkenalkan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ヘルメット",
+    "romaji": "herumetto",
+    "arti": "helm",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "頭傷",
+    "hiragana": "とうしょう",
+    "romaji": "toushou",
+    "arti": "luka/cedera kepala",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "防止",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "arti": "pencegahan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "保護メガネ",
+    "hiragana": "ほごめがね",
+    "romaji": "hogo megane",
+    "arti": "kacamata pelindung",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "眼",
+    "hiragana": "め",
+    "romaji": "me",
+    "arti": "mata",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ケガ",
+    "romaji": "kega",
+    "arti": "luka / cedera",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "高さ",
+    "hiragana": "たかさ",
+    "romaji": "takasa",
+    "arti": "ketinggian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "メートル",
+    "romaji": "meetoru",
+    "arti": "meter",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "以上",
+    "hiragana": "いじょう",
+    "romaji": "ijou",
+    "arti": "lebih dari / ke atas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "所",
+    "hiragana": "ところ",
+    "romaji": "tokoro",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "romaji": "sagyou",
+    "arti": "pekerjaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "高所作業",
+    "hiragana": "こうしょさぎょう",
+    "romaji": "kousho sagyou",
+    "arti": "pekerjaan di tempat tinggi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "romaji": "iu",
+    "arti": "berkata / menyebut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "とき",
+    "romaji": "toki",
+    "arti": "saat / waktu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "薬品",
+    "hiragana": "やくひん",
+    "romaji": "yakuhin",
+    "arti": "bahan kimia / obat-obatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "微粉",
+    "hiragana": "びふん",
+    "romaji": "bifun",
+    "arti": "bubuk halus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "非常",
+    "hiragana": "ひじょう",
+    "romaji": "hijou",
+    "arti": "sangat",
+    "tipe": "Kata Sifat (na) / Keterangan"
+  },
+  {
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "romaji": "chiisana",
+    "arti": "kecil",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "粉",
+    "hiragana": "こな",
+    "romaji": "kona",
+    "arti": "bubuk / serbuk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "取り扱う",
+    "hiragana": "とりあつかう",
+    "romaji": "toriatsukau",
+    "arti": "menangani",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "液",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "arti": "cairan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "arti": "masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "romaji": "fusegu",
+    "arti": "mencegah",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "高圧洗浄",
+    "hiragana": "こうあつせんじょう",
+    "romaji": "kouatsu senjou",
+    "arti": "pencucian bertekanan tinggi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "洗浄物",
+    "hiragana": "せんじょうぶつ",
+    "romaji": "senjoubutsu",
+    "arti": "benda yang dicuci",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "ゴム手袋",
+    "hiragana": "ゴムてぶくろ",
+    "romaji": "gomu tebukuro",
+    "arti": "sarung tangan karet",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やけど",
+    "romaji": "yakedo",
+    "arti": "luka bakar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "耳栓",
+    "hiragana": "みみせん",
+    "romaji": "mimisen",
+    "arti": "penyumbat telinga (earplug)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "防音",
+    "hiragana": "ぼうおん",
+    "romaji": "bouon",
+    "arti": "kedap suara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "熱い",
+    "hiragana": "あつい",
+    "romaji": "atsui",
+    "arti": "panas",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "薬剤",
+    "hiragana": "やくざい",
+    "romaji": "yakuzai",
+    "arti": "bahan kimia",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "液体",
+    "hiragana": "えきたい",
+    "romaji": "ekitai",
+    "arti": "benda cair / cairan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "arti": "dalam",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "ireru",
+    "arti": "memasukkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "romaji": "tebukuro",
+    "arti": "sarung tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "口",
+    "hiragana": "くち",
+    "romaji": "kuchi",
+    "arti": "mulut / celah pembuka",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "騒音",
+    "hiragana": "そうおん",
+    "romaji": "souon",
+    "arti": "suara bising / kebisingan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "発する",
+    "hiragana": "はっする",
+    "romaji": "hassuru",
+    "arti": "mengeluarkan / memancarkan (suara)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "難聴",
+    "hiragana": "なんちょう",
+    "romaji": "nanchou",
+    "arti": "gangguan pendengaran / tuli",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ミトンてぶくろ",
+    "romaji": "miton tebukuro",
+    "arti": "sarung tangan pelindung insulasi (mitten)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "耐熱",
+    "hiragana": "たいねつ",
+    "romaji": "tainetsu",
+    "arti": "tahan panas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "エプロン",
+    "romaji": "epuron",
+    "arti": "celemek / apron",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "布",
+    "hiragana": "ぬの",
+    "romaji": "nuno",
+    "arti": "kain",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "触る",
+    "hiragana": "さわる",
+    "romaji": "sawaru",
+    "arti": "menyentuh",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "清掃",
+    "hiragana": "せいそう",
+    "romaji": "seisou",
+    "arti": "pembersihan / resik",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "メクセルてぶくろ",
+    "romaji": "mekuseru tebukuro",
+    "arti": "sarung tangan mexcel",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "romaji": "yubi",
+    "arti": "jari",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "切傷",
+    "hiragana": "せっしょう",
+    "romaji": "sesshou",
+    "arti": "luka iris / sayat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "安全靴",
+    "hiragana": "あんぜんぐつ",
+    "romaji": "anzengutsu",
+    "arti": "sepatu keselamatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "足",
+    "hiragana": "あし",
+    "romaji": "ashi",
+    "arti": "kaki",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "圧傷",
+    "hiragana": "あっしょう",
+    "romaji": "asshou",
+    "arti": "luka memar / tekanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "切れにくい",
+    "hiragana": "きれにくい",
+    "romaji": "kirenikui",
+    "arti": "sulit dipotong",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "繊維",
+    "hiragana": "せんい",
+    "romaji": "sen'i",
+    "arti": "serat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "編み上げる",
+    "hiragana": "あみあげる",
+    "romaji": "amiageru",
+    "arti": "merajut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "刃物",
+    "hiragana": "はもの",
+    "romaji": "hamono",
+    "arti": "benda tajam / pisau",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "耐切創手袋",
+    "hiragana": "たいせっそうてぶくろ",
+    "romaji": "taisessou tebukuro",
+    "arti": "sarung tangan anti-potong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "一種",
+    "hiragana": "いっしゅ",
+    "romaji": "isshu",
+    "arti": "sejenis / salah satu jenis",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "つま先",
+    "hiragana": "つまさき",
+    "romaji": "tsumasaki",
+    "arti": "ujung jari kaki",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かかと",
+    "romaji": "kakato",
+    "arti": "tumit",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "鋼板",
+    "hiragana": "こうばん",
+    "romaji": "kouban",
+    "arti": "pelat baja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "プラスチックばん",
+    "romaji": "purasuchikku ban",
+    "arti": "pelat plastik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "装着",
+    "hiragana": "そうちゃく",
+    "romaji": "souchaku",
+    "arti": "pemasangan / dilengkapi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "くさり手袋",
+    "hiragana": "くさりてぶくろ",
+    "romaji": "kusari tebukuro",
+    "arti": "sarung tangan rantai (chainmail)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "カバー付き長靴",
+    "hiragana": "カバーつきながぐつ",
+    "romaji": "kabaa tsuki nagagutsu",
+    "arti": "sepatu bot dengan penutup",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すべり",
+    "romaji": "suberi",
+    "arti": "terpeleset",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "ステンレス鋼",
+    "hiragana": "ステンレスこう",
+    "romaji": "sutenresu kou",
+    "arti": "baja tahan karat (stainless steel)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "網",
+    "hiragana": "あみ",
+    "romaji": "ami",
+    "arti": "jaring",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "arti": "daging",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "romaji": "katai",
+    "arti": "keras",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "arti": "sayuran",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かぼちゃ",
+    "romaji": "kabocha",
+    "arti": "labu kuning",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "romaji": "tsuyoi",
+    "arti": "kuat",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "力",
+    "hiragana": "ちから",
+    "romaji": "chikara",
+    "arti": "tenaga / kekuatan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "切る",
+    "hiragana": "きる",
+    "romaji": "kiru",
+    "arti": "memotong",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "耐油",
+    "hiragana": "たいゆ",
+    "romaji": "taiyu",
+    "arti": "tahan minyak",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "滑りにくい",
+    "hiragana": "すべりにくい",
+    "romaji": "suberinikui",
+    "arti": "tidak licin",
+    "tipe": "Kata Sifat (i)"
+  },
+  {
+    "kanji": "靴底",
+    "hiragana": "くつぞこ",
+    "romaji": "kutsuzoko",
+    "arti": "sol sepatu",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "上部",
+    "hiragana": "じょうぶ",
+    "romaji": "joubu",
+    "arti": "bagian atas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "arti": "air",
+    "tipe": "Kata Benda"
+  }
+]
