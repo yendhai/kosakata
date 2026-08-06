@@ -1,0 +1,359 @@
+[
+  {
+    "kanji": "腰痛",
+    "hiragana": "ようつう",
+    "romaji": "youtsuu",
+    "arti": "sakit pinggang / nyeri punggung",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "災害",
+    "hiragana": "さいがい",
+    "romaji": "saigai",
+    "arti": "bencana / kecelakaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "事例",
+    "hiragana": "じれい",
+    "romaji": "jirei",
+    "arti": "contoh kasus / preseden",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "状況",
+    "hiragana": "じょうきょう",
+    "romaji": "joukyou",
+    "arti": "situasi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "romaji": "omoi",
+    "arti": "berat",
+    "tipe": "Kata Sifat-i"
+  },
+  {
+    "kanji": "釜",
+    "hiragana": "かま",
+    "romaji": "kama",
+    "arti": "ketel / periuk",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "両手",
+    "hiragana": "りょうて",
+    "romaji": "ryoute",
+    "arti": "kedua belah tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持ち上げる",
+    "hiragana": "もちあげる",
+    "romaji": "mochiageru",
+    "arti": "mengangkat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "腰",
+    "hiragana": "こし",
+    "romaji": "koshi",
+    "arti": "pinggang / pinggul",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "romaji": "tsuyoi",
+    "arti": "kuat",
+    "tipe": "Kata Sifat-i"
+  },
+  {
+    "kanji": "痛み",
+    "hiragana": "いたみ",
+    "romaji": "itami",
+    "arti": "rasa sakit / nyeri",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "romaji": "kanjiru",
+    "arti": "merasakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "不安定",
+    "hiragana": "ふあんてい",
+    "romaji": "fuantei",
+    "arti": "tidak stabil",
+    "tipe": "Kata Sifat-na / Kata Benda"
+  },
+  {
+    "kanji": "姿勢",
+    "hiragana": "しせい",
+    "romaji": "shisei",
+    "arti": "postur / sikap tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "物",
+    "hiragana": "もの",
+    "romaji": "mono",
+    "arti": "barang / benda",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "対策",
+    "hiragana": "たいさく",
+    "romaji": "taisaku",
+    "arti": "langkah penanggulangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "身体",
+    "hiragana": "からだ",
+    "romaji": "karada",
+    "arti": "tubuh / badan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "近づける",
+    "hiragana": "ちかづける",
+    "romaji": "chikazukeru",
+    "arti": "mendekatkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "膝",
+    "hiragana": "ひざ",
+    "romaji": "hiza",
+    "arti": "lutut",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "曲げる",
+    "hiragana": "まげる",
+    "romaji": "mageru",
+    "arti": "tekuk / menekuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "下ろす",
+    "hiragana": "おろす",
+    "romaji": "orosu",
+    "arti": "menurunkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "抱える",
+    "hiragana": "かかえる",
+    "romaji": "kakaeru",
+    "arti": "memeluk / mendekap",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "伸ばす",
+    "hiragana": "のばす",
+    "romaji": "nobasu",
+    "arti": "meluruskan / memanjangkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "立つ",
+    "hiragana": "たつ",
+    "romaji": "tatsu",
+    "arti": "berdiri",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "romaji": "agaru",
+    "arti": "naik",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "romaji": "hakobu",
+    "arti": "mengangkut / membawa",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "できるだけ",
+    "romaji": "dekiru dake",
+    "arti": "sebisa mungkin",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "台車",
+    "hiragana": "だいしゃ",
+    "romaji": "daisha",
+    "arti": "truk dorong / troli",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "使用",
+    "hiragana": "しよう",
+    "romaji": "shiyou",
+    "arti": "penggunaan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "熱中症",
+    "hiragana": "ねっちゅうしょう",
+    "romaji": "necchuushou",
+    "arti": "heatstroke / sengatan panas",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "生あん",
+    "hiragana": "せいあん",
+    "romaji": "seian",
+    "arti": "pasta kacang merah mentah (shiro-an/koshi-an dasar)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "工程",
+    "hiragana": "こうてい",
+    "romaji": "koutei",
+    "arti": "proses / tahapan kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ほっぱー",
+    "romaji": "hoppaa",
+    "arti": "corong penampung / hopper",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "豆",
+    "hiragana": "まめ",
+    "romaji": "mame",
+    "arti": "kacang",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "入れる",
+    "romaji": "ireru",
+    "arti": "memasukkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "計量",
+    "hiragana": "けいりょう",
+    "romaji": "keiryou",
+    "arti": "pengukuran / penimbangan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "繰り替える",
+    "hiragana": "くりかえる",
+    "romaji": "kurikaeru",
+    "arti": "mengulangi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "移動",
+    "hiragana": "いどう",
+    "romaji": "idou",
+    "arti": "perpindahan / bergerak",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ふらつく",
+    "romaji": "furatsuku",
+    "arti": "oleng / pusing / sempoyongan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "診断",
+    "hiragana": "しんだん",
+    "romaji": "shindan",
+    "arti": "diagnosis",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "気温",
+    "hiragana": "きおん",
+    "romaji": "kion",
+    "arti": "suhu udara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "湿度",
+    "hiragana": "しつど",
+    "romaji": "shitsudo",
+    "arti": "kelembapan udara",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "romaji": "takai",
+    "arti": "tinggi",
+    "tipe": "Kata Sifat-i"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "休憩",
+    "hiragana": "きゅうけい",
+    "romaji": "kyuukei",
+    "arti": "istirahat",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "取る",
+    "hiragana": "とる",
+    "romaji": "toru",
+    "arti": "mengambil / beristirahat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "続ける",
+    "hiragana": "つづける",
+    "romaji": "tsuzukeru",
+    "arti": "melanjutkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "汗",
+    "hiragana": "あせ",
+    "romaji": "ase",
+    "arti": "keringat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水分",
+    "hiragana": "すいぶん",
+    "romaji": "suibun",
+    "arti": "kadar air / cairan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "塩分",
+    "hiragana": "えんぶん",
+    "romaji": "enbun",
+    "arti": "kadar garam",
+    "tipe": "Kata Benda"
+  }
+]
