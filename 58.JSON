@@ -1,0 +1,324 @@
+[
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "romaji": "gen'in",
+    "arti": "penyebab",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "包装",
+    "hiragana": "ほうそう",
+    "romaji": "housou",
+    "arti": "pengemasan / pembungkusan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "らいん",
+    "romaji": "rain",
+    "arti": "jalur / line",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "停止",
+    "hiragana": "ていし",
+    "romaji": "teishi",
+    "arti": "penghentian / berhenti",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ぼたん",
+    "romaji": "botan",
+    "arti": "tombol",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "押す",
+    "hiragana": "おす",
+    "romaji": "osu",
+    "arti": "menekan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "完全",
+    "hiragana": "かんぜん",
+    "romaji": "kanzen",
+    "arti": "sempurna / sepenuhnya",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "romaji": "kakunin",
+    "arti": "konfirmasi / memastikan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "かばー",
+    "romaji": "kabaa",
+    "arti": "tutup / pelindung / cover",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "romaji": "akeru",
+    "arti": "membuka",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "自動的",
+    "hiragana": "じどうてき",
+    "romaji": "jidouteki",
+    "arti": "secara otomatis",
+    "tipe": "Kata Sifat (na)"
+  },
+  {
+    "kanji": "止まる",
+    "hiragana": "とまる",
+    "romaji": "tomaru",
+    "arti": "berhenti",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "安全装置",
+    "hiragana": "あんぜんそうち",
+    "romaji": "anzen souchi",
+    "arti": "perangkat keselamatan / pengaman",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つく",
+    "romaji": "tsuku",
+    "arti": "terpasang / dilengkapi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "対策",
+    "hiragana": "たいさく",
+    "romaji": "taisaku",
+    "arti": "langkah penanggulangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つける",
+    "romaji": "tsukeru",
+    "arti": "memasang / melengkapi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "romaji": "sagyou",
+    "arti": "pekerjaan / aktivitas kerja",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "始める",
+    "hiragana": "はじめる",
+    "romaji": "hajimeru",
+    "arti": "memulai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "事例",
+    "hiragana": "じれい",
+    "romaji": "jirei",
+    "arti": "contoh kasus / preseden",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "状況",
+    "hiragana": "じょうきょう",
+    "romaji": "joukyou",
+    "arti": "situasi / keadaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "べるとこんべあ",
+    "romaji": "berutokonbea",
+    "arti": "sabuk konveyor / belt conveyor",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "止める",
+    "hiragana": "とめる",
+    "romaji": "tomeru",
+    "arti": "menghentikan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "清掃",
+    "hiragana": "せいそう",
+    "romaji": "seisou",
+    "arti": "pembersihan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "おこなう",
+    "romaji": "okonau",
+    "arti": "melakukan / melaksanakan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ところ",
+    "romaji": "tokoro",
+    "arti": "saat / ketika",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ぞうきん",
+    "romaji": "zoukin",
+    "arti": "kain lap",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "引っ掛かる",
+    "hiragana": "ひっかかる",
+    "romaji": "hikkakaru",
+    "arti": "tersangkut",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "arti": "tangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "巻き込まれる",
+    "hiragana": "まきこまれる",
+    "romaji": "makikomareru",
+    "arti": "tergulung / terbawa / terlibat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "異物",
+    "hiragana": "いぶつ",
+    "romaji": "ibutsu",
+    "arti": "benda asing",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "除去",
+    "hiragana": "じょきょ",
+    "romaji": "jokyo",
+    "arti": "menyingkirkan / membuang",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "検査",
+    "hiragana": "けんさ",
+    "romaji": "kensa",
+    "arti": "pemeriksaan / inspeksi",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "修理",
+    "hiragana": "しゅうり",
+    "romaji": "shuuri",
+    "arti": "perbaikan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "等",
+    "hiragana": "とう",
+    "romaji": "tou",
+    "arti": "dan lain-lain",
+    "tipe": "Akhiran Kata Benda"
+  },
+  {
+    "kanji": "確実",
+    "hiragana": "かくじつ",
+    "romaji": "kakujitsu",
+    "arti": "pasti / meyakinkan",
+    "tipe": "Kata Sifat (na) / Kata Benda"
+  },
+  {
+    "kanji": "災害",
+    "hiragana": "さいがい",
+    "romaji": "saigai",
+    "arti": "bencana / kecelakaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "切れる",
+    "hiragana": "きれる",
+    "romaji": "kireru",
+    "arti": "terpotong / putus",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "こすれる",
+    "romaji": "kosureru",
+    "arti": "tergores / tergesek",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "作業台",
+    "hiragana": "さぎょうだい",
+    "romaji": "sagyoudai",
+    "arti": "meja kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食パン",
+    "hiragana": "しょくぱん",
+    "romaji": "shokupan",
+    "arti": "roti tawar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すらいす",
+    "romaji": "suraisu",
+    "arti": "iris / mengiris",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "romaji": "yubi",
+    "arti": "jari",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すらいさー",
+    "romaji": "suraisaa",
+    "arti": "mesin pengiris / slicer",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "刃",
+    "hiragana": "は",
+    "romaji": "ha",
+    "arti": "bilah / mata pisau",
+    "tipe": "Kata Benda"
+  }
+]
