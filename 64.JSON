@@ -1,0 +1,114 @@
+[
+  {
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "romaji": "korobu",
+    "arti": "terjatuh / tersandung",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "足元",
+    "hiragana": "あしもと",
+    "romaji": "ashimoto",
+    "arti": "langkah / pijakan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "滑る",
+    "hiragana": "すべる",
+    "romaji": "suberu",
+    "arti": "terpeleset / licin",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "転倒",
+    "hiragana": "てんとう",
+    "romaji": "tentou",
+    "arti": "jatuh / terjungkal",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "転落",
+    "hiragana": "てんらく",
+    "romaji": "tenraku",
+    "arti": "jatuh (dari ketinggian)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "開口部",
+    "hiragana": "かいこうぶ",
+    "romaji": "kaikoubu",
+    "arti": "lubang bukaan / celah",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "切断",
+    "hiragana": "せつだん",
+    "romaji": "setsudan",
+    "arti": "pemotongan / terpotong",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "機械",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "arti": "mesin",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "巻き込む",
+    "hiragana": "まきこむ",
+    "romaji": "makikomu",
+    "arti": "menggulung / menyeret masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "回転物",
+    "hiragana": "かいてんぶつ",
+    "romaji": "kaitenbutsu",
+    "arti": "benda berputar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "出す",
+    "hiragana": "だす",
+    "romaji": "dasu",
+    "arti": "mengeluarkan / mengulurkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "運転中",
+    "hiragana": "うんてんちゅう",
+    "romaji": "untenchuu",
+    "arti": "sedang beroperasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "感電",
+    "hiragana": "かんでん",
+    "romaji": "kanden",
+    "arti": "tersengat listrik",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "頭",
+    "hiragana": "あたま",
+    "romaji": "atama",
+    "arti": "kepala",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "ぶつける",
+    "hiragana": "ぶつける",
+    "romaji": "butsukeru",
+    "arti": "membenturkan",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "頭上",
+    "hiragana": "ずじょう",
+    "romaji": "zujou",
+    "arti": "atas kepala",
+    "tipe": "Kata Benda"
+  }
+]
