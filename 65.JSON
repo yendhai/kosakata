@@ -1,0 +1,58 @@
+[
+  {
+    "kanji": "目",
+    "hiragana": "め",
+    "romaji": "me",
+    "arti": "mata",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "保護",
+    "hiragana": "ほご",
+    "romaji": "hogo",
+    "arti": "perlindungan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "romaji": "hitsuyou",
+    "arti": "perlu / keperluan",
+    "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "着用",
+    "hiragana": "ちゃくよう",
+    "romaji": "chakuyou",
+    "arti": "mengenakan / memakai",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "避難",
+    "hiragana": "ひ난",
+    "romaji": "hinan",
+    "arti": "evakuasi / mengungsi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "非常口",
+    "hiragana": "ひじょうぐち",
+    "romaji": "hijouguchi",
+    "arti": "pintu darurat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "romaji": "basho",
+    "arti": "tempat",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "消火器",
+    "hiragana": "しょうかき",
+    "romaji": "shoukaki",
+    "arti": "alat pemadam api (APAR)",
+    "tipe": "Kata Benda"
+  }
+]
