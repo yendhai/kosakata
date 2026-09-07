@@ -126,6 +126,12 @@
     "tipe": "Kata Keterangan"
   },
   {
+    "kanji": "食料品製造業",
+    "hiragana": "しょくりょうひんせいぞうぎょう",
+    "arti": "industri manufaktur produk makanan",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "",
     "hiragana": "ジュース",
     "arti": "jus",
@@ -141,6 +147,12 @@
     "kanji": "",
     "hiragana": "コーヒー",
     "arti": "kopi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "飲料製造業",
+    "hiragana": "いんりょうせいぞうぎょう",
+    "arti": "industri manufaktur minuman",
     "tipe": "Kata Benda"
   },
   {
@@ -234,6 +246,60 @@
     "tipe": "Kata Benda"
   },
   {
+    "kanji": "出典",
+    "hiragana": "しゅってん",
+    "arti": "sumber (referensi)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "令和",
+    "hiragana": "れいわ",
+    "arti": "Reiwa (Era Jepang mulai 2019)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "年",
+    "hiragana": "ねん",
+    "arti": "tahun",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "農業",
+    "hiragana": "のうぎょう",
+    "arti": "pertanian",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食料",
+    "hiragana": "しょくりょう",
+    "arti": "bahan pangan / pangan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "関連",
+    "hiragana": "かんれん",
+    "arti": "hubungan / kaitan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "産業",
+    "hiragana": "さんぎょう",
+    "arti": "industri",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "経済計算",
+    "hiragana": "けいざいけいさん",
+    "arti": "perhitungan ekonomi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "概算",
+    "hiragana": "がいさん",
+    "arti": "perkiraan kasar / estimasi",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "単位",
     "hiragana": "たんい",
     "arti": "unit / satuan",
@@ -246,15 +312,9 @@
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "年",
-    "hiragana": "ねん",
-    "arti": "tahun",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "概算",
-    "hiragana": "がいさん",
-    "arti": "perkiraan kasar / estimasi",
+    "kanji": "飲料品",
+    "hiragana": "いんりょうひん",
+    "arti": "produk minuman",
     "tipe": "Kata Benda"
   },
   {
@@ -270,45 +330,9 @@
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "",
-    "hiragana": "すし",
-    "arti": "sushi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "飲料品",
-    "hiragana": "いんりょうひん",
-    "arti": "produk minuman",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "食肉",
-    "hiragana": "しょくにく",
-    "arti": "daging (untuk dimakan)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "畜産食料品",
-    "hiragana": "ちくさんしょくりょうひん",
-    "arti": "produk makanan hewani (peternakan)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "水産食料品",
-    "hiragana": "すいさんしょくりょうひん",
-    "arti": "produk makanan hasil laut (perikanan)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "精穀",
-    "hiragana": "せいこく",
-    "arti": "biji-bijian giling",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "製粉",
-    "hiragana": "せいふん",
-    "arti": "penggilingan tepung",
+    "kanji": "その他",
+    "hiragana": "そのた",
+    "arti": "lain-lain",
     "tipe": "Kata Benda"
   },
   {
@@ -330,9 +354,39 @@
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "その他",
-    "hiragana": "そのた",
-    "arti": "lain-lain",
+    "kanji": "精穀",
+    "hiragana": "せいこく",
+    "arti": "biji-bijian giling",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "製粉",
+    "hiragana": "せいふん",
+    "arti": "penggilingan tepung",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "水産食料品",
+    "hiragana": "すいさんしょくりょうひん",
+    "arti": "produk makanan hasil laut (perikanan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "畜産食料品",
+    "hiragana": "ちくさんしょくりょうひん",
+    "arti": "produk makanan hewani (peternakan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "食肉",
+    "hiragana": "しょくにく",
+    "arti": "daging (untuk dimakan)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "すし",
+    "arti": "sushi",
     "tipe": "Kata Benda"
   },
   {
@@ -345,42 +399,6 @@
     "kanji": "割合",
     "hiragana": "わりあい",
     "arti": "rasio / persentase",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "出典",
-    "hiragana": "しゅってん",
-    "arti": "sumber (referensi)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "令和",
-    "hiragana": "れいわ",
-    "arti": "Reiwa (Era Jepang mulai 2019)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "農業",
-    "hiragana": "のうぎょう",
-    "arti": "pertanian",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "関連",
-    "hiragana": "かんれん",
-    "arti": "hubungan / kaitan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "産業",
-    "hiragana": "さんぎょう",
-    "arti": "industri",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "経済計算",
-    "hiragana": "けいざいけいさん",
-    "arti": "perhitungan ekonomi",
     "tipe": "Kata Benda"
   }
 ]
