@@ -1,5 +1,11 @@
 [
   {
+    "kanji": "",
+    "hiragana": "ノロウイルス",
+    "arti": "virus Norovirus (penyebab keracunan makanan)",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "原因",
     "hiragana": "げんいん",
     "arti": "penyebab",
@@ -24,9 +30,9 @@
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "持つ",
-    "hiragana": "もつ",
-    "arti": "membawa",
+    "kanji": "持ち込む",
+    "hiragana": "もちこむ",
+    "arti": "membawa masuk / memasukkan (ke suatu tempat)",
     "tipe": "Kata Kerja"
   },
   {
@@ -66,15 +72,27 @@
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
+    "kanji": "",
+    "hiragana": "しっかり",
+    "arti": "dengan kuat / sungguh-sungguh / dengan teliti",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "手洗い",
+    "hiragana": "てあらい",
+    "arti": "cuci tangan",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "必要",
     "hiragana": "ひつよう",
     "arti": "perlu / penting",
     "tipe": "Kata Sifat (na) / Kata Benda"
   },
   {
-    "kanji": "手洗い",
-    "hiragana": "てあらい",
-    "arti": "cuci tangan",
+    "kanji": "",
+    "hiragana": "とき",
+    "arti": "waktu / saat / ketika",
     "tipe": "Kata Benda"
   },
   {
@@ -90,8 +108,8 @@
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
-    "kanji": "吐物",
-    "hiragana": "とぶつ",
+    "kanji": "おう吐物",
+    "hiragana": "おうとぶつ",
     "arti": "muntahan",
     "tipe": "Kata Benda"
   },
@@ -132,10 +150,34 @@
     "tipe": "Kata Kerja"
   },
   {
+    "kanji": "言う",
+    "hiragana": "いう",
+    "arti": "mengatakan / menyebut",
+    "tipe": "Kata Kerja"
+  },
+  {
     "kanji": "防ぐ",
     "hiragana": "ふせぐ",
     "arti": "mencegah",
     "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "つける",
+    "arti": "menempelkan (bakteri/kuman)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "やっつける",
+    "arti": "membasmi / mengalahkan (kuman)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "カビ",
+    "arti": "jamur / kapang",
+    "tipe": "Kata Benda"
   },
   {
     "kanji": "微生物",
@@ -144,9 +186,9 @@
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "人",
-    "hiragana": "ひと",
-    "arti": "orang",
+    "kanji": "一つ",
+    "hiragana": "ひとつ",
+    "arti": "satu / salah satu",
     "tipe": "Kata Benda"
   },
   {
@@ -174,6 +216,12 @@
     "tipe": "Kata Benda"
   },
   {
+    "kanji": "",
+    "hiragana": "どこ",
+    "arti": "mana / di mana",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "存在",
     "hiragana": "そんざい",
     "arti": "keberadaan",
@@ -186,9 +234,9 @@
     "tipe": "Kata Sifat (na) / Kata Benda"
   },
   {
-    "kanji": "無くなる",
-    "hiragana": "なくなる",
-    "arti": "hilang / habis",
+    "kanji": "無くす",
+    "hiragana": "なくす",
+    "arti": "menghilangkan",
     "tipe": "Kata Kerja"
   },
   {
@@ -199,7 +247,7 @@
   },
   {
     "kanji": "穀類",
-    "hiragana": "こくりい",
+    "hiragana": "こくるい",
     "arti": "biji-bijian / sereal",
     "tipe": "Kata Benda"
   },
@@ -216,15 +264,27 @@
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "食品",
-    "hiragana": "しょくひん",
-    "arti": "makanan",
-    "tipe": "Kata Benda"
+    "kanji": "",
+    "hiragana": "など",
+    "arti": "dan lain-lain",
+    "tipe": "Kata Keterangan"
   },
   {
     "kanji": "保存中",
     "hiragana": "ほぞんちゅう",
     "arti": "selama penyimpanan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "arti": "bertambah / meningkat",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "食品",
+    "hiragana": "しょくひん",
+    "arti": "makanan",
     "tipe": "Kata Benda"
   },
   {
@@ -240,9 +300,33 @@
     "tipe": "Kata Benda"
   },
   {
+    "kanji": "人",
+    "hiragana": "ひと",
+    "arti": "orang",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "動物",
     "hiragana": "どうぶつ",
     "arti": "hewan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "体",
+    "hiragana": "からだ",
+    "arti": "tubuh",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "表面",
+    "hiragana": "ひょうめん",
+    "arti": "permukaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "体内",
+    "hiragana": "たいない",
+    "arti": "dalam tubuh",
     "tipe": "Kata Benda"
   },
   {
@@ -258,15 +342,57 @@
     "tipe": "Kata Kerja"
   },
   {
-    "kanji": "表面",
-    "hiragana": "ひょうめん",
-    "arti": "permukaan",
+    "kanji": "生きる",
+    "hiragana": "いきる",
+    "arti": "hidup / menjalani hidup",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たとえば",
+    "arti": "misalnya / contohnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アニサキス",
+    "arti": "Anisakis (cacing parasit pada ikan)",
     "tipe": "Kata Benda"
   },
   {
-    "kanji": "体内",
-    "hiragana": "たいない",
-    "arti": "dalam tubuh",
+    "kanji": "",
+    "hiragana": "いる",
+    "arti": "ada / berada (untuk makhluk hidup)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "サバ",
+    "arti": "ikan makarel",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "イワシ",
+    "arti": "ikan sarden",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "サケ",
+    "arti": "ikan salmon",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "アジ",
+    "arti": "ikan kembung (horse mackerel)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "イカ",
+    "arti": "cumi-cumi",
     "tipe": "Kata Benda"
   },
   {
@@ -282,10 +408,22 @@
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
+    "kanji": "",
+    "hiragana": "つく",
+    "arti": "menempel / melekat",
+    "tipe": "Kata Kerja"
+  },
+  {
     "kanji": "生",
     "hiragana": "なま",
     "arti": "mentah",
     "tipe": "Kata Benda / Kata Sifat (na)"
+  },
+  {
+    "kanji": "",
+    "hiragana": "まま",
+    "arti": "dalam keadaan (apa adanya) / tetap",
+    "tipe": "Kata Benda"
   },
   {
     "kanji": "食べる",
@@ -312,16 +450,46 @@
     "tipe": "Kata Kerja"
   },
   {
+    "kanji": "",
+    "hiragana": "これ",
+    "arti": "ini",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "以上",
+    "hiragana": "いじょう",
+    "arti": "lebih dari / di atas",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "加熱",
     "hiragana": "かねつ",
     "arti": "pemanasan",
     "tipe": "Kata Benda / Kata Kerja"
   },
   {
+    "kanji": "分間",
+    "hiragana": "ふんかん",
+    "arti": "durasi ... menit / rentang waktu menit",
+    "tipe": "Kata Benda"
+  },
+  {
     "kanji": "殺す",
     "hiragana": "ころす",
     "arti": "membunuh",
     "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "また",
+    "arti": "juga / selain itu",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "arti": "jam / waktu (durasi)",
+    "tipe": "Kata Benda"
   },
   {
     "kanji": "冷凍",
@@ -334,6 +502,12 @@
     "hiragana": "いっぱんえいせいかんり",
     "arti": "manajemen kebersihan umum",
     "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "どんな",
+    "arti": "jenis apa / bagaimanapun",
+    "tipe": "Kata Sifat (na)"
   },
   {
     "kanji": "作る",
