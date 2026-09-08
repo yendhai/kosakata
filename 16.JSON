@@ -386,4 +386,205 @@
   },
   {
     "kanji": "汚染作業区域",
-    "hiragana": "おせんさぎょ
+    "hiragana": "おせんさぎょうくいき",
+    "romaji": "osensagyoukuiki",
+    "arti": "zona kerja tercemar / kotor",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "区分",
+    "hiragana": "くぶん",
+    "romaji": "kubun",
+    "arti": "klasifikasi / pembagian",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "区域",
+    "hiragana": "くいき",
+    "romaji": "kuiki",
+    "arti": "zona / area",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "分ける",
+    "hiragana": "わける",
+    "romaji": "wakeru",
+    "arti": "membagi",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "ゾーニング",
+    "romaji": "zooningu",
+    "arti": "zonasi",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "加熱",
+    "hiragana": "かねつ",
+    "romaji": "kanetsu",
+    "arti": "pemanasan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "による",
+    "romaji": "niyoru",
+    "arti": "melalui / berdasarkan / karena",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "殺菌",
+    "hiragana": "さっきん",
+    "romaji": "sakkin",
+    "arti": "sterilisasi (membunuh bakteri)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "終わる",
+    "hiragana": "おわる",
+    "romaji": "owaru",
+    "arti": "berakhir / selesai",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "取り扱う",
+    "hiragana": "とりあつかう",
+    "romaji": "toriatsukau",
+    "arti": "menangani / mengurus",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "",
+    "hiragana": "たとえば",
+    "romaji": "tatoeba",
+    "arti": "misalnya / contohnya",
+    "tipe": "Kata Keterangan"
+  },
+  {
+    "kanji": "惣菜製造業",
+    "hiragana": "そうざいせいぞうぎょう",
+    "romaji": "souzaiseizougyou",
+    "arti": "industri pembuatan lauk pauk (deli)",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "トッピング",
+    "romaji": "toppingu",
+    "arti": "topping / taburan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "盛り付け",
+    "hiragana": "もりつけ",
+    "romaji": "moritsuke",
+    "arti": "penataan makanan (plating)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "包装",
+    "hiragana": "ほうそう",
+    "romaji": "housou",
+    "arti": "pengemasan / pembungkusan",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "作業",
+    "hiragana": "さぎょう",
+    "romaji": "sagyou",
+    "arti": "pekerjaan / tugas kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "arti": "sebelum",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "下処理",
+    "hiragana": "したしょり",
+    "romaji": "shitashori",
+    "arti": "persiapan awal (pre-processing)",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "加熱調理",
+    "hiragana": "かねつちょうり",
+    "romaji": "kanetsuchouri",
+    "arti": "memasak dengan pemanasan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "作業中",
+    "hiragana": "さぎょうちゅう",
+    "romaji": "sagyouchuu",
+    "arti": "sedang dalam proses kerja",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "",
+    "hiragana": "なければいけない",
+    "romaji": "nakereba ikenai",
+    "arti": "harus / wajib (melakukan sesuatu)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "受入れ",
+    "hiragana": "うけいれ",
+    "romaji": "ukeire",
+    "arti": "penerimaan",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "外",
+    "hiragana": "そと",
+    "romaji": "soto",
+    "arti": "luar",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "持ち込む",
+    "hiragana": "もちこむ",
+    "romaji": "mochikomu",
+    "arti": "membawa masuk",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "扱う",
+    "hiragana": "あつかう",
+    "romaji": "atsukau",
+    "arti": "menangani / mengurus",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "出荷",
+    "hiragana": "しゅっか",
+    "romaji": "shukka",
+    "arti": "pengiriman barang",
+    "tipe": "Kata Benda / Kata Kerja"
+  },
+  {
+    "kanji": "段ボール箱",
+    "hiragana": "だんボールばこ",
+    "romaji": "danboorubako",
+    "arti": "kotak kardus",
+    "tipe": "Kata Benda"
+  },
+  {
+    "kanji": "詰める",
+    "hiragana": "つめる",
+    "romaji": "tsumeru",
+    "arti": "memasukkan / mengemas (ke dalam wadah)",
+    "tipe": "Kata Kerja"
+  },
+  {
+    "kanji": "製品",
+    "hiragana": "せいひん",
+    "romaji": "seihin",
+    "arti": "produk / barang jadi",
+    "tipe": "Kata Benda"
+  }
+]
