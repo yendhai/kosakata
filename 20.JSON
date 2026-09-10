@@ -1,149 +1,42 @@
 [
-  {
-    "kanji": "一般的",
-    "hiragana": "いっぱんてき",
-    "romaji": "ippanteki",
-    "arti": "umum / secara umum",
-    "tipe": "Kata Sifat (na)"
-  },
-  {
-    "kanji": "次",
-    "hiragana": "つぎ",
-    "romaji": "tsugi",
-    "arti": "berikut / selanjutnya",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "順序",
-    "hiragana": "じゅんじょ",
-    "romaji": "junjo",
-    "arti": "urutan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "着用",
-    "hiragana": "ちゃくよう",
-    "romaji": "chakuyou",
-    "arti": "memakai / mengenakan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "作業服",
-    "hiragana": "さぎょうふく",
-    "romaji": "sagyoufuku",
-    "arti": "pakaian kerja",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "頭髪",
-    "hiragana": "とうはつ",
-    "romaji": "touhatsu",
-    "arti": "rambut",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "外",
-    "hiragana": "そと",
-    "romaji": "soto",
-    "arti": "luar",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "出る",
-    "hiragana": "でる",
-    "romaji": "deru",
-    "arti": "keluar",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "帽子",
-    "hiragana": "ぼうし",
-    "romaji": "boushi",
-    "arti": "topi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "留める",
-    "hiragana": "とめる",
-    "romaji": "tomeru",
-    "arti": "mengancingkan / mengunci",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "最後",
-    "hiragana": "さいご",
-    "romaji": "saigo",
-    "arti": "terakhir",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "服装",
-    "hiragana": "ふくそう",
-    "romaji": "fukusou",
-    "arti": "pakaian / penampilan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "正しい",
-    "hiragana": "ただしい",
-    "romaji": "tadashii",
-    "arti": "benar / tepat",
-    "tipe": "Kata Sifat (i)"
-  },
-  {
-    "kanji": "確認",
-    "hiragana": "かくにん",
-    "romaji": "kakunin",
-    "arti": "konfirmasi / memastikan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "作業中",
-    "hiragana": "さぎょうちゅう",
-    "romaji": "sagyouchuu",
-    "arti": "sedang bekerja",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "作業場",
-    "hiragana": "さぎょうじょう",
-    "romaji": "sagyoujou",
-    "arti": "tempat kerja",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "暑い",
-    "hiragana": "あつい",
-    "romaji": "atsui",
-    "arti": "panas",
-    "tipe": "Kata Sifat (i)"
-  },
-  {
-    "kanji": "脱ぐ",
-    "hiragana": "ぬぐ",
-    "romaji": "nugu",
-    "arti": "melepas (pakaian/topi)",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "袖",
-    "hiragana": "そで",
-    "romaji": "sode",
-    "arti": "lengan (baju)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "捲る",
-    "hiragana": "まくる",
-    "romaji": "makuru",
-    "arti": "menyingsingkan / menggulung",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "外す",
-    "hiragana": "はずす",
-    "romaji": "hazusu",
-    "arti": "melepaskan",
-    "tipe": "Kata Kerja"
-  }
+  { "kanji": "作業服", "hiragana": "さぎょうふく", "romaji": "sagyoufuku", "arti": "pakaian kerja", "tipe": "Kata Benda" },
+  { "kanji": "一般的", "hiragana": "いっぱんてき", "romaji": "ippanteki", "arti": "umum / secara umum", "tipe": "Kata Sifat (na)" },
+  { "kanji": "次", "hiragana": "つぎ", "romaji": "tsugi", "arti": "berikut / selanjutnya", "tipe": "Kata Benda" },
+  { "kanji": "順序", "hiragana": "じゅんじょ", "romaji": "junjo", "arti": "urutan", "tipe": "Kata Benda" },
+  { "kanji": "着用", "hiragana": "ちゃくよう", "romaji": "chakuyou", "arti": "memakai / mengenakan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "ブラッシング", "romaji": "burasshingu", "arti": "menyikat / brushing (rambut)", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "頭髪", "hiragana": "とうはつ", "romaji": "touhatsu", "arti": "rambut", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "よく", "romaji": "yoku", "arti": "dengan baik / secara menyeluruh / sering", "tipe": "Kata Keterangan" },
+  { "kanji": "", "hiragana": "ヘアーネット", "romaji": "heaanetto", "arti": "jaring rambut / hairnet", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "かぶる", "romaji": "kaburu", "arti": "memakai (di kepala) / mengenakan (topi, penutup kepala)", "tipe": "Kata Kerja" },
+  { "kanji": "外", "hiragana": "そと", "romaji": "soto", "arti": "luar", "tipe": "Kata Benda" },
+  { "kanji": "出る", "hiragana": "でる", "romaji": "deru", "arti": "keluar", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "よう", "romaji": "you", "arti": "cara / sedemikian rupa (menyatakan tujuan atau cara)", "tipe": "Kata Benda" },
+  { "kanji": "帽子", "hiragana": "ぼうし", "romaji": "boushi", "arti": "topi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "きちんと", "romaji": "kichinto", "arti": "dengan rapi / dengan tepat", "tipe": "Kata Keterangan" },
+  { "kanji": "", "hiragana": "ボタン", "romaji": "botan", "arti": "kancing / tombol", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ジッパー", "romaji": "jippaa", "arti": "ritsleting", "tipe": "Kata Benda" },
+  { "kanji": "留める", "hiragana": "とめる", "romaji": "tomeru", "arti": "mengancingkan / mengunci", "tipe": "Kata Kerja" },
+  { "kanji": "確認", "hiragana": "かくにん", "romaji": "kakunin", "arti": "konfirmasi / memastikan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "最後", "hiragana": "さいご", "romaji": "saigo", "arti": "terakhir", "tipe": "Kata Benda" },
+  { "kanji": "服装", "hiragana": "ふくそう", "romaji": "fukusou", "arti": "pakaian / penampilan", "tipe": "Kata Benda" },
+  { "kanji": "正しい", "hiragana": "ただしい", "romaji": "tadashii", "arti": "benar / tepat", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "かどうか", "romaji": "ka douka", "arti": "apakah ... atau tidak", "tipe": "Partikel" },
+  { "kanji": "作業中", "hiragana": "さぎょうちゅう", "romaji": "sagyouchuu", "arti": "sedang bekerja", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "いつも", "romaji": "itsumo", "arti": "selalu", "tipe": "Kata Keterangan" },
+  { "kanji": "正しく", "hiragana": "ただしく", "romaji": "tadashiku", "arti": "dengan benar", "tipe": "Kata Keterangan" },
+  { "kanji": "", "hiragana": "いる", "romaji": "iru", "arti": "ada / berada (untuk makhluk hidup); juga bentuk ~ている (sedang/dalam keadaan)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "なければいけない", "romaji": "nakereba ikenai", "arti": "harus / wajib (melakukan sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "例えば", "hiragana": "たとえば", "romaji": "tatoeba", "arti": "misalnya / contohnya", "tipe": "Kata Keterangan" },
+  { "kanji": "作業場", "hiragana": "さぎょうじょう", "romaji": "sagyoujou", "arti": "tempat kerja", "tipe": "Kata Benda" },
+  { "kanji": "暑い", "hiragana": "あつい", "romaji": "atsui", "arti": "panas", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "から", "romaji": "kara", "arti": "dari / karena (partikel penunjuk sumber atau alasan)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "からといって", "romaji": "kara to itte", "arti": "meskipun karena ~ (bukan berarti ~) / walaupun begitu", "tipe": "Kata Keterangan" },
+  { "kanji": "脱ぐ", "hiragana": "ぬぐ", "romaji": "nugu", "arti": "melepas (pakaian/topi)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "てはいけない", "romaji": "te wa ikenai", "arti": "tidak boleh / dilarang melakukan (sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "袖", "hiragana": "そで", "romaji": "sode", "arti": "lengan (baju)", "tipe": "Kata Benda" },
+  { "kanji": "捲る", "hiragana": "まくる", "romaji": "makuru", "arti": "menyingsingkan / menggulung", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "こと", "romaji": "koto", "arti": "hal / perkara", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "マスク", "romaji": "masuku", "arti": "masker", "tipe": "Kata Benda" },
+  { "kanji": "外す", "hiragana": "はずす", "romaji": "hazusu", "arti": "melepaskan", "tipe": "Kata Kerja" }
 ]
