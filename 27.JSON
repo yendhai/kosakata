@@ -1,345 +1,94 @@
 [
-  {
-    "kanji": "写真",
-    "hiragana": "しゃしん",
-    "romaji": "shashin",
-    "arti": "foto",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "持ち込む",
-    "hiragana": "もちこむ",
-    "romaji": "mochikomu",
-    "arti": "membawa masuk",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "",
-    "hiragana": "ホチキス",
-    "romaji": "hochikisu",
-    "arti": "stapler",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "針",
-    "hiragana": "はり",
-    "romaji": "hari",
-    "arti": "jarum / isi stapler",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "クリップ",
-    "romaji": "kurippu",
-    "arti": "klip / penjepit kertas",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "書類",
-    "hiragana": "しょるい",
-    "romaji": "shorui",
-    "arti": "dokumen",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "鉛筆",
-    "hiragana": "えんぴつ",
-    "romaji": "enpitsu",
-    "arti": "pensil",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "シャープペン",
-    "romaji": "shaapupen",
-    "arti": "pensil mekanik",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "折れる",
-    "hiragana": "おれる",
-    "romaji": "oreru",
-    "arti": "patah",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "芯",
-    "hiragana": "しん",
-    "romaji": "shin",
-    "arti": "inti / isi pensil",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "異物混入",
-    "hiragana": "いぶつこんにゅう",
-    "romaji": "ibutsu konnyuu",
-    "arti": "kontaminasi benda asing",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "原因",
-    "hiragana": "げんいん",
-    "romaji": "gen'in",
-    "arti": "penyebab",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "臭い",
-    "hiragana": "におい",
-    "romaji": "nioi",
-    "arti": "bau / aroma",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "品質",
-    "hiragana": "ひんしつ",
-    "romaji": "hinshitsu",
-    "arti": "kualitas",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "悪い",
-    "hiragana": "わるい",
-    "romaji": "warui",
-    "arti": "buruk / jelek",
-    "tipe": "Kata Sifat (i)"
-  },
-  {
-    "kanji": "影響",
-    "hiragana": "えいきょう",
-    "romaji": "eikyou",
-    "arti": "pengaruh / dampak",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "香水",
-    "hiragana": "こうすい",
-    "romaji": "kousui",
-    "arti": "parfum",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "強い",
-    "hiragana": "つよい",
-    "romaji": "tsuyoi",
-    "arti": "kuat",
-    "tipe": "Kata Sifat (i)"
-  },
-  {
-    "kanji": "気がつく",
-    "hiragana": "きがつく",
-    "romaji": "kigatsuku",
-    "arti": "menyadari",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "禁止",
-    "hiragana": "きんし",
-    "romaji": "kinshi",
-    "arti": "larangan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "食品製造工場",
-    "hiragana": "しょくひんせいぞうこうじょう",
-    "romaji": "shokuhin seizou koujou",
-    "arti": "pabrik pembuatan makanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "着る",
-    "hiragana": "きる",
-    "romaji": "kiru",
-    "arti": "memakai (pakaian atas/tubuh)",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "意図的",
-    "hiragana": "いとてき",
-    "romaji": "itoteki",
-    "arti": "dengan sengaja",
-    "tipe": "Kata Sifat (na)"
-  },
-  {
-    "kanji": "出入り",
-    "hiragana": "でいり",
-    "romaji": "deiri",
-    "arti": "keluar masuk",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "記録",
-    "hiragana": "きろく",
-    "romaji": "kiroku",
-    "arti": "catatan / merekam",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "出入り口",
-    "hiragana": "でいりぐち",
-    "romaji": "deiriguchi",
-    "arti": "pintu keluar masuk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "倉庫",
-    "hiragana": "そうこ",
-    "romaji": "souko",
-    "arti": "gudang",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "カメラ",
-    "hiragana": "かめら",
-    "romaji": "kamera",
-    "arti": "kamera",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "置く",
-    "hiragana": "おく",
-    "romaji": "oku",
-    "arti": "meletakkan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "安全",
-    "hiragana": "あんぜん",
-    "romaji": "anzen",
-    "arti": "aman / keamanan",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "良い",
-    "hiragana": "よい",
-    "romaji": "yoi",
-    "arti": "baik / bagus",
-    "tipe": "Kata Sifat (i)"
-  },
-  {
-    "kanji": "作る",
-    "hiragana": "つくる",
-    "romaji": "tsukuru",
-    "arti": "membuat",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "製造方法",
-    "hiragana": "せいぞうほうほう",
-    "romaji": "seizou houhou",
-    "arti": "metode produksi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "大切",
-    "hiragana": "たいせつ",
-    "romaji": "taisetsu",
-    "arti": "penting",
-    "tipe": "Kata Sifat (na)"
-  },
-  {
-    "kanji": "保管",
-    "hiragana": "ほかん",
-    "romaji": "hokan",
-    "arti": "penyimpanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "外部",
-    "hiragana": "がいぶ",
-    "romaji": "gaibu",
-    "arti": "bagian luar / pihak luar",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "注文",
-    "hiragana": "ちゅうもん",
-    "romaji": "chuumon",
-    "arti": "pesanan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "届く",
-    "hiragana": "とどく",
-    "romaji": "todoku",
-    "arti": "sampai / tiba",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "照らし合わせる",
-    "hiragana": "てらしあわせる",
-    "romaji": "terashiawaseru",
-    "arti": "mencocokkan / membandingkan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "受入検査",
-    "hiragana": "うけいれけんさ",
-    "romaji": "ukeire kensa",
-    "arti": "inspeksi penerimaan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "見た目",
-    "hiragana": "みため",
-    "romaji": "mitame",
-    "arti": "penampilan luar",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "規格",
-    "hiragana": "きかく",
-    "romaji": "kikaku",
-    "arti": "standar / spesifikasi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "入り数",
-    "hiragana": "いりすう",
-    "romaji": "irisuu",
-    "arti": "jumlah isi (dalam satu kemasan)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "包装状態",
-    "hiragana": "ほうそうじょうたい",
-    "romaji": "housou joutai",
-    "arti": "kondisi kemasan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "期限",
-    "hiragana": "きげん",
-    "romaji": "kigen",
-    "arti": "batas waktu / kedaluwarsa",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "保存方法",
-    "hiragana": "ほぞんほうほう",
-    "romaji": "hozon houhou",
-    "arti": "metode penyimpanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "表示",
-    "hiragana": "ひょうじ",
-    "romaji": "hyouji",
-    "arti": "label / tampilan / indikasi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "品温",
-    "hiragana": "ひんおん",
-    "romaji": "hin'on",
-    "arti": "suhu produk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "腐敗",
-    "hiragana": "ふはい",
-    "romaji": "fuhai",
-    "arti": "pembusukan / membusuk",
-    "tipe": "Kata Benda"
-  }
+  { "kanji": "写真", "hiragana": "しゃしん", "arti": "foto", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "たばこ", "arti": "rokok", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "など", "arti": "dan lain-lain", "tipe": "Kata Keterangan" },
+  { "kanji": "持ち込む", "hiragana": "もちこむ", "arti": "membawa masuk", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "てはいけない", "arti": "tidak boleh / dilarang melakukan (sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "作業場", "hiragana": "さぎょうじょう", "arti": "tempat kerja / area kerja", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ホチキス", "arti": "stapler", "tipe": "Kata Benda" },
+  { "kanji": "針", "hiragana": "はり", "arti": "jarum / isi stapler", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "つく", "arti": "menempel / melekat", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "クリップ", "arti": "klip / penjepit kertas", "tipe": "Kata Benda" },
+  { "kanji": "書類", "hiragana": "しょるい", "arti": "dokumen", "tipe": "Kata Benda" },
+  { "kanji": "鉛筆", "hiragana": "えんぴつ", "arti": "pensil", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "シャープペン", "arti": "pensil mekanik", "tipe": "Kata Benda" },
+  { "kanji": "折れる", "hiragana": "おれる", "arti": "patah", "tipe": "Kata Kerja" },
+  { "kanji": "芯", "hiragana": "しん", "arti": "inti / isi pensil", "tipe": "Kata Benda" },
+  { "kanji": "異物混入", "hiragana": "いぶつこんにゅう", "arti": "kontaminasi benda asing", "tipe": "Kata Benda" },
+  { "kanji": "原因", "hiragana": "げんいん", "arti": "penyebab", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "なる", "arti": "menjadi", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "から", "arti": "dari / karena (partikel penunjuk sumber atau alasan)", "tipe": "Partikel" },
+  { "kanji": "臭い", "hiragana": "におい", "arti": "bau / aroma", "tipe": "Kata Benda" },
+  { "kanji": "危害要因", "hiragana": "きがいよういん", "arti": "faktor bahaya (hazard)", "tipe": "Kata Benda" },
+  { "kanji": "食品", "hiragana": "しょくひん", "arti": "makanan / produk makanan", "tipe": "Kata Benda" },
+  { "kanji": "品質", "hiragana": "ひんしつ", "arti": "kualitas", "tipe": "Kata Benda" },
+  { "kanji": "悪い", "hiragana": "わるい", "arti": "buruk / jelek", "tipe": "Kata Sifat (i)" },
+  { "kanji": "影響", "hiragana": "えいきょう", "arti": "pengaruh / dampak", "tipe": "Kata Benda" },
+  { "kanji": "出る", "hiragana": "でる", "arti": "keluar / muncul", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "この", "arti": "ini (menunjuk kata benda yang mengikutinya)", "tipe": "Kata Sifat (rentaishi)" },
+  { "kanji": "", "hiragana": "ため", "arti": "untuk / demi (suatu tujuan)", "tipe": "Kata Benda" },
+  { "kanji": "香水", "hiragana": "こうすい", "arti": "parfum", "tipe": "Kata Benda" },
+  { "kanji": "強い", "hiragana": "つよい", "arti": "kuat", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "もの", "arti": "benda / sesuatu / hal", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "つける", "arti": "menempelkan / mengenakan / menerapkan (sesuatu ke permukaan)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "いる", "arti": "ada / berada (untuk makhluk hidup); juga bentuk ~ている (sedang/dalam keadaan)", "tipe": "Kata Kerja" },
+  { "kanji": "原材料", "hiragana": "げんざいりょう", "arti": "bahan baku", "tipe": "Kata Benda" },
+  { "kanji": "気がつく", "hiragana": "きがつく", "arti": "menyadari", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "こと", "arti": "hal / perkara", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ある", "arti": "ada (untuk benda mati)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "ので", "arti": "karena / sebab", "tipe": "Partikel" },
+  { "kanji": "使用", "hiragana": "しよう", "arti": "penggunaan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "禁止", "hiragana": "きんし", "arti": "larangan", "tipe": "Kata Benda" },
+  { "kanji": "食品製造工場", "hiragana": "しょくひんせいぞうこうじょう", "arti": "pabrik pembuatan makanan", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "による", "arti": "melalui / berdasarkan / karena (juga bentuk によっては: tergantung pada)", "tipe": "Kata Keterangan" },
+  { "kanji": "", "hiragana": "ポケット", "arti": "saku / kantong", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ない", "arti": "tidak ada / tidak punya (bentuk negatif dari ある)", "tipe": "Kata Sifat (i)" },
+  { "kanji": "作業服", "hiragana": "さぎょうふく", "arti": "pakaian kerja", "tipe": "Kata Benda" },
+  { "kanji": "着る", "hiragana": "きる", "arti": "memakai (pakaian atas/tubuh)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "これ", "arti": "ini", "tipe": "Kata Benda" },
+  { "kanji": "作業", "hiragana": "さぎょう", "arti": "pekerjaan / tugas kerja", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "使う", "hiragana": "つかう", "arti": "menggunakan", "tipe": "Kata Kerja" },
+  { "kanji": "作業者", "hiragana": "さぎょうしゃ", "arti": "pekerja / operator", "tipe": "Kata Benda" },
+  { "kanji": "意図的", "hiragana": "いとてき", "arti": "dengan sengaja", "tipe": "Kata Sifat (na)" },
+  { "kanji": "", "hiragana": "よう", "arti": "cara / sedemikian rupa (menyatakan tujuan atau cara)", "tipe": "Kata Benda" },
+  { "kanji": "正しく", "hiragana": "ただしく", "arti": "dengan benar", "tipe": "Kata Keterangan" },
+  { "kanji": "行う", "hiragana": "おこなう", "arti": "melakukan / melaksanakan", "tipe": "Kata Kerja" },
+  { "kanji": "確認", "hiragana": "かくにん", "arti": "konfirmasi / memastikan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "出入り", "hiragana": "でいり", "arti": "keluar masuk", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "記録", "hiragana": "きろく", "arti": "catatan / merekam", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "たり", "arti": "melakukan ... atau ... (menyebutkan beberapa aksi sebagai contoh)", "tipe": "Kata Keterangan" },
+  { "kanji": "出入り口", "hiragana": "でいりぐち", "arti": "pintu keluar masuk", "tipe": "Kata Benda" },
+  { "kanji": "倉庫", "hiragana": "そうこ", "arti": "gudang", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "カメラ", "arti": "kamera", "tipe": "Kata Benda" },
+  { "kanji": "置く", "hiragana": "おく", "arti": "meletakkan", "tipe": "Kata Kerja" },
+  { "kanji": "工場", "hiragana": "こうじょう", "arti": "pabrik", "tipe": "Kata Benda" },
+  { "kanji": "衛生管理", "hiragana": "えいせいかんり", "arti": "manajemen kebersihan", "tipe": "Kata Benda" },
+  { "kanji": "安全", "hiragana": "あんぜん", "arti": "aman / keamanan", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "良い", "hiragana": "よい", "arti": "baik / bagus", "tipe": "Kata Sifat (i)" },
+  { "kanji": "作る", "hiragana": "つくる", "arti": "membuat", "tipe": "Kata Kerja" },
+  { "kanji": "製造方法", "hiragana": "せいぞうほうほう", "arti": "metode produksi", "tipe": "Kata Benda" },
+  { "kanji": "管理", "hiragana": "かんり", "arti": "manajemen / pengelolaan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "大切", "hiragana": "たいせつ", "arti": "penting", "tipe": "Kata Sifat (na)" },
+  { "kanji": "受入れ", "hiragana": "うけいれ", "arti": "penerimaan", "tipe": "Kata Benda" },
+  { "kanji": "保管", "hiragana": "ほかん", "arti": "penyimpanan", "tipe": "Kata Benda" },
+  { "kanji": "外部", "hiragana": "がいぶ", "arti": "bagian luar / pihak luar", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "とき", "arti": "waktu / saat / ketika", "tipe": "Kata Benda" },
+  { "kanji": "注文", "hiragana": "ちゅうもん", "arti": "pesanan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "届く", "hiragana": "とどく", "arti": "sampai / tiba", "tipe": "Kata Kerja" },
+  { "kanji": "照らし合わせる", "hiragana": "てらしあわせる", "arti": "mencocokkan / membandingkan", "tipe": "Kata Kerja" },
+  { "kanji": "正しい", "hiragana": "ただしい", "arti": "benar / tepat", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "かどうか", "arti": "apakah ... atau tidak", "tipe": "Partikel" },
+  { "kanji": "受入検査", "hiragana": "うけいれけんさ", "arti": "inspeksi penerimaan", "tipe": "Kata Benda" },
+  { "kanji": "言う", "hiragana": "いう", "arti": "mengatakan / menyebut", "tipe": "Kata Kerja" },
+  { "kanji": "見た目", "hiragana": "みため", "arti": "penampilan luar", "tipe": "Kata Benda" },
+  { "kanji": "規格", "hiragana": "きかく", "arti": "standar / spesifikasi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "サイズ", "arti": "ukuran", "tipe": "Kata Benda" },
+  { "kanji": "入り数", "hiragana": "いりすう", "arti": "jumlah isi (dalam satu kemasan)", "tipe": "Kata Benda" },
+  { "kanji": "包装状態", "hiragana": "ほうそうじょうたい", "arti": "kondisi kemasan", "tipe": "Kata Benda" },
+  { "kanji": "期限", "hiragana": "きげん", "arti": "batas waktu / kedaluwarsa", "tipe": "Kata Benda" },
+  { "kanji": "保存方法", "hiragana": "ほぞんほうほう", "arti": "metode penyimpanan", "tipe": "Kata Benda" },
+  { "kanji": "表示", "hiragana": "ひょうじ", "arti": "label / tampilan / indikasi", "tipe": "Kata Benda" },
+  { "kanji": "品温", "hiragana": "ひんおん", "arti": "suhu produk", "tipe": "Kata Benda" },
+  { "kanji": "腐敗", "hiragana": "ふはい", "arti": "pembusukan / membusuk", "tipe": "Kata Benda" },
+  { "kanji": "包装", "hiragana": "ほうそう", "arti": "pengemasan / pembungkusan", "tipe": "Kata Benda / Kata Kerja" }
 ]
