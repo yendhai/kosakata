@@ -1,394 +1,92 @@
 [
-  {
-    "kanji": "問題",
-    "hiragana": "もんだい",
-    "romaji": "mondai",
-    "arti": "masalah",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "調べる",
-    "hiragana": "しらべる",
-    "romaji": "shiraberu",
-    "arti": "memeriksa / menyelidiki",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "必要",
-    "hiragana": "ひつよう",
-    "romaji": "hitsuyou",
-    "arti": "perlu",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "製品",
-    "hiragana": "せいひん",
-    "romaji": "seihin",
-    "arti": "produk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "中",
-    "hiragana": "なか",
-    "romaji": "naka",
-    "arti": "dalam",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "一定",
-    "hiragana": "いってい",
-    "romaji": "ittei",
-    "arti": "tertentu / tetap",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "割合",
-    "hiragana": "わりあい",
-    "romaji": "wariai",
-    "arti": "persentase / proporsi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "抜き出す",
-    "hiragana": "ぬきだす",
-    "romaji": "nukidasu",
-    "arti": "menarik keluar / mengambil sampel",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "保管",
-    "hiragana": "ほかん",
-    "romaji": "hokan",
-    "arti": "penyimpanan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "出荷",
-    "hiragana": "しゅっか",
-    "romaji": "shukka",
-    "arti": "pengiriman produk",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "配送",
-    "hiragana": "はいそう",
-    "romaji": "haisou",
-    "arti": "distribusi / pengantaran",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "食品",
-    "hiragana": "しょくひん",
-    "romaji": "shokuhin",
-    "arti": "makanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "先",
-    "hiragana": "さき",
-    "romaji": "saki",
-    "arti": "terlebih dahulu / sebelumnya / tujuan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "製品倉庫",
-    "hiragana": "せいひんそうこ",
-    "romaji": "seihin souko",
-    "arti": "gudang produk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "入れる",
-    "hiragana": "いれる",
-    "romaji": "ireru",
-    "arti": "memasukkan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "出る",
-    "hiragana": "でる",
-    "romaji": "deru",
-    "arti": "keluar",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "先入れ先出し",
-    "hiragana": "さきいれさきだし",
-    "romaji": "sakiire sakidashi",
-    "arti": "metode First-In, First-Out (FIFO)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "原材料",
-    "hiragana": "げんざいりょう",
-    "romaji": "genzairyou",
-    "arti": "bahan baku",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "受入れ",
-    "hiragana": "うけいれ",
-    "romaji": "ukeire",
-    "arti": "penerimaan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "参照",
-    "hiragana": "さんしょう",
-    "romaji": "sanshou",
-    "arti": "referensi / rujukan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "輸送中",
-    "hiragana": "ゆそうちゅう",
-    "romaji": "yusouchuu",
-    "arti": "dalam pengiriman / dalam transit",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "品質",
-    "hiragana": "ひんしつ",
-    "romaji": "hinshitsu",
-    "arti": "kualitas",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "劣化",
-    "hiragana": "れっか",
-    "romaji": "rekka",
-    "arti": "degradasi / penurunan kualitas",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "決める",
-    "hiragana": "きめる",
-    "romaji": "kimeru",
-    "arti": "menentukan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "温度",
-    "hiragana": "おんど",
-    "romaji": "ondo",
-    "arti": "suhu",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "輸送",
-    "hiragana": "ゆそう",
-    "romaji": "yusou",
-    "arti": "transportasi / pengangkutan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "衛生管理",
-    "hiragana": "えいせいかんり",
-    "romaji": "eisei kanri",
-    "arti": "manajemen kehigienisan / sanitasi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "一般衛生管理",
-    "hiragana": "いっぱんえいせいかんり",
-    "romaji": "ippan eisei kanri",
-    "arti": "manajemen sanitasi umum",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "危害要因",
-    "hiragana": "きがいよういん",
-    "romaji": "kigai youin",
-    "arti": "faktor bahaya (hazard)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "含む",
-    "hiragana": "ふくむ",
-    "romaji": "fukumu",
-    "arti": "mengandung / mencakup",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "製造",
-    "hiragana": "せいぞう",
-    "romaji": "seizou",
-    "arti": "produksi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "特別",
-    "hiragana": "とくべつ",
-    "romaji": "tokubetsu",
-    "arti": "khusus",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "仕組み",
-    "hiragana": "しくみ",
-    "romaji": "shikumi",
-    "arti": "sistem / mekanisme",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "製造工程",
-    "hiragana": "せいぞうこうてい",
-    "romaji": "seizou koutei",
-    "arti": "proses produksi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "管理",
-    "hiragana": "かんり",
-    "romaji": "kanri",
-    "arti": "pengelolaan / manajemen",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "分析",
-    "hiragana": "ぶんせき",
-    "romaji": "bunseki",
-    "arti": "analisis",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "危害要因分析",
-    "hiragana": "きがいよういんぶんせき",
-    "romaji": "kigai youin bunseki",
-    "arti": "analisis bahaya (Hazard Analysis)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "ハザード分析",
-    "hiragana": "ハザードぶんせき",
-    "romaji": "hazaado bunseki",
-    "arti": "analisis bahaya (hazard analysis)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "最も",
-    "hiragana": "もっとも",
-    "romaji": "mottomo",
-    "arti": "paling",
-    "tipe": "Kata Keterangan"
-  },
-  {
-    "kanji": "重要",
-    "hiragana": "じゅうよう",
-    "romaji": "juuyou",
-    "arti": "penting",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "工程",
-    "hiragana": "こうてい",
-    "romaji": "koutei",
-    "arti": "tahapan / proses",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "重要管理点",
-    "hiragana": "じゅうようかんりてん",
-    "romaji": "juuyou kanriten",
-    "arti": "Critical Control Point (CCP)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "基準",
-    "hiragana": "きじゅん",
-    "romaji": "kijun",
-    "arti": "standar / kriteria",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "管理基準",
-    "hiragana": "かんりきじゅん",
-    "romaji": "kanri kijun",
-    "arti": "kriteria / batas pengendalian",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "正しい",
-    "hiragana": "ただしい",
-    "romaji": "tadashii",
-    "arti": "benar",
-    "tipe": "Kata Sifat (i)"
-  },
-  {
-    "kanji": "実行",
-    "hiragana": "じっこう",
-    "romaji": "jikkou",
-    "arti": "pelaksanaan / eksekusi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "監視",
-    "hiragana": "かんし",
-    "romaji": "kanshi",
-    "arti": "pemantauan / monitoring",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "場合",
-    "hiragana": "ばあい",
-    "romaji": "baai",
-    "arti": "kasus / situasi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "確実",
-    "hiragana": "かくじつ",
-    "romaji": "kakujitsu",
-    "arti": "pasti / dengan pasti",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "一つ",
-    "hiragana": "ひとつ",
-    "romaji": "hitotsu",
-    "arti": "satu",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "二つ",
-    "hiragana": "ふたつ",
-    "romaji": "futatsu",
-    "arti": "dua",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "以上",
-    "hiragana": "いじょう",
-    "romaji": "ijou",
-    "arti": "lebih dari",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "原則",
-    "hiragana": "げんそく",
-    "romaji": "gensoku",
-    "arti": "prinsip",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "次",
-    "hiragana": "つぎ",
-    "romaji": "tsugi",
-    "arti": "berikut / selanjutnya",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "従う",
-    "hiragana": "したがう",
-    "romaji": "shitagau",
-    "arti": "mengikuti",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "運用",
-    "hiragana": "うんよう",
-    "romaji": "unyou",
-    "arti": "penerapan / operasional",
-    "tipe": "Kata Benda / Kata Kerja"
-  }
+  { "kanji": "", "hiragana": "よう", "romaji": "you", "arti": "cara / sedemikian rupa (menyatakan tujuan atau cara)", "tipe": "Kata Benda" },
+  { "kanji": "問題", "hiragana": "もんだい", "romaji": "mondai", "arti": "masalah", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ない", "romaji": "nai", "arti": "tidak ada / tidak punya (bentuk negatif dari ある)", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "か", "romaji": "ka", "arti": "partikel penunjuk pertanyaan (apakah) / partikel pilihan (atau)", "tipe": "Partikel" },
+  { "kanji": "調べる", "hiragana": "しらべる", "romaji": "shiraberu", "arti": "memeriksa / menyelidiki", "tipe": "Kata Kerja" },
+  { "kanji": "必要", "hiragana": "ひつよう", "romaji": "hitsuyou", "arti": "perlu", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "", "hiragana": "ある", "romaji": "aru", "arti": "ada (untuk benda mati)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "そのために", "romaji": "sono tame ni", "arti": "untuk itu / demi hal itu", "tipe": "Kata Keterangan" },
+  { "kanji": "製品", "hiragana": "せいひん", "romaji": "seihin", "arti": "produk", "tipe": "Kata Benda" },
+  { "kanji": "中", "hiragana": "なか", "romaji": "naka", "arti": "dalam", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "から", "romaji": "kara", "arti": "dari / karena (partikel penunjuk sumber atau alasan)", "tipe": "Partikel" },
+  { "kanji": "一定", "hiragana": "いってい", "romaji": "ittei", "arti": "tertentu / tetap", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "割合", "hiragana": "わりあい", "romaji": "wariai", "arti": "persentase / proporsi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "で", "romaji": "de", "arti": "partikel penunjuk alat, cara, tempat, atau sebab (dengan/di/karena)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "サンプル", "romaji": "sanpuru", "arti": "sampel / contoh", "tipe": "Kata Benda" },
+  { "kanji": "抜き出す", "hiragana": "ぬきだす", "romaji": "nukidasu", "arti": "menarik keluar / mengambil sampel", "tipe": "Kata Kerja" },
+  { "kanji": "保管", "hiragana": "ほかん", "romaji": "hokan", "arti": "penyimpanan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "出荷", "hiragana": "しゅっか", "romaji": "shukka", "arti": "pengiriman produk", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "配送", "hiragana": "はいそう", "romaji": "haisou", "arti": "distribusi / pengantaran", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "食品", "hiragana": "しょくひん", "romaji": "shokuhin", "arti": "makanan", "tipe": "Kata Benda" },
+  { "kanji": "先", "hiragana": "さき", "romaji": "saki", "arti": "terlebih dahulu / sebelumnya / tujuan", "tipe": "Kata Benda" },
+  { "kanji": "製品倉庫", "hiragana": "せいひんそうこ", "romaji": "seihin souko", "arti": "gudang produk", "tipe": "Kata Benda" },
+  { "kanji": "入れる", "hiragana": "いれる", "romaji": "ireru", "arti": "memasukkan", "tipe": "Kata Kerja" },
+  { "kanji": "出す", "hiragana": "だす", "romaji": "dasu", "arti": "mengeluarkan", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "これ", "romaji": "kore", "arti": "ini", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "も", "romaji": "mo", "arti": "juga / pun (partikel penunjuk inklusi)", "tipe": "Partikel" },
+  { "kanji": "先入れ先出し", "hiragana": "さきいれさきだし", "romaji": "sakiire sakidashi", "arti": "metode First-In, First-Out (FIFO)", "tipe": "Kata Benda" },
+  { "kanji": "原材料", "hiragana": "げんざいりょう", "romaji": "genzairyou", "arti": "bahan baku", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "の", "romaji": "no", "arti": "partikel nominalisasi (mengubah klausa menjadi kata benda, ~yang)", "tipe": "Partikel" },
+  { "kanji": "受入れ", "hiragana": "うけいれ", "romaji": "ukeire", "arti": "penerimaan", "tipe": "Kata Benda" },
+  { "kanji": "参照", "hiragana": "さんしょう", "romaji": "sanshou", "arti": "referensi / rujukan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "輸送中", "hiragana": "ゆそうちゅう", "romaji": "yusouchuu", "arti": "dalam pengiriman / dalam transit", "tipe": "Kata Benda" },
+  { "kanji": "品質", "hiragana": "ひんしつ", "romaji": "hinshitsu", "arti": "kualitas", "tipe": "Kata Benda" },
+  { "kanji": "劣化", "hiragana": "れっか", "romaji": "rekka", "arti": "degradasi / penurunan kualitas", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "ごとに", "romaji": "goto ni", "arti": "masing-masing / setiap", "tipe": "Partikel" },
+  { "kanji": "決める", "hiragana": "きめる", "romaji": "kimeru", "arti": "menentukan", "tipe": "Kata Kerja" },
+  { "kanji": "温度", "hiragana": "おんど", "romaji": "ondo", "arti": "suhu", "tipe": "Kata Benda" },
+  { "kanji": "輸送", "hiragana": "ゆそう", "romaji": "yusou", "arti": "transportasi / pengangkutan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "ハサップ", "romaji": "hasappu", "arti": "HACCP — sistem manajemen keamanan pangan berbasis analisis bahaya dan titik kendali kritis", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "による", "romaji": "niyoru", "arti": "melalui / berdasarkan / karena", "tipe": "Kata Keterangan" },
+  { "kanji": "衛生管理", "hiragana": "えいせいかんり", "romaji": "eisei kanri", "arti": "manajemen kehigienisan / sanitasi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "だけ", "romaji": "dake", "arti": "hanya / saja", "tipe": "Kata Keterangan" },
+  { "kanji": "一般衛生管理", "hiragana": "いっぱんえいせいかんり", "romaji": "ippan eisei kanri", "arti": "manajemen sanitasi umum", "tipe": "Kata Benda" },
+  { "kanji": "危害要因", "hiragana": "きがいよういん", "romaji": "kigai youin", "arti": "faktor bahaya (hazard)", "tipe": "Kata Benda" },
+  { "kanji": "含む", "hiragana": "ふくむ", "romaji": "fukumu", "arti": "mengandung / mencakup", "tipe": "Kata Kerja" },
+  { "kanji": "製造", "hiragana": "せいぞう", "romaji": "seizou", "arti": "produksi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "こと", "romaji": "koto", "arti": "hal / perkara", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "できる", "romaji": "dekiru", "arti": "bisa / dapat (melakukan sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "もの", "romaji": "mono", "arti": "benda / sesuatu / hal", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "その", "romaji": "sono", "arti": "itu (menunjuk kata benda yang mengikutinya)", "tipe": "Kata Sifat (rentaishi)" },
+  { "kanji": "含まれる", "hiragana": "ふくまれる", "romaji": "fukumareru", "arti": "terkandung / termasuk", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "ため", "romaji": "tame", "arti": "untuk / demi (suatu tujuan)", "tipe": "Kata Benda" },
+  { "kanji": "特別", "hiragana": "とくべつ", "romaji": "tokubetsu", "arti": "khusus", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "仕組み", "hiragana": "しくみ", "romaji": "shikumi", "arti": "sistem / mekanisme", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "や", "romaji": "ya", "arti": "dan / atau (partikel penghubung untuk menyebutkan beberapa contoh)", "tipe": "Partikel" },
+  { "kanji": "製造工程", "hiragana": "せいぞうこうてい", "romaji": "seizou koutei", "arti": "proses produksi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "どのような", "romaji": "dono you na", "arti": "yang bagaimana / jenis apa", "tipe": "Kata Sifat (rentaishi)" },
+  { "kanji": "", "hiragana": "どう", "romaji": "dou", "arti": "bagaimana", "tipe": "Kata Keterangan" },
+  { "kanji": "管理", "hiragana": "かんり", "romaji": "kanri", "arti": "pengelolaan / manajemen", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "それら", "romaji": "sorera", "arti": "itu semua / hal-hal itu", "tipe": "Kata Benda" },
+  { "kanji": "分析", "hiragana": "ぶんせき", "romaji": "bunseki", "arti": "analisis", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "危害要因分析", "hiragana": "きがいよういんぶんせき", "romaji": "kigai youin bunseki", "arti": "analisis bahaya (Hazard Analysis)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "と", "romaji": "to", "arti": "dan (partikel penghubung); jika/ketika (kondisional); partikel kutipan (menandai ucapan/istilah)", "tipe": "Partikel" },
+  { "kanji": "言う", "hiragana": "いう", "romaji": "iu", "arti": "mengatakan / menyebut", "tipe": "Kata Kerja" },
+  { "kanji": "ハザード分析", "hiragana": "ハザードぶんせき", "romaji": "hazaado bunseki", "arti": "analisis bahaya (hazard analysis)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "そのうち", "romaji": "sono uchi", "arti": "di antaranya / dari situ", "tipe": "Kata Keterangan" },
+  { "kanji": "最も", "hiragana": "もっとも", "romaji": "mottomo", "arti": "paling", "tipe": "Kata Keterangan" },
+  { "kanji": "重要", "hiragana": "じゅうよう", "romaji": "juuyou", "arti": "penting", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "工程", "hiragana": "こうてい", "romaji": "koutei", "arti": "tahapan / proses", "tipe": "Kata Benda" },
+  { "kanji": "重要管理点", "hiragana": "じゅうようかんりてん", "romaji": "juuyou kanriten", "arti": "Critical Control Point (CCP)", "tipe": "Kata Benda" },
+  { "kanji": "基準", "hiragana": "きじゅん", "romaji": "kijun", "arti": "standar / kriteria", "tipe": "Kata Benda" },
+  { "kanji": "管理基準", "hiragana": "かんりきじゅん", "romaji": "kanri kijun", "arti": "kriteria / batas pengendalian", "tipe": "Kata Benda" },
+  { "kanji": "正しい", "hiragana": "ただしい", "romaji": "tadashii", "arti": "benar", "tipe": "Kata Sifat (i)" },
+  { "kanji": "実行", "hiragana": "じっこう", "romaji": "jikkou", "arti": "pelaksanaan / eksekusi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "いる", "romaji": "iru", "arti": "ada / berada (untuk makhluk hidup); juga bentuk ~ている (sedang/dalam keadaan)", "tipe": "Kata Kerja" },
+  { "kanji": "監視", "hiragana": "かんし", "romaji": "kanshi", "arti": "pemantauan / monitoring", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "モニタリング", "romaji": "monitaringu", "arti": "pemantauan (monitoring)", "tipe": "Kata Benda" },
+  { "kanji": "場合", "hiragana": "ばあい", "romaji": "baai", "arti": "kasus / situasi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "させる", "romaji": "saseru", "arti": "menyebabkan / membuat (seseorang/sesuatu) melakukan — bentuk kausatif dari する", "tipe": "Kata Kerja" },
+  { "kanji": "確実", "hiragana": "かくじつ", "romaji": "kakujitsu", "arti": "pasti / dengan pasti", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "", "hiragana": "この", "romaji": "kono", "arti": "ini (menunjuk kata benda yang mengikutinya)", "tipe": "Kata Sifat (rentaishi)" },
+  { "kanji": "一つ", "hiragana": "ひとつ", "romaji": "hitotsu", "arti": "satu", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ではなく", "romaji": "de wa naku", "arti": "bukan ~, melainkan (pola kontras)", "tipe": "Partikel" },
+  { "kanji": "二つ", "hiragana": "ふたつ", "romaji": "futatsu", "arti": "dua", "tipe": "Kata Benda" },
+  { "kanji": "以上", "hiragana": "いじょう", "romaji": "ijou", "arti": "lebih dari", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "なる", "romaji": "naru", "arti": "menjadi", "tipe": "Kata Kerja" },
+  { "kanji": "原則", "hiragana": "げんそく", "romaji": "gensoku", "arti": "prinsip", "tipe": "Kata Benda" },
+  { "kanji": "次", "hiragana": "つぎ", "romaji": "tsugi", "arti": "berikut / selanjutnya", "tipe": "Kata Benda" },
+  { "kanji": "従う", "hiragana": "したがう", "romaji": "shitagau", "arti": "mengikuti", "tipe": "Kata Kerja" },
+  { "kanji": "運用", "hiragana": "うんよう", "romaji": "unyou", "arti": "penerapan / operasional", "tipe": "Kata Benda / Kata Kerja" }
 ]
