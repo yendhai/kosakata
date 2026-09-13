@@ -1,282 +1,87 @@
 [
-  {
-    "kanji": "正常",
-    "hiragana": "せいじょう",
-    "romaji": "seijou",
-    "arti": "normal",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "機能",
-    "hiragana": "きのう",
-    "romaji": "kinou",
-    "arti": "fungsi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "場合",
-    "hiragana": "ばあい",
-    "romaji": "baai",
-    "arti": "kasus / situasi / jika",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "責任者",
-    "hiragana": "せきにんしゃ",
-    "romaji": "sekininsha",
-    "arti": "penanggung jawab",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "報告",
-    "hiragana": "ほうこく",
-    "romaji": "houkoku",
-    "arti": "laporan / melapor",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "時点",
-    "hiragana": "じてん",
-    "romaji": "jiten",
-    "arti": "titik waktu / saat",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "X線異物検出機",
-    "hiragana": "エックスせんいぶつけんしゅつき",
-    "romaji": "ekkusu-sen ibutsu kenshutsuki",
-    "arti": "mesin detektor benda asing sinar-X",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "石",
-    "hiragana": "いし",
-    "romaji": "ishi",
-    "arti": "batu",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "硬質異物",
-    "hiragana": "こうしついぶつ",
-    "romaji": "koushitsu ibutsu",
-    "arti": "benda asing keras",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "検出",
-    "hiragana": "けんしゅつ",
-    "romaji": "kenshutsu",
-    "arti": "deteksi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "原材料",
-    "hiragana": "げんざいりょう",
-    "romaji": "genzairyou",
-    "arti": "bahan baku",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "受入れ",
-    "hiragana": "うけいれ",
-    "romaji": "ukeire",
-    "arti": "penerimaan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "管理",
-    "hiragana": "かんり",
-    "romaji": "kanri",
-    "arti": "manajemen / pengawasan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "製品",
-    "hiragana": "せいひん",
-    "romaji": "seihin",
-    "arti": "produk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "数量不足",
-    "hiragana": "すうりょうふそく",
-    "romaji": "suuryou fusoku",
-    "arti": "kekurangan jumlah",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "形状不良品",
-    "hiragana": "けいじょうふりょうひん",
-    "romaji": "keijou furyouhin",
-    "arti": "produk cacat bentuk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "頼る",
-    "hiragana": "たよる",
-    "romaji": "tayoru",
-    "arti": "bergantung (pada)",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "機械",
-    "hiragana": "きかい",
-    "romaji": "kikai",
-    "arti": "mesin",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "設備",
-    "hiragana": "せつび",
-    "romaji": "setsubi",
-    "arti": "fasilitas / peralatan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "混入",
-    "hiragana": "こんにゅう",
-    "romaji": "konnyuu",
-    "arti": "kontaminasi / tercampur",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "微生物検査",
-    "hiragana": "びせいぶつけんさ",
-    "romaji": "biseibutsu kensa",
-    "arti": "pemeriksaan mikroba",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "法律",
-    "hiragana": "ほうりつ",
-    "romaji": "houritsu",
-    "arti": "hukum / undang-undang",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "義務",
-    "hiragana": "ぎむ",
-    "romaji": "gimu",
-    "arti": "kewajiban",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "項目",
-    "hiragana": "こうもく",
-    "romaji": "koumoku",
-    "arti": "item / poin",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "食品製造業者",
-    "hiragana": "しょくひんせいぞうぎょうしゃ",
-    "romaji": "shokuhin seizou gyousha",
-    "arti": "produsen makanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "自主的",
-    "hiragana": "じしゅてき",
-    "romaji": "jishuteki",
-    "arti": "secara mandiri / proaktif",
-    "tipe": "Kata Sifat (na)"
-  },
-  {
-    "kanji": "一般的",
-    "hiragana": "いっぱんてき",
-    "romaji": "ippanteki",
-    "arti": "secara umum",
-    "tipe": "Kata Sifat (na)"
-  },
-  {
-    "kanji": "一般生菌数",
-    "hiragana": "いっぱんせいきんすう",
-    "romaji": "ippan seikinsuu",
-    "arti": "jumlah bakteri hidup umum",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "大腸菌",
-    "hiragana": "だいちょうきん",
-    "romaji": "daichoukin",
-    "arti": "bakteri E. coli",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "大腸菌群",
-    "hiragana": "だいちょうきんぐん",
-    "romaji": "daichoukingun",
-    "arti": "kelompok bakteri coliform",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "黄色ブドウ球菌",
-    "hiragana": "おうしょくぶどうきゅうきん",
-    "romaji": "oushoku budou kyuukin",
-    "arti": "bakteri Staphylococcus aureus",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "サルモネラ属菌",
-    "hiragana": "さるもねらぞくきん",
-    "romaji": "sarumonera zokukin",
-    "arti": "bakteri genus Salmonella",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "カンピロバクター属菌",
-    "hiragana": "かんぴろばくたーぞくきん",
-    "romaji": "kanpirobakutaa zokukin",
-    "arti": "bakteri genus Campylobacter",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "保管",
-    "hiragana": "ほかん",
-    "romaji": "hokan",
-    "arti": "penyimpanan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "配送",
-    "hiragana": "はいそう",
-    "romaji": "haisou",
-    "arti": "pengantaran / distribusi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "合格",
-    "hiragana": "ごうかく",
-    "romaji": "goukaku",
-    "arti": "lulus (ujian/inspeksi)",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "製品倉庫",
-    "hiragana": "せいひんそうこ",
-    "romaji": "seihin souko",
-    "arti": "gudang produk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "保管条件",
-    "hiragana": "ほかんじょうけん",
-    "romaji": "hokan jouken",
-    "arti": "kondisi penyimpanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "同じ",
-    "hiragana": "おなじ",
-    "romaji": "onaji",
-    "arti": "sama",
-    "tipe": "Kata Sifat / Rentaishi"
-  },
-  {
-    "kanji": "時期",
-    "hiragana": "じき",
-    "romaji": "jiki",
-    "arti": "waktu / periode",
-    "tipe": "Kata Benda"
-  }
+  { "kanji": "金属探知機", "hiragana": "きんぞくたんちき", "romaji": "kinzoku tanchiki", "arti": "detektor logam (metal detector)", "tipe": "Kata Benda" },
+  { "kanji": "正常", "hiragana": "せいじょう", "romaji": "seijou", "arti": "normal", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "機能", "hiragana": "きのう", "romaji": "kinou", "arti": "fungsi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "場合", "hiragana": "ばあい", "romaji": "baai", "arti": "kasus / situasi / jika", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "すぐに", "romaji": "suguni", "arti": "segera / langsung", "tipe": "Kata Keterangan" },
+  { "kanji": "責任者", "hiragana": "せきにんしゃ", "romaji": "sekininsha", "arti": "penanggung jawab", "tipe": "Kata Benda" },
+  { "kanji": "報告", "hiragana": "ほうこく", "romaji": "houkoku", "arti": "laporan / melapor", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "なければいけない", "romaji": "nakereba ikenai", "arti": "harus / wajib (melakukan sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "いる", "romaji": "iru", "arti": "ada / berada (untuk makhluk hidup); juga bentuk ~ている (sedang/dalam keadaan)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "こと", "romaji": "koto", "arti": "hal / perkara", "tipe": "Kata Benda" },
+  { "kanji": "確認", "hiragana": "かくにん", "romaji": "kakunin", "arti": "konfirmasi / memastikan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "時点", "hiragana": "じてん", "romaji": "jiten", "arti": "titik waktu / saat", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "から", "romaji": "kara", "arti": "dari / karena (partikel penunjuk sumber atau alasan)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "まで", "romaji": "made", "arti": "sampai / hingga (partikel penunjuk titik akhir)", "tipe": "Partikel" },
+  { "kanji": "作る", "hiragana": "つくる", "romaji": "tsukuru", "arti": "membuat", "tipe": "Kata Kerja" },
+  { "kanji": "食品", "hiragana": "しょくひん", "romaji": "shokuhin", "arti": "makanan / produk makanan", "tipe": "Kata Benda" },
+  { "kanji": "金属", "hiragana": "きんぞく", "romaji": "kinzoku", "arti": "logam", "tipe": "Kata Benda" },
+  { "kanji": "入る", "hiragana": "はいる", "romaji": "hairu", "arti": "masuk", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "かもしれない", "romaji": "kamoshirenai", "arti": "mungkin / bisa jadi", "tipe": "Kata Keterangan" },
+  { "kanji": "X線異物検出機", "hiragana": "エックスせんいぶつけんしゅつき", "romaji": "ekkusu-sen ibutsu kenshutsuki", "arti": "mesin detektor benda asing sinar-X", "tipe": "Kata Benda" },
+  { "kanji": "石", "hiragana": "いし", "romaji": "ishi", "arti": "batu", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "や", "romaji": "ya", "arti": "dan / atau (partikel penghubung untuk menyebutkan beberapa contoh)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "ガラス", "romaji": "garasu", "arti": "kaca", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "など", "romaji": "nado", "arti": "dan lain-lain", "tipe": "Kata Keterangan" },
+  { "kanji": "見つける", "hiragana": "みつける", "romaji": "mitsukeru", "arti": "menemukan", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "できる", "romaji": "dekiru", "arti": "bisa / dapat (melakukan sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "ない", "romaji": "nai", "arti": "tidak ada / tidak punya (bentuk negatif dari ある)", "tipe": "Kata Sifat (i)" },
+  { "kanji": "硬質異物", "hiragana": "こうしついぶつ", "romaji": "koushitsu ibutsu", "arti": "benda asing keras", "tipe": "Kata Benda" },
+  { "kanji": "検出", "hiragana": "けんしゅつ", "romaji": "kenshutsu", "arti": "deteksi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "原材料", "hiragana": "げんざいりょう", "romaji": "genzairyou", "arti": "bahan baku", "tipe": "Kata Benda" },
+  { "kanji": "受入れ", "hiragana": "うけいれ", "romaji": "ukeire", "arti": "penerimaan", "tipe": "Kata Benda" },
+  { "kanji": "管理", "hiragana": "かんり", "romaji": "kanri", "arti": "manajemen / pengawasan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "製品", "hiragana": "せいひん", "romaji": "seihin", "arti": "produk", "tipe": "Kata Benda" },
+  { "kanji": "数量不足", "hiragana": "すうりょうふそく", "romaji": "suuryou fusoku", "arti": "kekurangan jumlah", "tipe": "Kata Benda" },
+  { "kanji": "形状不良品", "hiragana": "けいじょうふりょうひん", "romaji": "keijou furyouhin", "arti": "produk cacat bentuk", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "チェック", "romaji": "chekku", "arti": "pemeriksaan / cek", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "使う", "hiragana": "つかう", "romaji": "tsukau", "arti": "menggunakan", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "も", "romaji": "mo", "arti": "juga / pun (partikel penunjuk inklusi)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "ある", "romaji": "aru", "arti": "ada (untuk benda mati)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "プラスチック", "romaji": "purasuchikku", "arti": "plastik", "tipe": "Kata Benda" },
+  { "kanji": "X線", "hiragana": "エックスせん", "romaji": "ekkususen", "arti": "sinar-X", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "にくい", "romaji": "nikui", "arti": "sulit / susah untuk ~ (akhiran pada kata kerja, kebalikan dari やすい)", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "ので", "romaji": "node", "arti": "karena / sebab", "tipe": "Partikel" },
+  { "kanji": "頼る", "hiragana": "たよる", "romaji": "tayoru", "arti": "bergantung (pada)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "の", "romaji": "no", "arti": "partikel nominalisasi (mengubah klausa menjadi kata benda, ~yang)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "ではなく", "romaji": "de wa naku", "arti": "bukan ~, melainkan (pola kontras)", "tipe": "Partikel" },
+  { "kanji": "機械", "hiragana": "きかい", "romaji": "kikai", "arti": "mesin", "tipe": "Kata Benda" },
+  { "kanji": "設備", "hiragana": "せつび", "romaji": "setsubi", "arti": "fasilitas / peralatan", "tipe": "Kata Benda" },
+  { "kanji": "混入", "hiragana": "こんにゅう", "romaji": "konnyuu", "arti": "kontaminasi / tercampur", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "よう", "romaji": "you", "arti": "cara / sedemikian rupa (menyatakan tujuan atau cara)", "tipe": "Kata Benda" },
+  { "kanji": "法律", "hiragana": "ほうりつ", "romaji": "houritsu", "arti": "hukum / undang-undang", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "で", "romaji": "de", "arti": "partikel penunjuk alat, cara, tempat, atau sebab (dengan/di/karena)", "tipe": "Partikel" },
+  { "kanji": "微生物検査", "hiragana": "びせいぶつけんさ", "romaji": "biseibutsu kensa", "arti": "pemeriksaan mikroba", "tipe": "Kata Benda" },
+  { "kanji": "義務", "hiragana": "ぎむ", "romaji": "gimu", "arti": "kewajiban", "tipe": "Kata Benda" },
+  { "kanji": "決める", "hiragana": "きめる", "romaji": "kimeru", "arti": "menentukan / menetapkan", "tipe": "Kata Kerja" },
+  { "kanji": "方法", "hiragana": "ほうほう", "romaji": "houhou", "arti": "metode / cara", "tipe": "Kata Benda" },
+  { "kanji": "項目", "hiragana": "こうもく", "romaji": "koumoku", "arti": "item / poin", "tipe": "Kata Benda" },
+  { "kanji": "検査", "hiragana": "けんさ", "romaji": "kensa", "arti": "pemeriksaan / inspeksi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "食品製造業者", "hiragana": "しょくひんせいぞうぎょうしゃ", "romaji": "shokuhin seizou gyousha", "arti": "produsen makanan", "tipe": "Kata Benda" },
+  { "kanji": "自主的", "hiragana": "じしゅてき", "romaji": "jishuteki", "arti": "secara mandiri / proaktif", "tipe": "Kata Sifat (na)" },
+  { "kanji": "行う", "hiragana": "おこなう", "romaji": "okonau", "arti": "melakukan / melaksanakan", "tipe": "Kata Kerja" },
+  { "kanji": "一般的", "hiragana": "いっぱんてき", "romaji": "ippanteki", "arti": "secara umum", "tipe": "Kata Sifat (na)" },
+  { "kanji": "一般生菌数", "hiragana": "いっぱんせいきんすう", "romaji": "ippan seikinsuu", "arti": "jumlah bakteri hidup umum", "tipe": "Kata Benda" },
+  { "kanji": "大腸菌", "hiragana": "だいちょうきん", "romaji": "daichoukin", "arti": "bakteri E. coli", "tipe": "Kata Benda" },
+  { "kanji": "大腸菌群", "hiragana": "だいちょうきんぐん", "romaji": "daichoukingun", "arti": "kelompok bakteri coliform", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "この", "romaji": "kono", "arti": "ini (menunjuk kata benda yang mengikutinya)", "tipe": "Kata Sifat (rentaishi)" },
+  { "kanji": "他", "hiragana": "ほか", "romaji": "hoka", "arti": "lain / lainnya", "tipe": "Kata Benda" },
+  { "kanji": "黄色ブドウ球菌", "hiragana": "おうしょくぶどうきゅうきん", "romaji": "oushoku budou kyuukin", "arti": "bakteri Staphylococcus aureus", "tipe": "Kata Benda" },
+  { "kanji": "サルモネラ属菌", "hiragana": "さるもねらぞくきん", "romaji": "sarumonera zokukin", "arti": "bakteri genus Salmonella", "tipe": "Kata Benda" },
+  { "kanji": "カンピロバクター属菌", "hiragana": "かんぴろばくたーぞくきん", "romaji": "kanpirobakutaa zokukin", "arti": "bakteri genus Campylobacter", "tipe": "Kata Benda" },
+  { "kanji": "保管", "hiragana": "ほかん", "romaji": "hokan", "arti": "penyimpanan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "出荷", "hiragana": "しゅっか", "romaji": "shukka", "arti": "pengiriman produk / rilis", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "配送", "hiragana": "はいそう", "romaji": "haisou", "arti": "pengantaran / distribusi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "合格", "hiragana": "ごうかく", "romaji": "goukaku", "arti": "lulus (ujian/inspeksi)", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "製品倉庫", "hiragana": "せいひんそうこ", "romaji": "seihin souko", "arti": "gudang produk", "tipe": "Kata Benda" },
+  { "kanji": "温度", "hiragana": "おんど", "romaji": "ondo", "arti": "suhu", "tipe": "Kata Benda" },
+  { "kanji": "保管条件", "hiragana": "ほかんじょうけん", "romaji": "hokan jouken", "arti": "kondisi penyimpanan", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ごとに", "romaji": "goto ni", "arti": "masing-masing / setiap", "tipe": "Partikel" },
+  { "kanji": "決まる", "hiragana": "きまる", "romaji": "kimaru", "arti": "diputuskan / ditetapkan", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "サンプル", "romaji": "sanpuru", "arti": "sampel / contoh", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "クレーム", "romaji": "kureemu", "arti": "komplain / keluhan", "tipe": "Kata Benda" },
+  { "kanji": "来る", "hiragana": "くる", "romaji": "kuru", "arti": "datang / tiba", "tipe": "Kata Kerja" },
+  { "kanji": "同じ", "hiragana": "おなじ", "romaji": "onaji", "arti": "sama", "tipe": "Kata Sifat / Rentaishi" },
+  { "kanji": "時期", "hiragana": "じき", "romaji": "jiki", "arti": "waktu / periode", "tipe": "Kata Benda" },
+  { "kanji": "製造", "hiragana": "せいぞう", "romaji": "seizou", "arti": "produksi / pembuatan", "tipe": "Kata Benda / Kata Kerja" }
 ]
