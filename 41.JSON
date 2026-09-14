@@ -1,114 +1,29 @@
 [
-  {
-    "kanji": "後",
-    "hiragana": "あと",
-    "romaji": "ato",
-    "arti": "nanti / setelahnya",
-    "tipe": "Kata Benda / Kata Keterangan"
-  },
-  {
-    "kanji": "まとめる",
-    "hiragana": "まとめる",
-    "romaji": "matomeru",
-    "arti": "mengumpulkan / menyatukan sekaligus",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "記録",
-    "hiragana": "きろく",
-    "romaji": "kiroku",
-    "arti": "pencatatan / catatan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "いつも",
-    "hiragana": "いつも",
-    "romaji": "itsumo",
-    "arti": "selalu",
-    "tipe": "Kata Keterangan"
-  },
-  {
-    "kanji": "こう",
-    "hiragana": "こう",
-    "romaji": "kou",
-    "arti": "begini / seperti ini",
-    "tipe": "Kata Keterangan"
-  },
-  {
-    "kanji": "はかる",
-    "hiragana": "はかる",
-    "romaji": "hakaru",
-    "arti": "mengukur",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "前",
-    "hiragana": "まえ",
-    "romaji": "mae",
-    "arti": "sebelum / depan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "確認",
-    "hiragana": "かくにん",
-    "romaji": "kakunin",
-    "arti": "konfirmasi / pengecekan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "事実",
-    "hiragana": "じじつ",
-    "romaji": "jijitsu",
-    "arti": "fakta / kenyataan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "事",
-    "hiragana": "こと",
-    "romaji": "koto",
-    "arti": "hal / sesuatu",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "絶対",
-    "hiragana": "ぜったい",
-    "romaji": "zettai",
-    "arti": "mutlak / sama sekali (jangan)",
-    "tipe": "Kata Keterangan / Kata Benda"
-  },
-  {
-    "kanji": "自分",
-    "hiragana": "じぶん",
-    "romaji": "jibun",
-    "arti": "diri sendiri",
-    "tipe": "Kata Ganti / Kata Benda"
-  },
-  {
-    "kanji": "だけ",
-    "hiragana": "だけ",
-    "romaji": "dake",
-    "arti": "hanya",
-    "tipe": "Partikel"
-  },
-  {
-    "kanji": "判断",
-    "hiragana": "はんだん",
-    "romaji": "handan",
-    "arti": "penilaian / keputusan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "修正",
-    "hiragana": "しゅうせい",
-    "romaji": "shuusei",
-    "arti": "revisi / perbaikan / koreksi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "いけない",
-    "hiragana": "いけない",
-    "romaji": "ikenai",
-    "arti": "tidak boleh",
-    "tipe": "Frasa / Kata Kerja"
-  }
+  { "kanji": "", "hiragana": "いけない", "romaji": "ikenai", "arti": "tidak boleh", "tipe": "Frasa / Kata Kerja" },
+  { "kanji": "後", "hiragana": "あと", "romaji": "ato", "arti": "nanti / setelahnya", "tipe": "Kata Benda / Kata Keterangan" },
+  { "kanji": "まとめる", "hiragana": "まとめる", "romaji": "matomeru", "arti": "mengumpulkan / menyatukan sekaligus", "tipe": "Kata Kerja" },
+  { "kanji": "記録", "hiragana": "きろく", "romaji": "kiroku", "arti": "pencatatan / catatan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "てはいけない", "romaji": "te wa ikenai", "arti": "tidak boleh / dilarang melakukan (sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "いつも", "hiragana": "いつも", "romaji": "itsumo", "arti": "selalu", "tipe": "Kata Keterangan" },
+  { "kanji": "こう", "hiragana": "こう", "romaji": "kou", "arti": "begini / seperti ini", "tipe": "Kata Keterangan" },
+  { "kanji": "", "hiragana": "だから", "romaji": "dakara", "arti": "karena itu / oleh sebab itu", "tipe": "Kata Keterangan" },
+  { "kanji": "", "hiragana": "と", "romaji": "to", "arti": "dan (partikel penghubung); jika/ketika (kondisional); partikel kutipan (menandai ucapan/istilah)", "tipe": "Partikel" },
+  { "kanji": "はかる", "hiragana": "はかる", "romaji": "hakaru", "arti": "mengukur", "tipe": "Kata Kerja" },
+  { "kanji": "前", "hiragana": "まえ", "romaji": "mae", "arti": "sebelum / depan", "tipe": "Kata Benda" },
+  { "kanji": "確認", "hiragana": "かくにん", "romaji": "kakunin", "arti": "konfirmasi / pengecekan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "いる", "romaji": "iru", "arti": "ada / berada (untuk makhluk hidup); juga bentuk ~ている (sedang/dalam keadaan)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "ない", "romaji": "nai", "arti": "tidak ada / tidak punya (bentuk negatif dari ある)", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "のに", "romaji": "noni", "arti": "padahal / meskipun (menyatakan pertentangan)", "tipe": "Partikel" },
+  { "kanji": "事実", "hiragana": "じじつ", "romaji": "jijitsu", "arti": "fakta / kenyataan", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "で", "romaji": "de", "arti": "partikel penunjuk alat, cara, tempat, atau sebab (dengan/di/karena)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "こと", "romaji": "koto", "arti": "hal / sesuatu", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "は", "romaji": "wa", "arti": "partikel penunjuk topik (menandai subjek pembicaraan)", "tipe": "Partikel" },
+  { "kanji": "絶対", "hiragana": "ぜったい", "romaji": "zettai", "arti": "mutlak / sama sekali (jangan)", "tipe": "Kata Keterangan / Kata Benda" },
+  { "kanji": "", "hiragana": "に", "romaji": "ni", "arti": "partikel penunjuk arah, target, waktu, atau tujuan", "tipe": "Partikel" },
+  { "kanji": "自分", "hiragana": "じぶん", "romaji": "jibun", "arti": "diri sendiri", "tipe": "Kata Ganti / Kata Benda" },
+  { "kanji": "", "hiragana": "だけ", "romaji": "dake", "arti": "hanya", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "の", "romaji": "no", "arti": "partikel kepunyaan / nominalisasi (~nya, ~yang)", "tipe": "Partikel" },
+  { "kanji": "判断", "hiragana": "はんだん", "romaji": "handan", "arti": "penilaian / keputusan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "修正", "hiragana": "しゅうせい", "romaji": "shuusei", "arti": "revisi / perbaikan / koreksi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "ても", "romaji": "temo", "arti": "meskipun / walaupun (bentuk pengandaian pada kata kerja)", "tipe": "Partikel" }
 ]
