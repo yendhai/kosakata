@@ -1,289 +1,66 @@
 [
-  {
-    "kanji": "原則",
-    "hiragana": "げんそく",
-    "romaji": "gensoku",
-    "arti": "prinsip",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "危害要因",
-    "hiragana": "きがいよういん",
-    "romaji": "kigai youin",
-    "arti": "faktor bahaya (hazard)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "分析",
-    "hiragana": "ぶんせき",
-    "romaji": "bunseki",
-    "arti": "analisis",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "ハザード",
-    "hiragana": "ハザード",
-    "romaji": "hazaado",
-    "arti": "bahaya (hazard)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "製造",
-    "hiragana": "せいぞう",
-    "romaji": "seizou",
-    "arti": "produksi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "食品",
-    "hiragana": "しょくひん",
-    "romaji": "shokuhin",
-    "arti": "makanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "含む",
-    "hiragana": "ふくむ",
-    "romaji": "fukumu",
-    "arti": "mengandung / mencakup",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "管理",
-    "hiragana": "かんり",
-    "romaji": "kanri",
-    "arti": "pengelolaan / manajemen",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "必要",
-    "hiragana": "ひつよう",
-    "romaji": "hitsuyou",
-    "arti": "perlu / kebutuhan",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "判断",
-    "hiragana": "はんだん",
-    "romaji": "handan",
-    "arti": "penilaian / keputusan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "重要管理点",
-    "hiragana": "じゅうようかんりてん",
-    "romaji": "juuyou kanriten",
-    "arti": "Titik Kendali Kritis (Critical Control Point / CCP)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "決定",
-    "hiragana": "けってい",
-    "romaji": "kettei",
-    "arti": "penentuan / keputusan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "結果",
-    "hiragana": "けっか",
-    "romaji": "kekka",
-    "arti": "hasil",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "一般衛生管理",
-    "hiragana": "いっぱんえいせいかんり",
-    "romaji": "ippan eisei kanri",
-    "arti": "manajemen sanitasi umum",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "場合",
-    "hiragana": "ばあい",
-    "romaji": "baai",
-    "arti": "kasus / situasi / jika",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "取り除く",
-    "hiragana": "とりのぞく",
-    "romaji": "torinozoku",
-    "arti": "menghilangkan / menyingkirkan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "決める",
-    "hiragana": "きめる",
-    "romaji": "kimeru",
-    "arti": "menentukan / memutuskan",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "管理基準",
-    "hiragana": "かんりきじゅん",
-    "romaji": "kanri kijun",
-    "arti": "kriteria pengelolaan / batas kritis",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "設定",
-    "hiragana": "せってい",
-    "romaji": "settei",
-    "arti": "pengaturan / penetapan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "監視",
-    "hiragana": "かんし",
-    "romaji": "kanshi",
-    "arti": "pemantauan / pengawasan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "モニタリング",
-    "hiragana": "モニタリング",
-    "romaji": "monitaringu",
-    "arti": "pemantauan (monitoring)",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "方法",
-    "hiragana": "ほうほう",
-    "romaji": "houhou",
-    "arti": "metode / cara",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "状況",
-    "hiragana": "じょうきょう",
-    "romaji": "joukyou",
-    "arti": "situasi / kondisi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "改善措置",
-    "hiragana": "かいぜんそち",
-    "romaji": "kaizen sochi",
-    "arti": "tindakan perbaikan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "逸脱",
-    "hiragana": "いつだつ",
-    "romaji": "itsudatsu",
-    "arti": "penyimpangan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "基準",
-    "hiragana": "きじゅん",
-    "romaji": "kijun",
-    "arti": "standar / kriteria",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "良い",
-    "hiragana": "よい",
-    "romaji": "yoi",
-    "arti": "baik / bagus",
-    "tipe": "Kata Sifat (i)"
-  },
-  {
-    "kanji": "作る",
-    "hiragana": "つくる",
-    "romaji": "tsukuru",
-    "arti": "membuat",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "検証",
-    "hiragana": "けんしょう",
-    "romaji": "kenshou",
-    "arti": "verifikasi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "やり方",
-    "hiragana": "やりかた",
-    "romaji": "yarikata",
-    "arti": "cara melakukan sesuatu",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "除去",
-    "hiragana": "じょきょ",
-    "romaji": "jokyo",
-    "arti": "penghapusan / eliminasi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "低減",
-    "hiragana": "ていげん",
-    "romaji": "teigen",
-    "arti": "pengurangan / penurunan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "有効",
-    "hiragana": "ゆうこう",
-    "romaji": "yuukou",
-    "arti": "efektif / sah",
-    "tipe": "Kata Sifat (na) / Kata Benda"
-  },
-  {
-    "kanji": "確認",
-    "hiragana": "かくにん",
-    "romaji": "kakunin",
-    "arti": "konfirmasi / pengecekan",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "計画通り",
-    "hiragana": "けいかくどおり",
-    "romaji": "keikaku doori",
-    "arti": "sesuai rencana",
-    "tipe": "Kata Keterangan / Kata Benda"
-  },
-  {
-    "kanji": "実行",
-    "hiragana": "じっこう",
-    "romaji": "jikkou",
-    "arti": "pelaksanaan / eksekusi",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "記録",
-    "hiragana": "きろく",
-    "romaji": "kiroku",
-    "arti": "pencatatan / rekaman",
-    "tipe": "Kata Benda / Kata Kerja"
-  },
-  {
-    "kanji": "内容",
-    "hiragana": "ないよう",
-    "romaji": "naiyou",
-    "arti": "isi / konten",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "文書",
-    "hiragana": "ぶんしょ",
-    "romaji": "bunsho",
-    "arti": "dokumen / tulisan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "実際",
-    "hiragana": "じっさい",
-    "romaji": "jissai",
-    "arti": "aktual / sesungguhnya",
-    "tipe": "Kata Benda / Kata Keterangan"
-  },
-  {
-    "kanji": "一緒",
-    "hiragana": "いっしょ",
-    "romaji": "issho",
-    "arti": "bersama",
-    "tipe": "Kata Benda"
-  }
+  { "kanji": "原則", "hiragana": "げんそく", "romaji": "gensoku", "arti": "prinsip", "tipe": "Kata Benda" },
+  { "kanji": "危害要因", "hiragana": "きがいよういん", "romaji": "kigai youin", "arti": "faktor bahaya (hazard)", "tipe": "Kata Benda" },
+  { "kanji": "分析", "hiragana": "ぶんせき", "romaji": "bunseki", "arti": "analisis", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "ハザード", "romaji": "hazaado", "arti": "bahaya (hazard)", "tipe": "Kata Benda" },
+  { "kanji": "製造", "hiragana": "せいぞう", "romaji": "seizou", "arti": "produksi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "とする", "romaji": "to suru", "arti": "berniat / mencoba melakukan (pola: bentuk volitional kata kerja + とする)", "tipe": "Kata Kerja" },
+  { "kanji": "食品", "hiragana": "しょくひん", "romaji": "shokuhin", "arti": "makanan", "tipe": "Kata Benda" },
+  { "kanji": "含む", "hiragana": "ふくむ", "romaji": "fukumu", "arti": "mengandung / mencakup", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "よう", "romaji": "you", "arti": "cara / sedemikian rupa (menyatakan tujuan atau cara)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ため", "romaji": "tame", "arti": "untuk / demi (suatu tujuan)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "どのような", "romaji": "dono you na", "arti": "yang bagaimana / jenis apa", "tipe": "Kata Sifat (rentaishi)" },
+  { "kanji": "管理", "hiragana": "かんり", "romaji": "kanri", "arti": "pengelolaan / manajemen", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "必要", "hiragana": "ひつよう", "romaji": "hitsuyou", "arti": "perlu / kebutuhan", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "", "hiragana": "か", "romaji": "ka", "arti": "partikel penunjuk pertanyaan (apakah) / partikel pilihan (atau)", "tipe": "Partikel" },
+  { "kanji": "判断", "hiragana": "はんだん", "romaji": "handan", "arti": "penilaian / keputusan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "重要管理点", "hiragana": "じゅうようかんりてん", "romaji": "juuyou kanriten", "arti": "Titik Kendali Kritis (Critical Control Point / CCP)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "の", "romaji": "no", "arti": "partikel kepunyaan / nominalisasi (~nya, ~yang)", "tipe": "Partikel" },
+  { "kanji": "決定", "hiragana": "けってい", "romaji": "kettei", "arti": "penentuan / keputusan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "結果", "hiragana": "けっか", "romaji": "kekka", "arti": "hasil", "tipe": "Kata Benda" },
+  { "kanji": "一般衛生管理", "hiragana": "いっぱんえいせいかんり", "romaji": "ippan eisei kanri", "arti": "manajemen sanitasi umum", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "だけ", "romaji": "dake", "arti": "hanya / saja", "tipe": "Kata Keterangan" },
+  { "kanji": "場合", "hiragana": "ばあい", "romaji": "baai", "arti": "kasus / situasi / jika", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "できる", "romaji": "dekiru", "arti": "bisa / dapat (melakukan sesuatu)", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "ない", "romaji": "nai", "arti": "tidak ada / tidak punya (bentuk negatif dari ある)", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "その", "romaji": "sono", "arti": "itu (menunjuk kata benda yang mengikutinya)", "tipe": "Kata Sifat (rentaishi)" },
+  { "kanji": "取り除く", "hiragana": "とりのぞく", "romaji": "torinozoku", "arti": "menghilangkan / menyingkirkan", "tipe": "Kata Kerja" },
+  { "kanji": "決める", "hiragana": "きめる", "romaji": "kimeru", "arti": "menentukan / memutuskan", "tipe": "Kata Kerja" },
+  { "kanji": "管理基準", "hiragana": "かんりきじゅん", "romaji": "kanri kijun", "arti": "kriteria pengelolaan / batas kritis", "tipe": "Kata Benda" },
+  { "kanji": "設定", "hiragana": "せってい", "romaji": "settei", "arti": "pengaturan / penetapan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "監視", "hiragana": "かんし", "romaji": "kanshi", "arti": "pemantauan / pengawasan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "モニタリング", "romaji": "monitaringu", "arti": "pemantauan (monitoring)", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "方法", "hiragana": "ほうほう", "romaji": "houhou", "arti": "metode / cara", "tipe": "Kata Benda" },
+  { "kanji": "状況", "hiragana": "じょうきょう", "romaji": "joukyou", "arti": "situasi / kondisi", "tipe": "Kata Benda" },
+  { "kanji": "改善措置", "hiragana": "かいぜんそち", "romaji": "kaizen sochi", "arti": "tindakan perbaikan", "tipe": "Kata Benda" },
+  { "kanji": "逸脱", "hiragana": "いつだつ", "romaji": "itsudatsu", "arti": "penyimpangan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "いる", "romaji": "iru", "arti": "ada / berada (untuk makhluk hidup); juga bentuk ~ている (sedang/dalam keadaan)", "tipe": "Kata Kerja" },
+  { "kanji": "基準", "hiragana": "きじゅん", "romaji": "kijun", "arti": "standar / kriteria", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "とおり", "romaji": "toori", "arti": "sesuai / seperti (yang ditentukan)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "どう", "romaji": "dou", "arti": "bagaimana", "tipe": "Kata Keterangan" },
+  { "kanji": "良い", "hiragana": "よい", "romaji": "yoi", "arti": "baik / bagus", "tipe": "Kata Sifat (i)" },
+  { "kanji": "", "hiragana": "それ", "romaji": "sore", "arti": "itu", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "まで", "romaji": "made", "arti": "sampai / hingga (partikel penunjuk titik akhir)", "tipe": "Partikel" },
+  { "kanji": "作る", "hiragana": "つくる", "romaji": "tsukuru", "arti": "membuat", "tipe": "Kata Kerja" },
+  { "kanji": "", "hiragana": "てしまう", "romaji": "teshimau", "arti": "menjadi ... (dengan nuansa penyesalan) / selesai sepenuhnya", "tipe": "Kata Kerja" },
+  { "kanji": "検証", "hiragana": "けんしょう", "romaji": "kenshou", "arti": "verifikasi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "やり方", "hiragana": "やりかた", "romaji": "yarikata", "arti": "cara melakukan sesuatu", "tipe": "Kata Benda" },
+  { "kanji": "除去", "hiragana": "じょきょ", "romaji": "jokyo", "arti": "penghapusan / eliminasi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "や", "romaji": "ya", "arti": "dan / atau (partikel penghubung untuk menyebutkan beberapa contoh)", "tipe": "Partikel" },
+  { "kanji": "低減", "hiragana": "ていげん", "romaji": "teigen", "arti": "pengurangan / penurunan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "有効", "hiragana": "ゆうこう", "romaji": "yuukou", "arti": "efektif / sah", "tipe": "Kata Sifat (na) / Kata Benda" },
+  { "kanji": "", "hiragana": "である", "romaji": "de aru", "arti": "adalah (bentuk formal dari だ/です)", "tipe": "Partikel" },
+  { "kanji": "", "hiragana": "こと", "romaji": "koto", "arti": "hal / perkara", "tipe": "Kata Benda" },
+  { "kanji": "確認", "hiragana": "かくにん", "romaji": "kakunin", "arti": "konfirmasi / pengecekan", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "また", "romaji": "mata", "arti": "juga / selain itu", "tipe": "Kata Keterangan" },
+  { "kanji": "計画通り", "hiragana": "けいかくどおり", "romaji": "keikaku doori", "arti": "sesuai rencana", "tipe": "Kata Keterangan / Kata Benda" },
+  { "kanji": "実行", "hiragana": "じっこう", "romaji": "jikkou", "arti": "pelaksanaan / eksekusi", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "記録", "hiragana": "きろく", "romaji": "kiroku", "arti": "pencatatan / rekaman", "tipe": "Kata Benda / Kata Kerja" },
+  { "kanji": "", "hiragana": "から", "romaji": "kara", "arti": "dari / karena (partikel penunjuk sumber atau alasan)", "tipe": "Partikel" },
+  { "kanji": "内容", "hiragana": "ないよう", "romaji": "naiyou", "arti": "isi / konten", "tipe": "Kata Benda" },
+  { "kanji": "文書", "hiragana": "ぶんしょ", "romaji": "bunsho", "arti": "dokumen / tulisan", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "で", "romaji": "de", "arti": "partikel penunjuk alat, cara, tempat, atau sebab (dengan/di/karena)", "tipe": "Partikel" },
+  { "kanji": "実際", "hiragana": "じっさい", "romaji": "jissai", "arti": "aktual / sesungguhnya", "tipe": "Kata Benda / Kata Keterangan" },
+  { "kanji": "", "hiragana": "も", "romaji": "mo", "arti": "juga / pun (partikel penunjuk inklusi)", "tipe": "Partikel" },
+  { "kanji": "一緒", "hiragana": "いっしょ", "romaji": "issho", "arti": "bersama", "tipe": "Kata Benda" }
 ]
