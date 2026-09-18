@@ -1,7 +1,8 @@
 [
+  { "kanji": "重要管理点", "hiragana": "じゅうようかんりてん", "romaji": "juuyou kanriten", "arti": "Titik Kendali Kritis (Critical Control Point / CCP)", "tipe": "Kata Benda" },
+  { "kanji": "管理基準", "hiragana": "かんりきじゅん", "romaji": "kanri kijun", "arti": "standar pengelolaan / batas kritis", "tipe": "Kata Benda" },
   { "kanji": "食品", "hiragana": "しょくひん", "romaji": "shokuhin", "arti": "makanan", "tipe": "Kata Benda" },
   { "kanji": "多く", "hiragana": "おおく", "romaji": "ooku", "arti": "banyak / sebagian besar", "tipe": "Kata Benda / Kata Keterangan" },
-  { "kanji": "重要管理点", "hiragana": "じゅうようかんりてん", "romaji": "juuyou kanriten", "arti": "Titik Kendali Kritis (Critical Control Point / CCP)", "tipe": "Kata Benda" },
   { "kanji": "決める", "hiragana": "きめる", "romaji": "kimeru", "arti": "menentukan / memutuskan", "tipe": "Kata Kerja" },
   { "kanji": "管理", "hiragana": "かんり", "romaji": "kanri", "arti": "pengelolaan / manajemen", "tipe": "Kata Benda / Kata Kerja" },
   { "kanji": "必要", "hiragana": "ひつよう", "romaji": "hitsuyou", "arti": "perlu / kebutuhan", "tipe": "Kata Sifat (na) / Kata Benda" },
@@ -22,7 +23,6 @@
   { "kanji": "工程", "hiragana": "こうてい", "romaji": "koutei", "arti": "proses / tahapan", "tipe": "Kata Benda" },
   { "kanji": "違う", "hiragana": "ちがう", "romaji": "chigau", "arti": "berbeda", "tipe": "Kata Kerja" },
   { "kanji": "", "hiragana": "てくる", "romaji": "te kuru", "arti": "menjadi ~ secara bertahap / mulai berubah", "tipe": "Kata Kerja" },
-  { "kanji": "管理基準", "hiragana": "かんりきじゅん", "romaji": "kanri kijun", "arti": "standar pengelolaan / batas kritis", "tipe": "Kata Benda" },
   { "kanji": "必ず", "hiragana": "かならず", "romaji": "kanarazu", "arti": "pasti / harus", "tipe": "Kata Keterangan" },
   { "kanji": "守る", "hiragana": "まもる", "romaji": "mamoru", "arti": "mematuhi / menjaga", "tipe": "Kata Kerja" },
   { "kanji": "", "hiragana": "なければいけない", "romaji": "nakereba ikenai", "arti": "harus / wajib (melakukan sesuatu)", "tipe": "Kata Kerja" },
