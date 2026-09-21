@@ -1,5 +1,6 @@
 [
   { "kanji": "安全保護具", "hiragana": "あんぜんほごぐ", "romaji": "anzen hogogu", "arti": "alat pelindung keselamatan", "tipe": "Kata Benda" },
+  { "kanji": "正しいい", "hiragana": "ただしく", "romaji": "tadashiku", "arti": "benar", "tipe": "Kata Keterangan" },
   { "kanji": "着用", "hiragana": "ちゃくよう", "romaji": "chakuyou", "arti": "memakai / mengenakan", "tipe": "Kata Benda / Kata Kerja" },
   { "kanji": "指示", "hiragana": "しじ", "romaji": "shiji", "arti": "instruksi / petunjuk", "tipe": "Kata Benda / Kata Kerja" },
   { "kanji": "場合", "hiragana": "ばあい", "romaji": "baai", "arti": "kasus / situasi / keadaan", "tipe": "Kata Benda" },
