@@ -1,58 +1,16 @@
 [
-  {
-    "kanji": "目",
-    "hiragana": "め",
-    "romaji": "me",
-    "arti": "mata",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "保護",
-    "hiragana": "ほご",
-    "romaji": "hogo",
-    "arti": "perlindungan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "必要",
-    "hiragana": "ひつよう",
-    "romaji": "hitsuyou",
-    "arti": "perlu / keperluan",
-    "tipe": "Kata Benda / Kata Sifat (na)"
-  },
-  {
-    "kanji": "着用",
-    "hiragana": "ちゃくよう",
-    "romaji": "chakuyou",
-    "arti": "mengenakan / memakai",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "避難",
-    "hiragana": "ひ난",
-    "romaji": "hinan",
-    "arti": "evakuasi / mengungsi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "非常口",
-    "hiragana": "ひじょうぐち",
-    "romaji": "hijouguchi",
-    "arti": "pintu darurat",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "場所",
-    "hiragana": "ばしょ",
-    "romaji": "basho",
-    "arti": "tempat",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "消火器",
-    "hiragana": "しょうかき",
-    "romaji": "shoukaki",
-    "arti": "alat pemadam api (APAR)",
-    "tipe": "Kata Benda"
-  }
+  { "kanji": "目", "hiragana": "め", "romaji": "me", "arti": "mata", "tipe": "Kata Benda" },
+  { "kanji": "保護", "hiragana": "ほご", "romaji": "hogo", "arti": "perlindungan", "tipe": "Kata Benda" },
+  { "kanji": "必要", "hiragana": "ひつよう", "romaji": "hitsuyou", "arti": "perlu / keperluan", "tipe": "Kata Benda / Kata Sifat (na)" },
+  { "kanji": "", "hiragana": "こと", "romaji": "koto", "arti": "hal / perkara", "tipe": "Kata Benda" },
+  { "kanji": "知らせる", "hiragana": "しらせる", "romaji": "shiraseru", "arti": "memberitahukan", "tipe": "Kata Kerja" },
+  { "kanji": "標識", "hiragana": "ひょうしき", "romaji": "hyoushiki", "arti": "rambu / tanda", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ゴーグル", "romaji": "googuru", "arti": "goggle / kacamata pelindung besar", "tipe": "Kata Benda" },
+  { "kanji": "着用", "hiragana": "ちゃくよう", "romaji": "chakuyou", "arti": "mengenakan / memakai", "tipe": "Kata Benda" },
+  { "kanji": "保護メガネ", "hiragana": "ほごめがね", "romaji": "hogo megane", "arti": "kacamata pelindung", "tipe": "Kata Benda" },
+  { "kanji": "避難", "hiragana": "ひなん", "romaji": "hinan", "arti": "evakuasi / mengungsi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ため", "romaji": "tame", "arti": "untuk / demi (suatu tujuan)", "tipe": "Kata Benda" },
+  { "kanji": "非常口", "hiragana": "ひじょうぐち", "romaji": "hijouguchi", "arti": "pintu darurat", "tipe": "Kata Benda" },
+  { "kanji": "場所", "hiragana": "ばしょ", "romaji": "basho", "arti": "tempat", "tipe": "Kata Benda" },
+  { "kanji": "消火器", "hiragana": "しょうかき", "romaji": "shoukaki", "arti": "alat pemadam api (APAR)", "tipe": "Kata Benda" }
 ]
