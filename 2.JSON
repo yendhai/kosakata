@@ -1,404 +1,70 @@
 [
-  {
-    "kanji": "",
-    "hiragana": "いろいろ",
-    "arti": "bermacam-macam / berbagai",
-    "tipe": "Kata Sifat (na) / Kata Keterangan"
-  },
-  {
-    "kanji": "飲食料品製造業",
-    "hiragana": "いんしょくりょうひんせいぞうぎょう",
-    "arti": "industri manufaktur makanan dan minuman",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "飲料",
-    "hiragana": "いんりょう",
-    "arti": "minuman",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "食料品",
-    "hiragana": "しょくりょうひん",
-    "arti": "bahan makanan / produk makanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "私たち",
-    "hiragana": "わたしたち",
-    "arti": "kami / kita",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "生活",
-    "hiragana": "せいかつ",
-    "arti": "kehidupan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "欠かす",
-    "hiragana": "かかす",
-    "arti": "melewatkan (kakasemasen: tidak bisa dilewatkan/sangat penting)",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "工場",
-    "hiragana": "こうじょう",
-    "arti": "pabrik",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "製造",
-    "hiragana": "せいぞう",
-    "arti": "manufaktur / produksi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "仕事",
-    "hiragana": "しごと",
-    "arti": "pekerjaan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "ハム",
-    "arti": "daging ham",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "ソーセージ",
-    "arti": "sosis",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "魚",
-    "hiragana": "さかな",
-    "arti": "ikan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "缶詰",
-    "hiragana": "かんづめ",
-    "arti": "makanan kaleng",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "調味料",
-    "hiragana": "ちょうみりょう",
-    "arti": "bumbu",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "パン",
-    "arti": "roti",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "お菓子",
-    "hiragana": "おかし",
-    "arti": "camilan / permen / kue",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "弁当",
-    "hiragana": "べんとう",
-    "arti": "bekal / bento",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "そう菜",
-    "hiragana": "そうさい",
-    "arti": "lauk pauk",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "冷凍食品",
-    "hiragana": "れいとうしょくひん",
-    "arti": "makanan beku",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "など",
-    "arti": "dan lain-lain",
-    "tipe": "Kata Keterangan"
-  },
-  {
-    "kanji": "食料品製造業",
-    "hiragana": "しょくりょうひんせいぞうぎょう",
-    "arti": "industri manufaktur produk makanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "ジュース",
-    "arti": "jus",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "お茶",
-    "hiragana": "おちゃ",
-    "arti": "teh",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "コーヒー",
-    "arti": "kopi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "飲料製造業",
-    "hiragana": "いんりょうせいぞうぎょう",
-    "arti": "industri manufaktur minuman",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "業",
-    "hiragana": "ぎょう",
-    "arti": "industri / bisnis",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "ある",
-    "arti": "ada (untuk benda mati)",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "農林水産省",
-    "hiragana": "のうりんすいさんしょう",
-    "arti": "Kementerian Pertanian, Kehutanan, dan Perikanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "統計",
-    "hiragana": "とうけい",
-    "arti": "statistik",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "日本",
-    "hiragana": "にほん",
-    "arti": "Jepang",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "食品製造業",
-    "hiragana": "しょくひんせいぞうぎょう",
-    "arti": "industri manufaktur makanan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "国内",
-    "hiragana": "こくない",
-    "arti": "dalam negeri / domestik",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "生産額",
-    "hiragana": "せいさんがく",
-    "arti": "nilai produksi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "ここ",
-    "arti": "di sini / ini (waktu akhir-akhir ini)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "数年",
-    "hiragana": "すうねん",
-    "arti": "beberapa tahun",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "約",
-    "hiragana": "やく",
-    "arti": "kira-kira / sekitar",
-    "tipe": "Kata Keterangan"
-  },
-  {
-    "kanji": "兆",
-    "hiragana": "ちょう",
-    "arti": "triliun",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "円",
-    "hiragana": "えん",
-    "arti": "Yen (mata uang Jepang)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "なる",
-    "arti": "menjadi",
-    "tipe": "Kata Kerja"
-  },
-  {
-    "kanji": "動き",
-    "hiragana": "うごき",
-    "arti": "pergerakan / tren",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "出典",
-    "hiragana": "しゅってん",
-    "arti": "sumber (referensi)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "令和",
-    "hiragana": "れいわ",
-    "arti": "Reiwa (Era Jepang mulai 2019)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "年",
-    "hiragana": "ねん",
-    "arti": "tahun",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "農業",
-    "hiragana": "のうぎょう",
-    "arti": "pertanian",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "食料",
-    "hiragana": "しょくりょう",
-    "arti": "bahan pangan / pangan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "関連",
-    "hiragana": "かんれん",
-    "arti": "hubungan / kaitan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "産業",
-    "hiragana": "さんぎょう",
-    "arti": "industri",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "経済計算",
-    "hiragana": "けいざいけいさん",
-    "arti": "perhitungan ekonomi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "概算",
-    "hiragana": "がいさん",
-    "arti": "perkiraan kasar / estimasi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "単位",
-    "hiragana": "たんい",
-    "arti": "unit / satuan",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "十億円",
-    "hiragana": "じゅうおくえん",
-    "arti": "miliar yen",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "飲料品",
-    "hiragana": "いんりょうひん",
-    "arti": "produk minuman",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "レトルト食品",
-    "hiragana": "レトルトしょくひん",
-    "arti": "makanan retort (makanan siap saji dalam kantong kedap udara)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "冷凍調理食品",
-    "hiragana": "れいとうちょうりしょくひん",
-    "arti": "makanan olahan beku",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "その他",
-    "hiragana": "そのた",
-    "arti": "lain-lain",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "菓子類",
-    "hiragana": "かしるい",
-    "arti": "jenis gula-gula / kue",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "パン類",
-    "hiragana": "パンるい",
-    "arti": "jenis roti",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "めん類",
-    "hiragana": "めんるい",
-    "arti": "jenis mie",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "精穀",
-    "hiragana": "せいこく",
-    "arti": "biji-bijian giling",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "製粉",
-    "hiragana": "せいふん",
-    "arti": "penggilingan tepung",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "水産食料品",
-    "hiragana": "すいさんしょくりょうひん",
-    "arti": "produk makanan hasil laut (perikanan)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "畜産食料品",
-    "hiragana": "ちくさんしょくりょうひん",
-    "arti": "produk makanan hewani (peternakan)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "食肉",
-    "hiragana": "しょくにく",
-    "arti": "daging (untuk dimakan)",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "",
-    "hiragana": "すし",
-    "arti": "sushi",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "分類",
-    "hiragana": "ぶんるい",
-    "arti": "klasifikasi / kategori",
-    "tipe": "Kata Benda"
-  },
-  {
-    "kanji": "割合",
-    "hiragana": "わりあい",
-    "arti": "rasio / persentase",
-    "tipe": "Kata Benda"
-  }
+  { "kanji": "", "hiragana": "いろいろ", "arti": "bermacam-macam / berbagai", "tipe": "Kata Sifat (na) / Kata Keterangan" },
+  { "kanji": "飲食料品製造業", "hiragana": "いんしょくりょうひんせいぞうぎょう", "arti": "industri manufaktur makanan dan minuman", "tipe": "Kata Benda" },
+  { "kanji": "飲料", "hiragana": "いんりょう", "arti": "minuman", "tipe": "Kata Benda" },
+  { "kanji": "食料品", "hiragana": "しょくりょうひん", "arti": "bahan makanan / produk makanan", "tipe": "Kata Benda" },
+  { "kanji": "私たち", "hiragana": "わたしたち", "arti": "kami / kita", "tipe": "Kata Benda" },
+  { "kanji": "生活", "hiragana": "せいかつ", "arti": "kehidupan", "tipe": "Kata Benda" },
+  { "kanji": "欠かす", "hiragana": "かかす", "arti": "melewatkan (kakasemasen: tidak bisa dilewatkan/sangat penting)", "tipe": "Kata Kerja" },
+  { "kanji": "工場", "hiragana": "こうじょう", "arti": "pabrik", "tipe": "Kata Benda" },
+  { "kanji": "製造", "hiragana": "せいぞう", "arti": "manufaktur / produksi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "する", "arti": "melakukan (di sini membentuk kata kerja dari kata benda, misal 製造する = memproduksi)", "tipe": "Kata Kerja" },
+  { "kanji": "仕事", "hiragana": "しごと", "arti": "pekerjaan", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ハム", "arti": "daging ham", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ソーセージ", "arti": "sosis", "tipe": "Kata Benda" },
+  { "kanji": "魚", "hiragana": "さかな", "arti": "ikan", "tipe": "Kata Benda" },
+  { "kanji": "缶詰", "hiragana": "かんづめ", "arti": "makanan kaleng", "tipe": "Kata Benda" },
+  { "kanji": "調味料", "hiragana": "ちょうみりょう", "arti": "bumbu", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "パン", "arti": "roti", "tipe": "Kata Benda" },
+  { "kanji": "お菓子", "hiragana": "おかし", "arti": "camilan / permen / kue", "tipe": "Kata Benda" },
+  { "kanji": "弁当", "hiragana": "べんとう", "arti": "bekal / bento", "tipe": "Kata Benda" },
+  { "kanji": "そう菜", "hiragana": "そうさい", "arti": "lauk pauk", "tipe": "Kata Benda" },
+  { "kanji": "冷凍食品", "hiragana": "れいとうしょくひん", "arti": "makanan beku", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "など", "arti": "dan lain-lain", "tipe": "Kata Keterangan" },
+  { "kanji": "食料品製造業", "hiragana": "しょくりょうひんせいぞうぎょう", "arti": "industri manufaktur produk makanan", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ジュース", "arti": "jus", "tipe": "Kata Benda" },
+  { "kanji": "お茶", "hiragana": "おちゃ", "arti": "teh", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "コーヒー", "arti": "kopi", "tipe": "Kata Benda" },
+  { "kanji": "飲料製造業", "hiragana": "いんりょうせいぞうぎょう", "arti": "industri manufaktur minuman", "tipe": "Kata Benda" },
+  { "kanji": "業", "hiragana": "ぎょう", "arti": "industri / bisnis", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ある", "arti": "ada (untuk benda mati)", "tipe": "Kata Kerja" },
+  { "kanji": "農林水産省", "hiragana": "のうりんすいさんしょう", "arti": "Kementerian Pertanian, Kehutanan, dan Perikanan", "tipe": "Kata Benda" },
+  { "kanji": "統計", "hiragana": "とうけい", "arti": "statistik", "tipe": "Kata Benda" },
+  { "kanji": "日本", "hiragana": "にほん", "arti": "Jepang", "tipe": "Kata Benda" },
+  { "kanji": "食品製造業", "hiragana": "しょくひんせいぞうぎょう", "arti": "industri manufaktur makanan", "tipe": "Kata Benda" },
+  { "kanji": "国内", "hiragana": "こくない", "arti": "dalam negeri / domestik", "tipe": "Kata Benda" },
+  { "kanji": "生産額", "hiragana": "せいさんがく", "arti": "nilai produksi", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "ここ", "arti": "di sini / ini (waktu akhir-akhir ini)", "tipe": "Kata Benda" },
+  { "kanji": "数年", "hiragana": "すうねん", "arti": "beberapa tahun", "tipe": "Kata Benda" },
+  { "kanji": "約", "hiragana": "やく", "arti": "kira-kira / sekitar", "tipe": "Kata Keterangan" },
+  { "kanji": "兆", "hiragana": "ちょう", "arti": "triliun", "tipe": "Kata Benda" },
+  { "kanji": "円", "hiragana": "えん", "arti": "Yen (mata uang Jepang)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "なる", "arti": "menjadi", "tipe": "Kata Kerja" },
+  { "kanji": "動き", "hiragana": "うごき", "arti": "pergerakan / tren", "tipe": "Kata Benda" },
+  { "kanji": "単位", "hiragana": "たんい", "arti": "unit / satuan", "tipe": "Kata Benda" },
+  { "kanji": "十億円", "hiragana": "じゅうおくえん", "arti": "miliar yen", "tipe": "Kata Benda" },
+  { "kanji": "年", "hiragana": "ねん", "arti": "tahun", "tipe": "Kata Benda" },
+  { "kanji": "その他", "hiragana": "そのた", "arti": "lain-lain", "tipe": "Kata Benda" },
+  { "kanji": "飲料品", "hiragana": "いんりょうひん", "arti": "produk minuman", "tipe": "Kata Benda" },
+  { "kanji": "畜産食料品", "hiragana": "ちくさんしょくりょうひん", "arti": "produk makanan hewani (peternakan)", "tipe": "Kata Benda" },
+  { "kanji": "菓子類", "hiragana": "かしるい", "arti": "jenis gula-gula / kue", "tipe": "Kata Benda" },
+  { "kanji": "水産食料品", "hiragana": "すいさんしょくりょうひん", "arti": "produk makanan hasil laut (perikanan)", "tipe": "Kata Benda" },
+  { "kanji": "", "hiragana": "すし", "arti": "sushi", "tipe": "Kata Benda" },
+  { "kanji": "食肉", "hiragana": "しょくにく", "arti": "daging (untuk dimakan)", "tipe": "Kata Benda" },
+  { "kanji": "精穀", "hiragana": "せいこく", "arti": "biji-bijian giling", "tipe": "Kata Benda" },
+  { "kanji": "製粉", "hiragana": "せいふん", "arti": "penggilingan tepung", "tipe": "Kata Benda" },
+  { "kanji": "パン類", "hiragana": "パンるい", "arti": "jenis roti", "tipe": "Kata Benda" },
+  { "kanji": "めん類", "hiragana": "めんるい", "arti": "jenis mie", "tipe": "Kata Benda" },
+  { "kanji": "冷凍調理食品", "hiragana": "れいとうちょうりしょくひん", "arti": "makanan olahan beku", "tipe": "Kata Benda" },
+  { "kanji": "レトルト食品", "hiragana": "レトルトしょくひん", "arti": "makanan retort (makanan siap saji dalam kantong kedap udara)", "tipe": "Kata Benda" },
+  { "kanji": "分類", "hiragana": "ぶんるい", "arti": "klasifikasi / kategori", "tipe": "Kata Benda" },
+  { "kanji": "割合", "hiragana": "わりあい", "arti": "rasio / persentase", "tipe": "Kata Benda" },
+  { "kanji": "出典", "hiragana": "しゅってん", "arti": "sumber (referensi)", "tipe": "Kata Benda" },
+  { "kanji": "令和", "hiragana": "れいわ", "arti": "Reiwa (Era Jepang mulai 2019)", "tipe": "Kata Benda" },
+  { "kanji": "農業", "hiragana": "のうぎょう", "arti": "pertanian", "tipe": "Kata Benda" },
+  { "kanji": "食料", "hiragana": "しょくりょう", "arti": "bahan pangan / pangan", "tipe": "Kata Benda" },
+  { "kanji": "関連", "hiragana": "かんれん", "arti": "hubungan / kaitan", "tipe": "Kata Benda" },
+  { "kanji": "産業", "hiragana": "さんぎょう", "arti": "industri", "tipe": "Kata Benda" },
+  { "kanji": "経済計算", "hiragana": "けいざいけいさん", "arti": "perhitungan ekonomi", "tipe": "Kata Benda" },
+  { "kanji": "概算", "hiragana": "がいさん", "arti": "perkiraan kasar / estimasi", "tipe": "Kata Benda" }
 ]
